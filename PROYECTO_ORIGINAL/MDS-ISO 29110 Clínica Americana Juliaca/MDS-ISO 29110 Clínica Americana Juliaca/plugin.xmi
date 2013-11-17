@@ -216,6 +216,9 @@
               </containedArtifacts>
             </containedArtifacts>
           </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="__gYRkE9SEeOLrv7b1Xd62g" name="MI PRIMERA TAREA" guid="__gYRkE9SEeOLrv7b1Xd62g" presentationName="MI PRIMERA TAREA" briefDescription="EDWIN.CALSIN.ACADEMICO">
+            <methodElementProperty xmi:id="_CLudgE9TEeOLrv7b1Xd62g" name="me_edited" value="true"/>
+          </contentElements>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_NetELEwSEeOMSJp31xEydQ" name="CapabilityPatterns" guid="_NetELEwSEeOMSJp31xEydQ"/>
