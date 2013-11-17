@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SVGHbYHh66ePE4cw-0mTJA" name="new_artifact,_hpmUQE9AEeOnwdUxxNzrEQ" guid="-SVGHbYHh66ePE4cw-0mTJA" changeDate="2013-11-16T23:27:50.647-0500">
+  <mainDescription>&lt;p>&#xD;
+    Nombre: Repositorio del Proyecto&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Destino: Implementacion de Software&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

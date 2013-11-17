@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-yKqf9njMEfSvge9iVPcMGA" name="new_artifact,_WZmmsE9AEeOnwdUxxNzrEQ" guid="-yKqf9njMEfSvge9iVPcMGA" changeDate="2013-11-16T23:26:36.116-0500">
+  <mainDescription>&lt;p>&#xD;
+    Nombre: Acta de Aceptación&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Destino: Alta Dirección&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>
