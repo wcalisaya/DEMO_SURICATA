@@ -44,6 +44,7 @@
     <resourceDescriptors xmi:id="_gaDGAE9CEeO5T417xAPjhw" id="-cASHVQoE81N71-diPFYTMw" uri="disciplines/Analisis%20de%20Requerimientos.xmi"/>
     <resourceDescriptors xmi:id="_GYofoE9PEeOyr_b1EnWnpQ" id="-Jz_2cHllWUnt_vJRgvuw_w" uri="tasks/5.1%20hola%20hola.xmi"/>
     <resourceDescriptors xmi:id="_gJmjUE9PEeOLrv7b1Xd62g" id="-2c9REOEtqNqFDPK-q8jscQ" uri="tasks/5.6%20edwin.xmi"/>
+    <resourceDescriptors xmi:id="_d37wwE9REeOh9YgZGBhHow" id="-oPOuiEHEAqn1NOOBhpXlaA" uri="disciplines/disciplina%20de%20magwi.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_PBGR0CXwEeOrTZt0HpRXgg" name="Metodología de Software ISO 29110 Clínica Americana" guid="_PBGR0CXwEeOrTZt0HpRXgg" presentationName="Metodología de Software ISO 29110 Clínica Americana" authors="- Edwin Calsin Quinto - William Calisaya Pari" changeDate="2013-11-11T11:06:27.985-0500">
     <methodElementProperty xmi:id="_PBM_gCXwEeOrTZt0HpRXgg" name="plugin_synFree" value="true"/>
@@ -87,11 +88,15 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_eAy_wCX6EeOrTZt0HpRXgg" name="Arquitectura" guid="_eAy_wCX6EeOrTZt0HpRXgg" presentationName="Arquitectura">
             <methodElementProperty xmi:id="_k_nMACX6EeOrTZt0HpRXgg" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_9zm2oEqEEeOtQaItoraa5Q" name="DISCIPLINAS ISO 29110" guid="_9zm2oEqEEeOtQaItoraa5Q" presentationName="DISCIPLINAS ISO 29110" disciplines="_5Op8ME9PEeOLrv7b1Xd62g">
+          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_9zm2oEqEEeOtQaItoraa5Q" name="DISCIPLINAS ISO 29110" guid="_9zm2oEqEEeOtQaItoraa5Q" presentationName="DISCIPLINAS ISO 29110" disciplines="_5Op8ME9PEeOLrv7b1Xd62g _baNKEE9REeOh9YgZGBhHow">
             <methodElementProperty xmi:id="_wOGNwEqFEeOtQaItoraa5Q" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_5Op8ME9PEeOLrv7b1Xd62g" name="mi disc edwin" guid="_5Op8ME9PEeOLrv7b1Xd62g" presentationName="mi disc edwin">
             <methodElementProperty xmi:id="_7XTDsE9PEeOLrv7b1Xd62g" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_baNKEE9REeOh9YgZGBhHow" name="disciplina de magwi" guid="_baNKEE9REeOh9YgZGBhHow" presentationName="disciplina de magwi" briefDescription="disciplina de magwi">
+            <methodElementProperty xmi:id="_d33fUE9REeOh9YgZGBhHow" name="me_edited" value="true"/>
+            <presentation xmi:id="-oPOuiEHEAqn1NOOBhpXlaA" href="uma://-oPOuiEHEAqn1NOOBhpXlaA#-oPOuiEHEAqn1NOOBhpXlaA"/>
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PBGR1SXwEeOrTZt0HpRXgg" name="RoleSets" guid="_PBGR1SXwEeOrTZt0HpRXgg">
