@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-h0dAwlG6cfdIprWF9--12g" name="(IS.1) Inicio de la Implementación de Software,_cTTpcEwpEeOMSJp31xEydQ" guid="-h0dAwlG6cfdIprWF9--12g" changeDate="2013-11-17T16:00:21.265-0500">
+  <mainDescription>&lt;p>&#xD;
+    La actividad Inicio de la Implementación del Software asegura que el Plan del Proyecto establecido en la actividad&#xD;
+    Planeación del Proyecto es llevado a cabo por el Equipo de Trabajo. La actividad provee:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        La revisión del &lt;em>Plan del Proyecto&lt;/em> por parte del &lt;em>Equipo de Trabajo&lt;/em> para determinar la asignación&#xD;
+        de las &lt;em>Tareas&lt;/em>.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        El compromiso por parte del Equipo de Trabajo y del Gestor de Proyecto con el &lt;em>Plan del Proyecto&lt;/em>.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        El establecimiento de un ambiente para la implementación.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

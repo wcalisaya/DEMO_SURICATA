@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--KtG2BM85pp-MZw3GGP4sg" name=",_Hw0IME_LEeO26cQ3jgxm8w" guid="--KtG2BM85pp-MZw3GGP4sg" changeDate="2013-11-17T16:25:23.662-0500">
+  <mainDescription>Revisar el Plan del Proyecto actual con los miembros del Equipo de Trabajo con la finalidad de lograr un entendimiento&#xD;
+común y obtener su compromiso con el proyecto.</mainDescription>
+  <keyConsiderations>IS.1.1</keyConsiderations>
+</org.eclipse.epf.uma:TaskDescription>

@@ -31,6 +31,9 @@
     <resourceDescriptors xmi:id="_RHn40E_GEeO26cQ3jgxm8w" id="-dylkhqWk1VLwFTLjdWb3mQ" uri="tasks/(GP%201.4)%20Asignar%20fecha%20para%20la%20duracion%20de%20tareas.xmi"/>
     <resourceDescriptors xmi:id="_aGXVcE_GEeO26cQ3jgxm8w" id="--YKEFAQTtSmV6jnbrjpu9w" uri="tasks/(GP%201.5)%20Aceptacion%20del%20plan%20de%20proyecto%20por%20parte%20del%20cliente.xmi"/>
     <resourceDescriptors xmi:id="_j9ADYE_GEeO26cQ3jgxm8w" id="-juxCKKPHVnEkfdJnf-StzQ" uri="tasks/(GP%201.6)%20Establecer%20el%20repositorio%20del%20proyecto.xmi"/>
+    <resourceDescriptors xmi:id="_1K3j8E_OEeO26cQ3jgxm8w" id="-h0dAwlG6cfdIprWF9--12g" uri="disciplines/(IS.1)%20Inicio%20de%20la%20Implementación%20de%20Software.xmi"/>
+    <resourceDescriptors xmi:id="_1LDKIE_OEeO26cQ3jgxm8w" id="--KtG2BM85pp-MZw3GGP4sg" uri="tasks/(IS%201.1)%20Revisar%20el%20Plan%20de%20proyecto%20con%20el%20equipo%20de%20trabajo.xmi"/>
+    <resourceDescriptors xmi:id="_nOV3UE_REeO26cQ3jgxm8w" id="-OrK_Qe3TfrpjJsQe57qmlw" uri="tasks/(IS%201.2)%20Establecer%20el%20ambiente%20de%20trabajo.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_NesdEEwSEeOMSJp31xEydQ" name="MDS-ISO 29110 Clínica Americana Juliaca" guid="_NesdEEwSEeOMSJp31xEydQ" presentationName="MDS-ISO 29110 Clínica Americana Juliaca" briefDescription="Documentacion para el desarrollo de software basado en la ISO 29110" authors="Edwin Calsin Quinto William Calisaya Pari" changeDate="2013-11-12T22:19:43.456-0500" version="0.1">
     <methodElementProperty xmi:id="_NeyjsEwSEeOMSJp31xEydQ" name="plugin_synFree" value="true"/>
@@ -64,6 +67,7 @@
             <presentation xmi:id="-IRHEZNP2upy8PQA8W_kqyw" href="uma://-IRHEZNP2upy8PQA8W_kqyw#-IRHEZNP2upy8PQA8W_kqyw"/>
             <subdiscipline xmi:id="_cTTpcEwpEeOMSJp31xEydQ" name="(IS.1) Inicio de la Implementación de Software" guid="_cTTpcEwpEeOMSJp31xEydQ" presentationName="(IS.1) Inicio de la Implementación de Software">
               <methodElementProperty xmi:id="_tzs-EEwpEeOMSJp31xEydQ" name="me_edited" value="true"/>
+              <presentation xmi:id="-h0dAwlG6cfdIprWF9--12g" href="uma://-h0dAwlG6cfdIprWF9--12g#-h0dAwlG6cfdIprWF9--12g"/>
             </subdiscipline>
             <subdiscipline xmi:id="_mVF3cEwpEeOMSJp31xEydQ" name="(IS.2) Análisis de Requisitos del Software" guid="_mVF3cEwpEeOMSJp31xEydQ" presentationName="(IS.2) Análisis de Requisitos del Software">
               <methodElementProperty xmi:id="_tz9cwEwpEeOMSJp31xEydQ" name="me_edited" value="true"/>
@@ -290,6 +294,14 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_aF7QkE_GEeO26cQ3jgxm8w" name="(GP 1.6) Establecer el repositorio del proyecto" guid="_aF7QkE_GEeO26cQ3jgxm8w" presentationName="(GP 1.6) Establecer el repositorio del proyecto" briefDescription="Establecer el repositorio del proyecto">
             <methodElementProperty xmi:id="_kB1gEE_GEeO26cQ3jgxm8w" name="me_edited" value="true"/>
             <presentation xmi:id="-juxCKKPHVnEkfdJnf-StzQ" href="uma://-juxCKKPHVnEkfdJnf-StzQ#-juxCKKPHVnEkfdJnf-StzQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Hw0IME_LEeO26cQ3jgxm8w" name="(IS 1.1) Revisar el Plan de proyecto con el equipo de trabajo" guid="_Hw0IME_LEeO26cQ3jgxm8w" presentationName="(IS 1.1) Revisar el Plan de proyecto con el equipo de trabajo" briefDescription="Revisar el Plan de proyecto con el equipo de trabajo">
+            <methodElementProperty xmi:id="_nOSM8E_REeO26cQ3jgxm8w" name="me_edited" value="true"/>
+            <presentation xmi:id="--KtG2BM85pp-MZw3GGP4sg" href="uma://--KtG2BM85pp-MZw3GGP4sg#--KtG2BM85pp-MZw3GGP4sg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_1Kd7UE_OEeO26cQ3jgxm8w" name="(IS 1.2) Establecer el ambiente de trabajo" guid="_1Kd7UE_OEeO26cQ3jgxm8w" presentationName="(IS 1.2) Establecer el ambiente de trabajo" briefDescription="Establecer el ambiente de trabajo">
+            <methodElementProperty xmi:id="_nO9iYE_REeO26cQ3jgxm8w" name="me_edited" value="true"/>
+            <presentation xmi:id="-OrK_Qe3TfrpjJsQe57qmlw" href="uma://-OrK_Qe3TfrpjJsQe57qmlw#-OrK_Qe3TfrpjJsQe57qmlw"/>
           </contentElements>
         </childPackages>
       </childPackages>
