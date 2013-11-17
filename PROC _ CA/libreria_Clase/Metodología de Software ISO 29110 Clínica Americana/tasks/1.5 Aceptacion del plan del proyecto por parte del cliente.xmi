@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EgYOBBpnyBfn9nwjGLfcxA" name=",_vO97AExREeOCPuBPGiLLZA" guid="-EgYOBBpnyBfn9nwjGLfcxA" changeDate="2013-11-13T05:53:39.858-0500">
+  <mainDescription>&lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 8pt&quot;>&#xD;
+    &lt;span style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; LINE-HEIGHT: 107%&quot;>Revisar y obtener la aprobación&#xD;
+    del&amp;nbsp; Plan del Proyecto.&lt;br />&#xD;
+     El Cliente revisa y acepta el Plan del Proyecto, asegurándose que los elementos contenidos en el Plan del Proyecto&#xD;
+    corresponden con el Enunciado de Trabajo.&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 8pt&quot;>&#xD;
+    &lt;span style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; LINE-HEIGHT: 107%&quot;>GP.1.14&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
+</org.eclipse.epf.uma:TaskDescription>

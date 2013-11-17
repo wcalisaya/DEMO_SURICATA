@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-4rDG5iFYVziM7yK_ikSB4Q" name="new_artifact,_jgGWQCt6EeORsJtvWO1AZA" guid="-4rDG5iFYVziM7yK_ikSB4Q" changeDate="2013-10-02T10:52:19.883-0500">
+  <mainDescription>&lt;ol>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;TEXT-TRANSFORM: none; TEXT-INDENT: 0px; DISPLAY: inline !important; FONT: italic 13px/16px Arial; WHITE-SPACE: normal; FLOAT: none; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px&quot;>&#xD;
+        Progreso Record Status&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;TEXT-TRANSFORM: none; TEXT-INDENT: 0px; DISPLAY: inline !important; FONT: italic 13px/16px Arial; WHITE-SPACE: normal; FLOAT: none; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px&quot;>&#xD;
+        &lt;span&#xD;
+        style=&quot;TEXT-TRANSFORM: none; TEXT-INDENT: 0px; DISPLAY: inline !important; FONT: italic 13px/16px Arial; WHITE-SPACE: normal; FLOAT: none; LETTER-SPACING: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px&quot;>&#xD;
+        Progreso Record Status [evaluada]&lt;/span>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ol></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>

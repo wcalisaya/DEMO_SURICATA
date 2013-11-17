@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rGjAXAFWWbtOjC7_Xfuv3g" name="new_role,_n73woEaaEeOISsj475pt4g" guid="-rGjAXAFWWbtOjC7_Xfuv3g" changeDate="2013-11-05T23:20:23.477-0500">
+  <mainDescription>&lt;p>&#xD;
+    El Equipo de Desarrollo consiste en los profesionales que desempeñan el trabajo de entregar un Incremento de producto&#xD;
+    “Hecho”, potencialmente utilizable, al final de cada Sprint. Sólo los miembros del Equipo de Desarrollo participan en&#xD;
+    la creación del Incremento.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Los Equipos de Desarrollo se estructuran y reciben poderes por parte de la organización para organizar y gestionar su&#xD;
+    propio trabajo. La sinergia resultante optimiza la eficiencia y efectividad general del Equipo de Desarrollo. Los&#xD;
+    Equipos de Desarrollo tienen las siguientes características:&#xD;
+&lt;/p>&#xD;
+&lt;ol>&#xD;
+    &lt;li>&#xD;
+        Son autoorganizados. Nadie (ni siquiera el Scrum Master) indica al Equipo de Desarrollo cómo convertir elementos de&#xD;
+        la Pila de Producto en Incrementos de funcionalidad potencialmente entregables.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Los Equipos de Desarrollo son multifuncionales, contando como equipo con todas las habilidades necesarias para&#xD;
+        crear un Incremento de producto.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Scrum no reconoce títulos para los miembros de un Equipo de Desarrollo, todos son desarrolladores.&#xD;
+        Independientemente del trabajo que realice cada persona, no hay excepciones a esta regla.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Miembros individuales del Equipo de Desarrollo pueden tener habilidades especializadas o áreas en las que estén más&#xD;
+        enfocados, pero la responsabilidad recae en el Equipo de desarrollo como un todo.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Los Equipos de Desarrollo no contienen sub-equipos dedicados a dominios concretos como pruebas o análisis de&#xD;
+        negocio.&#xD;
+    &lt;/li>&#xD;
+&lt;/ol>&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    &lt;strong>Tamaño del Equipo de Desarrollo&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font face=&quot;@Arial Unicode MS&quot;>&lt;font face=&quot;Arial&quot;>El tamaño óptimo del Equipo de Desarrollo es lo suficientemente&#xD;
+    pequeño como para permanecer ágil, y lo suficientemente grande como para completar una cantidad de trabajo&#xD;
+    significativa. Tener menos de tres miembros en el Equipo de Desarrollo reduce la interacción y resulta en ganancias de&#xD;
+    productividad más pequeñas. Los Equipos de Desarrollo más pequeños podrían encontrar limitaciones en cuanto a las&#xD;
+    habilidades necesarias durante un Sprint, haciendo que el Equipo de Desarrollo no pudiese entregar un Incremento&#xD;
+    potencialmente utilizable. Tener más de nueve miembros en el equipo requiere demasiada coordinación. Los Equipos de&#xD;
+    Desarrollo grandes generan demasiada complejidad como para que pueda ser gestionada mediante un proceso empírico. Los&#xD;
+    roles de Dueño de Producto y Scrum Master no computan en el cálculo del tamaño del equipo a menos que estén también&#xD;
+    contribuyendo a trabajar en la Pila de Sprint (Sprint Backlog).&lt;br />&#xD;
+    &lt;/font>&amp;nbsp;&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

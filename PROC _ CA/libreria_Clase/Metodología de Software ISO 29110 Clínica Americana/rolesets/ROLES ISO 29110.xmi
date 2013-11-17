@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Fd6JInzn9ac5eE4wK54dtA" name="EQUIPO,_Noo7ACX5EeOrTZt0HpRXgg" guid="-Fd6JInzn9ac5eE4wK54dtA" changeDate="2013-11-10T22:52:39.853-0500">
+  <mainDescription>Roles indentificados segun la metodologia SCRUM basados&amp;nbsp; en la ISO 29110</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

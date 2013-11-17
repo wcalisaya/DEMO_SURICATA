@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mr2JrvGzXuoP_vbaPIXlug" name="new_artifact,_40xL0EqJEeOtQaItoraa5Q" guid="-mr2JrvGzXuoP_vbaPIXlug" changeDate="2013-11-10T23:30:29.801-0500">
+  <mainDescription>&lt;p>&#xD;
+    Nombre: Acta de Reunión.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Destino: Cliente.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>
