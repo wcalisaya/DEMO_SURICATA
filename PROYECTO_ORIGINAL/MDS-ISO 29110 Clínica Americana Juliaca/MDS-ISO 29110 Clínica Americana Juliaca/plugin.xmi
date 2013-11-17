@@ -98,6 +98,7 @@
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_U3zW8E-nEeO-bLJ5HHk0ew" name="MODELO" guid="_U3zW8E-nEeO-bLJ5HHk0ew" presentationName="MODELO" shapeicon="customcategories/resources/docs_apps_scripts-64.gif" categorizedElements="_SIrMAEwqEeOMSJp31xEydQ _h0Nn4EwWEeOMSJp31xEydQ">
             <methodElementProperty xmi:id="_datMIE-nEeO-bLJ5HHk0ew" name="me_edited" value="true"/>
             <methodElementProperty xmi:id="_80ddQE-nEeO-bLJ5HHk0ew" name="CategoryElementsSortType" value="Alphabetic"/>
+            <methodElementProperty xmi:id="_vsMKAE-oEeO-bLJ5HHk0ew" name="PUBLISH_CATEGORY" value="true"/>
           </contentElements>
         </childPackages>
       </childPackages>
