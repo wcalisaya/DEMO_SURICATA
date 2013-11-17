@@ -45,6 +45,7 @@
     <resourceDescriptors xmi:id="_GYofoE9PEeOyr_b1EnWnpQ" id="-Jz_2cHllWUnt_vJRgvuw_w" uri="tasks/5.1%20hola%20hola.xmi"/>
     <resourceDescriptors xmi:id="_gJmjUE9PEeOLrv7b1Xd62g" id="-2c9REOEtqNqFDPK-q8jscQ" uri="tasks/5.6%20edwin.xmi"/>
     <resourceDescriptors xmi:id="_d37wwE9REeOh9YgZGBhHow" id="-oPOuiEHEAqn1NOOBhpXlaA" uri="disciplines/disciplina%20de%20magwi.xmi"/>
+    <resourceDescriptors xmi:id="_OgLuME9SEeOO7rkfEJehIQ" id="-WB3jmsF_FMfxXRNj-TCQJg" uri="disciplines/suricata.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_PBGR0CXwEeOrTZt0HpRXgg" name="Metodología de Software ISO 29110 Clínica Americana" guid="_PBGR0CXwEeOrTZt0HpRXgg" presentationName="Metodología de Software ISO 29110 Clínica Americana" authors="- Edwin Calsin Quinto - William Calisaya Pari" changeDate="2013-11-11T11:06:27.985-0500">
     <methodElementProperty xmi:id="_PBM_gCXwEeOrTZt0HpRXgg" name="plugin_synFree" value="true"/>
@@ -100,6 +101,7 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_w4oagE9REeOLrv7b1Xd62g" name="suricata" guid="_w4oagE9REeOLrv7b1Xd62g" presentationName="suricata" briefDescription="suricata">
             <methodElementProperty xmi:id="_yvo_cE9REeOLrv7b1Xd62g" name="me_edited" value="true"/>
+            <presentation xmi:id="-WB3jmsF_FMfxXRNj-TCQJg" href="uma://-WB3jmsF_FMfxXRNj-TCQJg#-WB3jmsF_FMfxXRNj-TCQJg"/>
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PBGR1SXwEeOrTZt0HpRXgg" name="RoleSets" guid="_PBGR1SXwEeOrTZt0HpRXgg">
