@@ -216,6 +216,9 @@
               </containedArtifacts>
             </containedArtifacts>
           </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_HUZrsE9MEeO-TPDEKm6mQA" name="magwi" guid="_HUZrsE9MEeO-TPDEKm6mQA" presentationName="magwi">
+            <methodElementProperty xmi:id="_IXDbgE9MEeO-TPDEKm6mQA" name="me_edited" value="true"/>
+          </contentElements>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_NetELEwSEeOMSJp31xEydQ" name="CapabilityPatterns" guid="_NetELEwSEeOMSJp31xEydQ"/>
