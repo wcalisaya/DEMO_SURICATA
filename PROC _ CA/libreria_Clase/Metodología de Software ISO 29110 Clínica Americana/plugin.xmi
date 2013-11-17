@@ -41,6 +41,7 @@
     <resourceDescriptors xmi:id="_QoH-cExaEeOCPuBPGiLLZA" id="-rtyyEErQ_69qrCAMNbOowA" uri="workproducts/Recursos.xmi"/>
     <resourceDescriptors xmi:id="_QoLBwExaEeOCPuBPGiLLZA" id="-dpzO_l5J5QgMS_4XhBc_UA" uri="workproducts/Equipo%20de%20Trabajo.xmi"/>
     <resourceDescriptors xmi:id="_EE5xoExeEeOCPuBPGiLLZA" id="-Il7_pYgOpSEhSREGAzLiUw" uri="guidances/templates/Plan%20del%20Proyecto.xmi"/>
+    <resourceDescriptors xmi:id="_gaDGAE9CEeO5T417xAPjhw" id="-cASHVQoE81N71-diPFYTMw" uri="disciplines/Analisis%20de%20Requerimientos.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_PBGR0CXwEeOrTZt0HpRXgg" name="Metodología de Software ISO 29110 Clínica Americana" guid="_PBGR0CXwEeOrTZt0HpRXgg" presentationName="Metodología de Software ISO 29110 Clínica Americana" authors="- Edwin Calsin Quinto - William Calisaya Pari" changeDate="2013-11-11T11:06:27.985-0500">
     <methodElementProperty xmi:id="_PBM_gCXwEeOrTZt0HpRXgg" name="plugin_synFree" value="true"/>
@@ -79,6 +80,7 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_banAoCX6EeOrTZt0HpRXgg" name="Analisis de Requerimientos" guid="_banAoCX6EeOrTZt0HpRXgg" presentationName="Analisis de Requerimientos">
             <methodElementProperty xmi:id="_dlEtECX6EeOrTZt0HpRXgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-cASHVQoE81N71-diPFYTMw" href="uma://-cASHVQoE81N71-diPFYTMw#-cASHVQoE81N71-diPFYTMw"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_eAy_wCX6EeOrTZt0HpRXgg" name="Arquitectura" guid="_eAy_wCX6EeOrTZt0HpRXgg" presentationName="Arquitectura">
             <methodElementProperty xmi:id="_k_nMACX6EeOrTZt0HpRXgg" name="me_edited" value="true"/>
