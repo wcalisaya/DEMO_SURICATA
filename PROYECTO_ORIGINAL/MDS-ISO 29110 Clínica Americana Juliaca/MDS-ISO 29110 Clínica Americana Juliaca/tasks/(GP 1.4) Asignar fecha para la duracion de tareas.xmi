@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dylkhqWk1VLwFTLjdWb3mQ" name=",_BWTVIE_GEeO26cQ3jgxm8w" guid="-dylkhqWk1VLwFTLjdWb3mQ" changeDate="2013-11-17T15:23:31.622-0500">
+  <mainDescription>&lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 8pt&quot;>&#xD;
+    &lt;span style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; LINE-HEIGHT: 107%&quot;>Asignar las fechas de inicio y fin&#xD;
+    estimadas para cada Tareacon el fin de crear el Cronograma de las Tareas del Proyecto considerando los&#xD;
+    Recursosasignados, la secuencia y dependencia de las Tareas.&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>GP. 1.7</keyConsiderations>
+</org.eclipse.epf.uma:TaskDescription>

@@ -23,9 +23,14 @@
     <resourceDescriptors xmi:id="_K-amsE9JEeOnwdUxxNzrEQ" id="-_S3M65omz80iAb6eDJniXQ" uri="workproducts/2.1.1%20Plan%20del%20Proyecto.xmi"/>
     <resourceDescriptors xmi:id="_T8Ba4E9JEeOnwdUxxNzrEQ" id="-3rP79WZTuYNbowt_pYJhrg" uri="workproducts/2.1.2%20Repositorio%20del%20Proyecto.xmi"/>
     <resourceDescriptors xmi:id="_d6i5gE9JEeOnwdUxxNzrEQ" id="-DubY0AXKJ3j4wWbHFFyQLA" uri="workproducts/2.2%20Productos%20de%20Salida%20(IS).xmi"/>
-    <resourceDescriptors xmi:id="_qB-DsE9cEeO4rNOZzda7hA" id="-ks8f2fSZLliU6She2m8bvQ" uri="tasks/(GP.1)%20Revision%20y%20verificacion%20de%20los%20entregables%20y%20tareas.xmi"/>
+    <resourceDescriptors xmi:id="_qB-DsE9cEeO4rNOZzda7hA" id="-ks8f2fSZLliU6She2m8bvQ" uri="tasks/(GP%201.1)%20Revision%20y%20verificacion%20de%20los%20entregables%20y%20tareas.xmi"/>
     <resourceDescriptors xmi:id="_afopgE-kEeO-bLJ5HHk0ew" id="-0uEvNseOxVtyRytJuQ8q_Q" uri="tasks/(GP%203.1)%20Evaluar%20el%20proceso%20del%20proyecto.xmi"/>
     <resourceDescriptors xmi:id="_PTo1sE-lEeO-bLJ5HHk0ew" id="-umF22hXuxMxTTJEEfZEh6g" uri="tasks/(GP%203.2)%20Establecer%20acciones%20para%20corregir%20desviaciones%20o%20problemas.xmi"/>
+    <resourceDescriptors xmi:id="_gGTUEE_FEeO26cQ3jgxm8w" id="-BS8DLHoZYLxtr1G_wA2Y9g" uri="tasks/(GP%201.2)%20Estableces%20la%20duracion%20estimada%20para%20realizar%20cada%20tarea.xmi"/>
+    <resourceDescriptors xmi:id="_BW05kE_GEeO26cQ3jgxm8w" id="-SugtVHDLRQeA-h9HSfFR8Q" uri="tasks/(GP%201.3)%20Composicion%20del%20equipo%20de%20trabajo,%20asign%20task%20y%20rspsb.xmi"/>
+    <resourceDescriptors xmi:id="_RHn40E_GEeO26cQ3jgxm8w" id="-dylkhqWk1VLwFTLjdWb3mQ" uri="tasks/(GP%201.4)%20Asignar%20fecha%20para%20la%20duracion%20de%20tareas.xmi"/>
+    <resourceDescriptors xmi:id="_aGXVcE_GEeO26cQ3jgxm8w" id="--YKEFAQTtSmV6jnbrjpu9w" uri="tasks/(GP%201.5)%20Aceptacion%20del%20plan%20de%20proyecto%20por%20parte%20del%20cliente.xmi"/>
+    <resourceDescriptors xmi:id="_j9ADYE_GEeO26cQ3jgxm8w" id="-juxCKKPHVnEkfdJnf-StzQ" uri="tasks/(GP%201.6)%20Establecer%20el%20repositorio%20del%20proyecto.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_NesdEEwSEeOMSJp31xEydQ" name="MDS-ISO 29110 Clínica Americana Juliaca" guid="_NesdEEwSEeOMSJp31xEydQ" presentationName="MDS-ISO 29110 Clínica Americana Juliaca" briefDescription="Documentacion para el desarrollo de software basado en la ISO 29110" authors="Edwin Calsin Quinto William Calisaya Pari" changeDate="2013-11-12T22:19:43.456-0500" version="0.1">
     <methodElementProperty xmi:id="_NeyjsEwSEeOMSJp31xEydQ" name="plugin_synFree" value="true"/>
@@ -230,7 +235,7 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_lfMuAE9aEeOLrv7b1Xd62g" name="(GP 2.1) Monitoriar la ejecucion del plan del proyecto" guid="_lfMuAE9aEeOLrv7b1Xd62g" presentationName="(GP 2.1) Monitoriar la ejecucion del plan del proyecto" briefDescription="Monitoriar la ejecucion del plan del proyecto y registrar la informacion actual en el reporte de avance" performedBy="_UlwUcEwUEeOMSJp31xEydQ _YiGOMEwUEeOMSJp31xEydQ _fYgFUEwUEeOMSJp31xEydQ" mandatoryInput="_MM6JME9AEeOnwdUxxNzrEQ" output="_ZxalIE9CEeOnwdUxxNzrEQ">
             <methodElementProperty xmi:id="_xsrXgE9aEeOLrv7b1Xd62g" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_JmDyAE9cEeO4rNOZzda7hA" name="(GP.1) Revision y verificacion de los entregables y tareas" guid="_JmDyAE9cEeO4rNOZzda7hA" presentationName="(GP.1) Revision y verificacion de los entregables y tareas">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_JmDyAE9cEeO4rNOZzda7hA" name="(GP 1.1) Revision y verificacion de los entregables y tareas" guid="_JmDyAE9cEeO4rNOZzda7hA" presentationName="(GP 1.1) Revision y verificacion de los entregables y tareas">
             <methodElementProperty xmi:id="_qB5yQE9cEeO4rNOZzda7hA" name="me_edited" value="true"/>
             <presentation xmi:id="-ks8f2fSZLliU6She2m8bvQ" href="uma://-ks8f2fSZLliU6She2m8bvQ#-ks8f2fSZLliU6She2m8bvQ"/>
           </contentElements>
@@ -265,6 +270,26 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_jLpsgE-mEeO-bLJ5HHk0ew" name="(GP 4.2) Actualizar el Repositorio del Proyecto" guid="_jLpsgE-mEeO-bLJ5HHk0ew" presentationName="(GP 4.2) Actualizar el Repositorio del Proyecto" briefDescription="Actualizar el Repositorio del Proyecto" performedBy="_UlwUcEwUEeOMSJp31xEydQ" mandatoryInput="_Uz0fME9BEeOnwdUxxNzrEQ _hpmUQE9AEeOnwdUxxNzrEQ" output="_hpmUQE9AEeOnwdUxxNzrEQ">
             <methodElementProperty xmi:id="_sp4hgE-mEeO-bLJ5HHk0ew" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_KJFO0E_FEeO26cQ3jgxm8w" name="(GP 1.2) Estableces la duracion estimada para realizar cada tarea" guid="_KJFO0E_FEeO26cQ3jgxm8w" presentationName="(GP 1.2) Estableces la duracion estimada para realizar cada tarea" briefDescription="Establecer la Duración estimada para realizar cada Tarea">
+            <methodElementProperty xmi:id="_j_YpAE_GEeO26cQ3jgxm8w" name="me_edited" value="true"/>
+            <presentation xmi:id="-BS8DLHoZYLxtr1G_wA2Y9g" href="uma://-BS8DLHoZYLxtr1G_wA2Y9g#-BS8DLHoZYLxtr1G_wA2Y9g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_gFv6cE_FEeO26cQ3jgxm8w" name="(GP 1.3) Composicion del equipo de trabajo, asign task y rspsb" guid="_gFv6cE_FEeO26cQ3jgxm8w" presentationName="(GP 1.3) Composicion del equipo de trabajo, asign task y rspsb" briefDescription="Establecer la Composición del Equipo de Trabajo, asignando los roles y responsabilidades acordes a los Recursos.">
+            <methodElementProperty xmi:id="_j_syEE_GEeO26cQ3jgxm8w" name="me_edited" value="true"/>
+            <presentation xmi:id="-SugtVHDLRQeA-h9HSfFR8Q" href="uma://-SugtVHDLRQeA-h9HSfFR8Q#-SugtVHDLRQeA-h9HSfFR8Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_BWTVIE_GEeO26cQ3jgxm8w" name="(GP 1.4) Asignar fecha para la duracion de tareas" guid="_BWTVIE_GEeO26cQ3jgxm8w" presentationName="(GP 1.4) Asignar fecha para la duracion de tareas" briefDescription="Asignar fecha para la duracion de tareas">
+            <methodElementProperty xmi:id="_kAmJ8E_GEeO26cQ3jgxm8w" name="me_edited" value="true"/>
+            <presentation xmi:id="-dylkhqWk1VLwFTLjdWb3mQ" href="uma://-dylkhqWk1VLwFTLjdWb3mQ#-dylkhqWk1VLwFTLjdWb3mQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_RHGUYE_GEeO26cQ3jgxm8w" name="(GP 1.5) Aceptacion del plan de proyecto por parte del cliente" guid="_RHGUYE_GEeO26cQ3jgxm8w" presentationName="(GP 1.5) Aceptacion del plan de proyecto por parte del cliente" briefDescription="Aceptacion del plan de proyecto por parte del cliente">
+            <methodElementProperty xmi:id="_kA6TAE_GEeO26cQ3jgxm8w" name="me_edited" value="true"/>
+            <presentation xmi:id="--YKEFAQTtSmV6jnbrjpu9w" href="uma://--YKEFAQTtSmV6jnbrjpu9w#--YKEFAQTtSmV6jnbrjpu9w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_aF7QkE_GEeO26cQ3jgxm8w" name="(GP 1.6) Establecer el repositorio del proyecto" guid="_aF7QkE_GEeO26cQ3jgxm8w" presentationName="(GP 1.6) Establecer el repositorio del proyecto" briefDescription="Establecer el repositorio del proyecto">
+            <methodElementProperty xmi:id="_kB1gEE_GEeO26cQ3jgxm8w" name="me_edited" value="true"/>
+            <presentation xmi:id="-juxCKKPHVnEkfdJnf-StzQ" href="uma://-juxCKKPHVnEkfdJnf-StzQ#-juxCKKPHVnEkfdJnf-StzQ"/>
           </contentElements>
         </childPackages>
       </childPackages>

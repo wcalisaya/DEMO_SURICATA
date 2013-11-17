@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-juxCKKPHVnEkfdJnf-StzQ" name=",_aF7QkE_GEeO26cQ3jgxm8w" guid="-juxCKKPHVnEkfdJnf-StzQ" changeDate="2013-11-17T15:26:21.941-0500">
+  <mainDescription>&lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 8pt&quot;>&#xD;
+    &lt;span style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; LINE-HEIGHT: 107%&quot;>Establecer el Repositorio del&#xD;
+    Proyecto usando la Estrategia de Control de Versiones.&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>GP.1.15</keyConsiderations>
+</org.eclipse.epf.uma:TaskDescription>
