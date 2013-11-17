@@ -39,6 +39,8 @@
     <resourceDescriptors xmi:id="_GAYg0E_VEeO26cQ3jgxm8w" id="-e8NCDYquX58wbkzGLoSQng" uri="tasks/(IS%202.2)%20Documentar%20y%20actualizar%20las%20Especificacion%20de%20Requisitos.xmi"/>
     <resourceDescriptors xmi:id="_AZMZYE_WEeO26cQ3jgxm8w" id="-VZCDsXivmnkE7Wg3fAgUyA" uri="tasks/(IS%202.3)%20Verificar%20la%20aprobacion%20de%20Especificacion%20de%20Requisitos.xmi"/>
     <resourceDescriptors xmi:id="_puWHME_XEeO26cQ3jgxm8w" id="-mxUznnrolxqiT6eukSSAug" uri="tasks/(IS%202.4)%20Validar%20la%20aprobacion%20de%20Especicificacion%20de%20Requisitos.xmi"/>
+    <resourceDescriptors xmi:id="_pjiv8E_YEeO26cQ3jgxm8w" id="-xBlrlJ7KN2mSWrxufB0E0g" uri="tasks/(IS%202.5)%20Documentar%20y%20Verificar%20el%20Manul%20de%20Usuario%20Preliminar.xmi"/>
+    <resourceDescriptors xmi:id="_HYV1cE_ZEeO26cQ3jgxm8w" id="-7kXdx4-0h4IOuSNvVqs_2Q" uri="tasks/(IS%202.6)%20Incorporacion%20de%20ER%20y%20el%20MU.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_NesdEEwSEeOMSJp31xEydQ" name="MDS-ISO 29110 Clínica Americana Juliaca" guid="_NesdEEwSEeOMSJp31xEydQ" presentationName="MDS-ISO 29110 Clínica Americana Juliaca" briefDescription="Documentacion para el desarrollo de software basado en la ISO 29110" authors="Edwin Calsin Quinto William Calisaya Pari" changeDate="2013-11-12T22:19:43.456-0500" version="0.1">
     <methodElementProperty xmi:id="_NeyjsEwSEeOMSJp31xEydQ" name="plugin_synFree" value="true"/>
@@ -74,7 +76,7 @@
               <methodElementProperty xmi:id="_tzs-EEwpEeOMSJp31xEydQ" name="me_edited" value="true"/>
               <presentation xmi:id="-h0dAwlG6cfdIprWF9--12g" href="uma://-h0dAwlG6cfdIprWF9--12g#-h0dAwlG6cfdIprWF9--12g"/>
             </subdiscipline>
-            <subdiscipline xmi:id="_mVF3cEwpEeOMSJp31xEydQ" name="(IS.2) Análisis de Requisitos del Software" guid="_mVF3cEwpEeOMSJp31xEydQ" presentationName="(IS.2) Análisis de Requisitos del Software">
+            <subdiscipline xmi:id="_mVF3cEwpEeOMSJp31xEydQ" name="(IS.2) Análisis de Requisitos del Software" guid="_mVF3cEwpEeOMSJp31xEydQ" presentationName="(IS.2) Análisis de Requisitos del Software" tasks="_xhKK8E_REeO26cQ3jgxm8w _c43w8E_UEeO26cQ3jgxm8w _F_28YE_VEeO26cQ3jgxm8w _AYq08E_WEeO26cQ3jgxm8w _-rWFkE_XEeO26cQ3jgxm8w _pjE14E_YEeO26cQ3jgxm8w">
               <methodElementProperty xmi:id="_tz9cwEwpEeOMSJp31xEydQ" name="me_edited" value="true"/>
               <presentation xmi:id="-1VbpPy5Mah_Rfb92IAbSFQ" href="uma://-1VbpPy5Mah_Rfb92IAbSFQ#-1VbpPy5Mah_Rfb92IAbSFQ"/>
             </subdiscipline>
@@ -324,6 +326,14 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_AYq08E_WEeO26cQ3jgxm8w" name="(IS 2.4) Validar la aprobacion de Especicificacion de Requisitos" guid="_AYq08E_WEeO26cQ3jgxm8w" presentationName="(IS 2.4) Validar la aprobacion de Especicificacion de Requisitos" briefDescription="Validar y obtener la aprobación de la Especificación de Requisitos.">
             <methodElementProperty xmi:id="_puR1wE_XEeO26cQ3jgxm8w" name="me_edited" value="true"/>
             <presentation xmi:id="-mxUznnrolxqiT6eukSSAug" href="uma://-mxUznnrolxqiT6eukSSAug#-mxUznnrolxqiT6eukSSAug"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_-rWFkE_XEeO26cQ3jgxm8w" name="(IS 2.5) Documentar y Verificar el Manul de Usuario Preliminar" guid="_-rWFkE_XEeO26cQ3jgxm8w" presentationName="(IS 2.5) Documentar y Verificar el Manul de Usuario Preliminar" briefDescription="Documentar y Verificar el Manul de Usuario Preliminar   *[opcional]">
+            <methodElementProperty xmi:id="_HYRkAE_ZEeO26cQ3jgxm8w" name="me_edited" value="true"/>
+            <presentation xmi:id="-xBlrlJ7KN2mSWrxufB0E0g" href="uma://-xBlrlJ7KN2mSWrxufB0E0g#-xBlrlJ7KN2mSWrxufB0E0g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_pjE14E_YEeO26cQ3jgxm8w" name="(IS 2.6) Incorporacion de ER y el MU" guid="_pjE14E_YEeO26cQ3jgxm8w" presentationName="(IS 2.6) Incorporacion de ER y el MU" briefDescription="Incorporar la Especificación de Requisitosy el *Manual de Usuario * [Opcional]">
+            <methodElementProperty xmi:id="_HaMPkE_ZEeO26cQ3jgxm8w" name="me_edited" value="true"/>
+            <presentation xmi:id="-7kXdx4-0h4IOuSNvVqs_2Q" href="uma://-7kXdx4-0h4IOuSNvVqs_2Q#-7kXdx4-0h4IOuSNvVqs_2Q"/>
           </contentElements>
         </childPackages>
       </childPackages>

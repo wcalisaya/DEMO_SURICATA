@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7kXdx4-0h4IOuSNvVqs_2Q" name=",_pjE14E_YEeO26cQ3jgxm8w" guid="-7kXdx4-0h4IOuSNvVqs_2Q" changeDate="2013-11-17T17:38:41.118-0500">
+  <mainDescription>Incorporar la Especificación de Requisitos y el *Manual de Usuario a la&amp;nbsp; Configuración de Software en la línea base.&#xD;
+*[opcional]</mainDescription>
+  <keyConsiderations>IS 2.7</keyConsiderations>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-xBlrlJ7KN2mSWrxufB0E0g" name=",_-rWFkE_XEeO26cQ3jgxm8w" guid="-xBlrlJ7KN2mSWrxufB0E0g" changeDate="2013-11-17T17:33:21.800-0500">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Documentar la versión preliminar del *Manual de Usuario o actualizar el manual existente. Si es apropiado.&#xD;
+        *(opcional)&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Verificar y obtener la aprobación del Manual de Usuario, si es apropiado. Verificar la consistencia del Manual de&#xD;
+        Usuariocon la Especificación de Requisitos. Los resultados encontrados se documentan en la Resultado de&#xD;
+        Verificación y las correcciones se&lt;br />&#xD;
+        realizan hasta que el documento es aprobado por el AN. Si fueran necesarios cambios significativos, se propone una&#xD;
+        Solicitud de Cambio.&lt;br />&#xD;
+        (opcional)&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  <keyConsiderations>IS 2.5. IS 2.6</keyConsiderations>
+</org.eclipse.epf.uma:TaskDescription>

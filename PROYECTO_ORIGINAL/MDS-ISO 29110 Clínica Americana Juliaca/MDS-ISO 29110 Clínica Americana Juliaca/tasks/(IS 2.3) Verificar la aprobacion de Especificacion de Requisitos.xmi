@@ -12,4 +12,5 @@
         AN. Si fueran necesarios cambios significativos, se propone una &lt;em>Solicitud de Cambio&lt;/em>.&#xD;
     &lt;/li>&#xD;
 &lt;/ul></mainDescription>
+  <keyConsiderations>IS 2.3</keyConsiderations>
 </org.eclipse.epf.uma:TaskDescription>

@@ -12,4 +12,5 @@
         Generar o actualizar la Especificación de Requisitos.&#xD;
     &lt;/li>&#xD;
 &lt;/ul></mainDescription>
+  <keyConsiderations>IS 2.2</keyConsiderations>
 </org.eclipse.epf.uma:TaskDescription>
