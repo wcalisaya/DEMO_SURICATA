@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-yz0yYQIc_qRV2EkyxNYf-w" name=",_6a1D4E_dEeO26cQ3jgxm8w" guid="-yz0yYQIc_qRV2EkyxNYf-w" changeDate="2013-11-17T18:14:40.450-0500">
+  <mainDescription>&lt;p>&#xD;
+    Analizar la&amp;nbsp; Especificación de Requisitospara generar el diseño&amp;nbsp;arquitectónico, su conformación en&#xD;
+    subsistemas y Componente de Software, definir interfaces internas y externas. Describir a detalle, la apariencia y el&#xD;
+    comportamiento de la interfaz, con base en la Especificación de Requisitos de tal forma que los Recursos para su&#xD;
+    implantación puedan preverse.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Proporcionar el detalle de los Componente de&amp;nbsp; Software y sus interfaces para permitir la construcción en una forma&#xD;
+    clara.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Generar o actualizar el Registro de Trazabilidad.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    [Validado, en la linea base]&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    IS 3.3&#xD;
+&lt;/p></keyConsiderations>
+</org.eclipse.epf.uma:TaskDescription>

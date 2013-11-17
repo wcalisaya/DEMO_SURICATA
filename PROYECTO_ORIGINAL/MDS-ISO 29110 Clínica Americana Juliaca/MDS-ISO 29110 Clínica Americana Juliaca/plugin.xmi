@@ -42,6 +42,13 @@
     <resourceDescriptors xmi:id="_pjiv8E_YEeO26cQ3jgxm8w" id="-xBlrlJ7KN2mSWrxufB0E0g" uri="tasks/(IS%202.5)%20Documentar%20y%20Verificar%20el%20Manul%20de%20Usuario%20Preliminar.xmi"/>
     <resourceDescriptors xmi:id="_HYV1cE_ZEeO26cQ3jgxm8w" id="-7kXdx4-0h4IOuSNvVqs_2Q" uri="tasks/(IS%202.6)%20Incorporacion%20de%20ER%20y%20el%20MU.xmi"/>
     <resourceDescriptors xmi:id="_EUa8AE_aEeO26cQ3jgxm8w" id="-gnXsBGQQaXsj4qplfRRMDg" uri="disciplines/(IS.3)%20Arquitectura%20y%20Diseño%20Detallado%20del%20Software.xmi"/>
+    <resourceDescriptors xmi:id="_6bbg0E_dEeO26cQ3jgxm8w" id="-FlTcDrclamblYCtD95GMaw" uri="tasks/(IS%203.1)%20Comprender%20la%20Especificacion%20de%20Requisitos.xmi"/>
+    <resourceDescriptors xmi:id="__Re0UE_eEeO26cQ3jgxm8w" id="-yz0yYQIc_qRV2EkyxNYf-w" uri="tasks/(IS%203.2)%20Documentar%20o%20Update%20el%20Diseño%20de%20Software.xmi"/>
+    <resourceDescriptors xmi:id="_gZn54E_fEeO26cQ3jgxm8w" id="-YR9sHg8-nEG80b_bWhOHfQ" uri="tasks/(IS%203.3)%20verificar%20y%20obtener%20la%20Aprobacion%20del%20Diseño%20de%20Software.xmi"/>
+    <resourceDescriptors xmi:id="_3MChwE_fEeO26cQ3jgxm8w" id="-1ut9tek-01AV6yzp9FOcFg" uri="tasks/(IS%203.4)%20Actualizar%20los%20Casos%20de%20Prueba%20y%20Procedimiento%20de%20Prueba.xmi"/>
+    <resourceDescriptors xmi:id="_YWsv0E_gEeO26cQ3jgxm8w" id="-Kaatzt0h06NjAII5VRGEug" uri="tasks/(IS%203.5)%20Verificar%20la%20Aprobacion%20de%20Casos%20de%20Prueba.xmi"/>
+    <resourceDescriptors xmi:id="_KVXtoE_hEeO26cQ3jgxm8w" id="-Ia1-S1xFGpDxTXeg_pizIw" uri="tasks/(IS%203.6)%20Actualizar%20el%20Registro%20de%20Trazabilidad.xmi"/>
+    <resourceDescriptors xmi:id="_c4aLAE_hEeO26cQ3jgxm8w" id="-UNJ1DP8SLoclZJTPTR59gA" uri="tasks/(IS%203.7)%20Incorporar%20el%20Dieño%20y%20el%20Registro%20de%20Trazabilidad.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_NesdEEwSEeOMSJp31xEydQ" name="MDS-ISO 29110 Clínica Americana Juliaca" guid="_NesdEEwSEeOMSJp31xEydQ" presentationName="MDS-ISO 29110 Clínica Americana Juliaca" briefDescription="Documentacion para el desarrollo de software basado en la ISO 29110" authors="Edwin Calsin Quinto William Calisaya Pari" changeDate="2013-11-12T22:19:43.456-0500" version="0.1">
     <methodElementProperty xmi:id="_NeyjsEwSEeOMSJp31xEydQ" name="plugin_synFree" value="true"/>
@@ -81,7 +88,7 @@
               <methodElementProperty xmi:id="_tz9cwEwpEeOMSJp31xEydQ" name="me_edited" value="true"/>
               <presentation xmi:id="-1VbpPy5Mah_Rfb92IAbSFQ" href="uma://-1VbpPy5Mah_Rfb92IAbSFQ#-1VbpPy5Mah_Rfb92IAbSFQ"/>
             </subdiscipline>
-            <subdiscipline xmi:id="_vXuVkEwpEeOMSJp31xEydQ" name="(IS.3) Arquitectura y Diseño Detallado del Software" guid="_vXuVkEwpEeOMSJp31xEydQ" presentationName="(IS.3) Arquitectura y Diseño Detallado del Software">
+            <subdiscipline xmi:id="_vXuVkEwpEeOMSJp31xEydQ" name="(IS.3) Arquitectura y Diseño Detallado del Software" guid="_vXuVkEwpEeOMSJp31xEydQ" presentationName="(IS.3) Arquitectura y Diseño Detallado del Software" tasks="_xhKK8E_REeO26cQ3jgxm8w _bFtbIE_dEeO26cQ3jgxm8w _6a1D4E_dEeO26cQ3jgxm8w __Q_sIE_eEeO26cQ3jgxm8w _gZIKoE_fEeO26cQ3jgxm8w _3LjZkE_fEeO26cQ3jgxm8w _YWJ9QE_gEeO26cQ3jgxm8w _KUxQsE_hEeO26cQ3jgxm8w">
               <methodElementProperty xmi:id="_3LWC4EwpEeOMSJp31xEydQ" name="me_edited" value="true"/>
               <presentation xmi:id="-gnXsBGQQaXsj4qplfRRMDg" href="uma://-gnXsBGQQaXsj4qplfRRMDg#-gnXsBGQQaXsj4qplfRRMDg"/>
             </subdiscipline>
@@ -336,6 +343,34 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_pjE14E_YEeO26cQ3jgxm8w" name="(IS 2.6) Incorporacion de ER y el MU" guid="_pjE14E_YEeO26cQ3jgxm8w" presentationName="(IS 2.6) Incorporacion de ER y el MU" briefDescription="Incorporar la Especificación de Requisitosy el *Manual de Usuario * [Opcional]">
             <methodElementProperty xmi:id="_HaMPkE_ZEeO26cQ3jgxm8w" name="me_edited" value="true"/>
             <presentation xmi:id="-7kXdx4-0h4IOuSNvVqs_2Q" href="uma://-7kXdx4-0h4IOuSNvVqs_2Q#-7kXdx4-0h4IOuSNvVqs_2Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_bFtbIE_dEeO26cQ3jgxm8w" name="(IS 3.1) Comprender la Especificacion de Requisitos" guid="_bFtbIE_dEeO26cQ3jgxm8w" presentationName="(IS 3.1) Comprender la Especificacion de Requisitos" briefDescription="Comprender la Especificacion de Requisitos">
+            <methodElementProperty xmi:id="_c4S2QE_hEeO26cQ3jgxm8w" name="me_edited" value="true"/>
+            <presentation xmi:id="-FlTcDrclamblYCtD95GMaw" href="uma://-FlTcDrclamblYCtD95GMaw#-FlTcDrclamblYCtD95GMaw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_6a1D4E_dEeO26cQ3jgxm8w" name="(IS 3.2) Documentar o Update el Diseño de Software" guid="_6a1D4E_dEeO26cQ3jgxm8w" presentationName="(IS 3.2) Documentar o Update el Diseño de Software" briefDescription="Documentar o Update el Diseño de Software">
+            <methodElementProperty xmi:id="_c45TME_hEeO26cQ3jgxm8w" name="me_edited" value="true"/>
+            <presentation xmi:id="-yz0yYQIc_qRV2EkyxNYf-w" href="uma://-yz0yYQIc_qRV2EkyxNYf-w#-yz0yYQIc_qRV2EkyxNYf-w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="__Q_sIE_eEeO26cQ3jgxm8w" name="(IS 3.3) verificar y obtener la Aprobacion del Diseño de Software" guid="__Q_sIE_eEeO26cQ3jgxm8w" presentationName="(IS 3.3) verificar y obtener la Aprobacion del Diseño de Software" briefDescription="Verificar y obtener la Aprobacion del Diseño de Software">
+            <methodElementProperty xmi:id="_c5rWUE_hEeO26cQ3jgxm8w" name="me_edited" value="true"/>
+            <presentation xmi:id="-YR9sHg8-nEG80b_bWhOHfQ" href="uma://-YR9sHg8-nEG80b_bWhOHfQ#-YR9sHg8-nEG80b_bWhOHfQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_gZIKoE_fEeO26cQ3jgxm8w" name="(IS 3.4) Actualizar los Casos de Prueba y Procedimiento de Prueba" guid="_gZIKoE_fEeO26cQ3jgxm8w" presentationName="(IS 3.4) Actualizar los Casos de Prueba y Procedimiento de Prueba" briefDescription="Actualizar los Casos de Prueba y Procedimiento de Prueba">
+            <methodElementProperty xmi:id="_c5-RQE_hEeO26cQ3jgxm8w" name="me_edited" value="true"/>
+            <presentation xmi:id="-1ut9tek-01AV6yzp9FOcFg" href="uma://-1ut9tek-01AV6yzp9FOcFg#-1ut9tek-01AV6yzp9FOcFg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_3LjZkE_fEeO26cQ3jgxm8w" name="(IS 3.5) Verificar la Aprobacion de Casos de Prueba" guid="_3LjZkE_fEeO26cQ3jgxm8w" presentationName="(IS 3.5) Verificar la Aprobacion de Casos de Prueba" briefDescription="Verificar la Aprobacion de Casos de Prueba y Procedimientos de Prueba">
+            <methodElementProperty xmi:id="_c6nxgE_hEeO26cQ3jgxm8w" name="me_edited" value="true"/>
+            <presentation xmi:id="-Kaatzt0h06NjAII5VRGEug" href="uma://-Kaatzt0h06NjAII5VRGEug#-Kaatzt0h06NjAII5VRGEug"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_YWJ9QE_gEeO26cQ3jgxm8w" name="(IS 3.6) Actualizar el Registro de Trazabilidad" guid="_YWJ9QE_gEeO26cQ3jgxm8w" presentationName="(IS 3.6) Actualizar el Registro de Trazabilidad" briefDescription="Actualizar el Registro de Trazabilidad">
+            <methodElementProperty xmi:id="_c66scE_hEeO26cQ3jgxm8w" name="me_edited" value="true"/>
+            <presentation xmi:id="-Ia1-S1xFGpDxTXeg_pizIw" href="uma://-Ia1-S1xFGpDxTXeg_pizIw#-Ia1-S1xFGpDxTXeg_pizIw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_KUxQsE_hEeO26cQ3jgxm8w" name="(IS 3.7) Incorporar el Dieño y el Registro de Trazabilidad" guid="_KUxQsE_hEeO26cQ3jgxm8w" presentationName="(IS 3.7) Incorporar el Dieño y el Registro de Trazabilidad" briefDescription="Incorporar el Dieño de Software y el Registro de Trazabilidad">
+            <methodElementProperty xmi:id="_c7NAUE_hEeO26cQ3jgxm8w" name="me_edited" value="true"/>
+            <presentation xmi:id="-UNJ1DP8SLoclZJTPTR59gA" href="uma://-UNJ1DP8SLoclZJTPTR59gA#-UNJ1DP8SLoclZJTPTR59gA"/>
           </contentElements>
         </childPackages>
       </childPackages>

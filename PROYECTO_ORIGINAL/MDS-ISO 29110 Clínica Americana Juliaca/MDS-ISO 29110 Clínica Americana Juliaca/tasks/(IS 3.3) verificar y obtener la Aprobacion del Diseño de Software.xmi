@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-YR9sHg8-nEG80b_bWhOHfQ" name=",__Q_sIE_eEeO26cQ3jgxm8w" guid="-YR9sHg8-nEG80b_bWhOHfQ" changeDate="2013-11-17T18:22:38.083-0500">
+  <mainDescription>&lt;p>&#xD;
+    Verificar que la documentación del Diseño de Software sea correcta, viable y consistente con la Especificación de&#xD;
+    Requisitos.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Verificar que el&amp;nbsp; Registro de Trazabilidad contenga las relaciones adecuadas entre los requisitos y los elementos&#xD;
+    del Diseño del Software.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Los resultados encontrados son documentados en Resultado de Verificación y las correcciones se realizan hasta que el&#xD;
+    documento ha&lt;br />&#xD;
+    sido aprobado por el DIS. Si fueran necesarios cambios significativos, se propone una Solicitud de Cambio.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>IS 3.4</keyConsiderations>
+</org.eclipse.epf.uma:TaskDescription>

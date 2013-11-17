@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UNJ1DP8SLoclZJTPTR59gA" name=",_KUxQsE_hEeO26cQ3jgxm8w" guid="-UNJ1DP8SLoclZJTPTR59gA" changeDate="2013-11-17T18:38:23.723-0500">
+  <mainDescription>&lt;p>&#xD;
+    Incorporar el&amp;nbsp; Diseño de Software, y el&amp;nbsp; Registro de Trazabilidad a la Configuración de&amp;nbsp;Software como&#xD;
+    parte de la línea base.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Incorporar los&amp;nbsp; Casos de Pruebay Procedimientos de Prueba al&amp;nbsp;Repositorio del Proyecto.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>IS 3.8</keyConsiderations>
+</org.eclipse.epf.uma:TaskDescription>

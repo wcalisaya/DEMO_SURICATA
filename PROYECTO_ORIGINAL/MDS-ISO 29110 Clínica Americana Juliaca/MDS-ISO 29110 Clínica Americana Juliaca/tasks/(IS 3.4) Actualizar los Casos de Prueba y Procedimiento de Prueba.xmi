@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1ut9tek-01AV6yzp9FOcFg" name=",_gZIKoE_fEeO26cQ3jgxm8w" guid="-1ut9tek-01AV6yzp9FOcFg" changeDate="2013-11-17T18:26:42.536-0500">
+  <mainDescription>Establecer o actualizar los Casos de Pruebay Procedimientos de Prueba para pruebas de integración basadas en la&amp;nbsp;&#xD;
+Especificación de Requisitosy el Diseño de Software. El Clienteprovee datos de prueba, en caso de ser necesarios.</mainDescription>
+  <keyConsiderations>IS 3.5</keyConsiderations>
+</org.eclipse.epf.uma:TaskDescription>

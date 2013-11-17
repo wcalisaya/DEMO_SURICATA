@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Kaatzt0h06NjAII5VRGEug" name=",_3LjZkE_fEeO26cQ3jgxm8w" guid="-Kaatzt0h06NjAII5VRGEug" changeDate="2013-11-17T18:30:12.131-0500">
+  <mainDescription>Verificar la consistencia entre la Especificación de Requerimientos, Diseño de Softwarey los Casos de Pruebay&#xD;
+Procedimientos de Prueba. Los resultados encontrados están documentados en Resultado de Verificación y las correcciones son&#xD;
+realizadas hasta que el documento es aprobado por el AN.</mainDescription>
+  <keyConsiderations>IS 3.6</keyConsiderations>
+</org.eclipse.epf.uma:TaskDescription>
