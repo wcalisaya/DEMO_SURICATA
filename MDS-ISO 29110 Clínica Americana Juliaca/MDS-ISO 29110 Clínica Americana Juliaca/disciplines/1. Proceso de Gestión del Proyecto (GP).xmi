@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7QyJ9MsgOpLdrfXWKx8bRA" name="new_discipline,_ih6-QEwdEeOMSJp31xEydQ" guid="-7QyJ9MsgOpLdrfXWKx8bRA" changeDate="2013-11-12T23:44:32.542-0500">
+  <mainDescription>&lt;p>&#xD;
+    &lt;strong>GESTIÓN DEL PROYECTO&lt;/strong>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    El propósito del proceso del gestión del proyecto es establecer y lleva a cabo de manera sistematica las tareas de un&#xD;
+    proyecto de implementacion de software que permitan cumplir con los objetivos del proyecto en calidad, tiempo y costos&#xD;
+    esperados.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
