@@ -88,7 +88,7 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_eAy_wCX6EeOrTZt0HpRXgg" name="Arquitectura" guid="_eAy_wCX6EeOrTZt0HpRXgg" presentationName="Arquitectura">
             <methodElementProperty xmi:id="_k_nMACX6EeOrTZt0HpRXgg" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_9zm2oEqEEeOtQaItoraa5Q" name="DISCIPLINAS ISO 29110" guid="_9zm2oEqEEeOtQaItoraa5Q" presentationName="DISCIPLINAS ISO 29110" disciplines="_5Op8ME9PEeOLrv7b1Xd62g _baNKEE9REeOh9YgZGBhHow">
+          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_9zm2oEqEEeOtQaItoraa5Q" name="DISCIPLINAS ISO 29110" guid="_9zm2oEqEEeOtQaItoraa5Q" presentationName="DISCIPLINAS ISO 29110" disciplines="_5Op8ME9PEeOLrv7b1Xd62g _baNKEE9REeOh9YgZGBhHow _w4oagE9REeOLrv7b1Xd62g">
             <methodElementProperty xmi:id="_wOGNwEqFEeOtQaItoraa5Q" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_5Op8ME9PEeOLrv7b1Xd62g" name="mi disc edwin" guid="_5Op8ME9PEeOLrv7b1Xd62g" presentationName="mi disc edwin">
@@ -97,6 +97,9 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_baNKEE9REeOh9YgZGBhHow" name="disciplina de magwi" guid="_baNKEE9REeOh9YgZGBhHow" presentationName="disciplina de magwi" briefDescription="disciplina de magwi">
             <methodElementProperty xmi:id="_d33fUE9REeOh9YgZGBhHow" name="me_edited" value="true"/>
             <presentation xmi:id="-oPOuiEHEAqn1NOOBhpXlaA" href="uma://-oPOuiEHEAqn1NOOBhpXlaA#-oPOuiEHEAqn1NOOBhpXlaA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_w4oagE9REeOLrv7b1Xd62g" name="suricata" guid="_w4oagE9REeOLrv7b1Xd62g" presentationName="suricata" briefDescription="suricata">
+            <methodElementProperty xmi:id="_yvo_cE9REeOLrv7b1Xd62g" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PBGR1SXwEeOrTZt0HpRXgg" name="RoleSets" guid="_PBGR1SXwEeOrTZt0HpRXgg">
