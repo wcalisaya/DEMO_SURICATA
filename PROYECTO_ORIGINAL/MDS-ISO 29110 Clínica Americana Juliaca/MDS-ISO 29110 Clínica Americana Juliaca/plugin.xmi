@@ -41,6 +41,7 @@
     <resourceDescriptors xmi:id="_puWHME_XEeO26cQ3jgxm8w" id="-mxUznnrolxqiT6eukSSAug" uri="tasks/(IS%202.4)%20Validar%20la%20aprobacion%20de%20Especicificacion%20de%20Requisitos.xmi"/>
     <resourceDescriptors xmi:id="_pjiv8E_YEeO26cQ3jgxm8w" id="-xBlrlJ7KN2mSWrxufB0E0g" uri="tasks/(IS%202.5)%20Documentar%20y%20Verificar%20el%20Manul%20de%20Usuario%20Preliminar.xmi"/>
     <resourceDescriptors xmi:id="_HYV1cE_ZEeO26cQ3jgxm8w" id="-7kXdx4-0h4IOuSNvVqs_2Q" uri="tasks/(IS%202.6)%20Incorporacion%20de%20ER%20y%20el%20MU.xmi"/>
+    <resourceDescriptors xmi:id="_EUa8AE_aEeO26cQ3jgxm8w" id="-gnXsBGQQaXsj4qplfRRMDg" uri="disciplines/(IS.3)%20Arquitectura%20y%20Diseño%20Detallado%20del%20Software.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_NesdEEwSEeOMSJp31xEydQ" name="MDS-ISO 29110 Clínica Americana Juliaca" guid="_NesdEEwSEeOMSJp31xEydQ" presentationName="MDS-ISO 29110 Clínica Americana Juliaca" briefDescription="Documentacion para el desarrollo de software basado en la ISO 29110" authors="Edwin Calsin Quinto William Calisaya Pari" changeDate="2013-11-12T22:19:43.456-0500" version="0.1">
     <methodElementProperty xmi:id="_NeyjsEwSEeOMSJp31xEydQ" name="plugin_synFree" value="true"/>
@@ -82,6 +83,7 @@
             </subdiscipline>
             <subdiscipline xmi:id="_vXuVkEwpEeOMSJp31xEydQ" name="(IS.3) Arquitectura y Diseño Detallado del Software" guid="_vXuVkEwpEeOMSJp31xEydQ" presentationName="(IS.3) Arquitectura y Diseño Detallado del Software">
               <methodElementProperty xmi:id="_3LWC4EwpEeOMSJp31xEydQ" name="me_edited" value="true"/>
+              <presentation xmi:id="-gnXsBGQQaXsj4qplfRRMDg" href="uma://-gnXsBGQQaXsj4qplfRRMDg#-gnXsBGQQaXsj4qplfRRMDg"/>
             </subdiscipline>
             <subdiscipline xmi:id="_30S5QEwpEeOMSJp31xEydQ" name="(IS.4) Construcción del Software" guid="_30S5QEwpEeOMSJp31xEydQ" presentationName="(IS.4) Construcción del Software">
               <methodElementProperty xmi:id="_Kprq4EwqEeOMSJp31xEydQ" name="me_edited" value="true"/>

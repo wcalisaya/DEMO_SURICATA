@@ -2,9 +2,12 @@
 <org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1VbpPy5Mah_Rfb92IAbSFQ" name="(IS.2) Análisis de Requisitos del Software,_mVF3cEwpEeOMSJp31xEydQ" guid="-1VbpPy5Mah_Rfb92IAbSFQ" changeDate="2013-11-17T16:47:43.554-0500">
   <mainDescription>&lt;p>&#xD;
     La actividad de Análisis de Requisitos de Software analiza los requisitos acordados con el Cliente y establece los&#xD;
-    requisitos del proyecto validados. La actividad provee:&#xD;
+    requisitos del proyecto validados.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    La actividad Provee:&#xD;
 &lt;/p>&#xD;
-&lt;ul>&#xD;
+&lt;ul class=&quot;noindent&quot;>&#xD;
     &lt;li>&#xD;
         La revisión del &lt;em>Plan del Proyecto&lt;/em> por parte del Equipo de Trabajo para determinar la asignación de las&#xD;
         Tareas.&#xD;
@@ -21,5 +24,5 @@
     &lt;li>&#xD;
         El control de versiones de los requisitos del producto de &lt;em>Software&lt;/em>.&#xD;
     &lt;/li>&#xD;
-&lt;/ul></mainDescription>
+&lt;/ul></keyConsiderations>
 </org.eclipse.epf.uma:ContentDescription>
