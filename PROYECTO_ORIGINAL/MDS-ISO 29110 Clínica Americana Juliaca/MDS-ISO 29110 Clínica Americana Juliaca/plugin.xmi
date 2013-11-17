@@ -25,6 +25,7 @@
     <resourceDescriptors xmi:id="_d6i5gE9JEeOnwdUxxNzrEQ" id="-DubY0AXKJ3j4wWbHFFyQLA" uri="workproducts/2.2%20Productos%20de%20Salida%20(IS).xmi"/>
     <resourceDescriptors xmi:id="_sgbZQE9TEeOYttl8z6yD8w" id="-wMjpddrb4OapeOQocDi-Tw" uri="tasks/la%20terea%20de%20william.xmi"/>
     <resourceDescriptors xmi:id="_Af70oE9UEeO8RuWG5Xh1TQ" id="-SqeDU8nkIcvcq_sc1cuVaw" uri="tasks/tarea%20de%20magwi.xmi"/>
+    <resourceDescriptors xmi:id="_KWVnIE9WEeOLrv7b1Xd62g" id="-kWYsSQPABp5YmNnqM9KeBA" uri="tasks/MI%20PRIMERA%20TAREA.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_NesdEEwSEeOMSJp31xEydQ" name="MDS-ISO 29110 Clínica Americana Juliaca" guid="_NesdEEwSEeOMSJp31xEydQ" presentationName="MDS-ISO 29110 Clínica Americana Juliaca" briefDescription="Documentacion para el desarrollo de software basado en la ISO 29110" authors="Edwin Calsin Quinto William Calisaya Pari" changeDate="2013-11-12T22:19:43.456-0500" version="0.1">
     <methodElementProperty xmi:id="_NeyjsEwSEeOMSJp31xEydQ" name="plugin_synFree" value="true"/>
@@ -220,6 +221,7 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="__gYRkE9SEeOLrv7b1Xd62g" name="MI PRIMERA TAREA" guid="__gYRkE9SEeOLrv7b1Xd62g" presentationName="MI PRIMERA TAREA" briefDescription="EDWIN.CALSIN.ACADEMICO">
             <methodElementProperty xmi:id="_CLudgE9TEeOLrv7b1Xd62g" name="me_edited" value="true"/>
+            <presentation xmi:id="-kWYsSQPABp5YmNnqM9KeBA" href="uma://-kWYsSQPABp5YmNnqM9KeBA#-kWYsSQPABp5YmNnqM9KeBA"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_p_On0E9TEeOYttl8z6yD8w" name="la terea de william" guid="_p_On0E9TEeOYttl8z6yD8w" presentationName="la terea de william" briefDescription="la terea de william">
             <methodElementProperty xmi:id="_sgUEgE9TEeOYttl8z6yD8w" name="me_edited" value="true"/>
