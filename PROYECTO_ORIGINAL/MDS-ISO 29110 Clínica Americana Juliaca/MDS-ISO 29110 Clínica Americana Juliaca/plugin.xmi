@@ -23,6 +23,7 @@
     <resourceDescriptors xmi:id="_K-amsE9JEeOnwdUxxNzrEQ" id="-_S3M65omz80iAb6eDJniXQ" uri="workproducts/2.1.1%20Plan%20del%20Proyecto.xmi"/>
     <resourceDescriptors xmi:id="_T8Ba4E9JEeOnwdUxxNzrEQ" id="-3rP79WZTuYNbowt_pYJhrg" uri="workproducts/2.1.2%20Repositorio%20del%20Proyecto.xmi"/>
     <resourceDescriptors xmi:id="_d6i5gE9JEeOnwdUxxNzrEQ" id="-DubY0AXKJ3j4wWbHFFyQLA" uri="workproducts/2.2%20Productos%20de%20Salida%20(IS).xmi"/>
+    <resourceDescriptors xmi:id="_qB-DsE9cEeO4rNOZzda7hA" id="-ks8f2fSZLliU6She2m8bvQ" uri="tasks/(GP.1)%20Revision%20y%20verificacion%20de%20los%20entregables%20y%20tareas.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_NesdEEwSEeOMSJp31xEydQ" name="MDS-ISO 29110 Clínica Americana Juliaca" guid="_NesdEEwSEeOMSJp31xEydQ" presentationName="MDS-ISO 29110 Clínica Americana Juliaca" briefDescription="Documentacion para el desarrollo de software basado en la ISO 29110" authors="Edwin Calsin Quinto William Calisaya Pari" changeDate="2013-11-12T22:19:43.456-0500" version="0.1">
     <methodElementProperty xmi:id="_NeyjsEwSEeOMSJp31xEydQ" name="plugin_synFree" value="true"/>
@@ -218,6 +219,10 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_lfMuAE9aEeOLrv7b1Xd62g" name="(GP.2) Monitoriar la ejecucion del plan del proyecto" guid="_lfMuAE9aEeOLrv7b1Xd62g" presentationName="(GP.2) Monitoriar la ejecucion del plan del proyecto" briefDescription="Monitoriar la ejecucion del plan del proyecto y registrar la informacion actual en el reporte de avance" performedBy="_UlwUcEwUEeOMSJp31xEydQ _YiGOMEwUEeOMSJp31xEydQ _fYgFUEwUEeOMSJp31xEydQ">
             <methodElementProperty xmi:id="_xsrXgE9aEeOLrv7b1Xd62g" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_JmDyAE9cEeO4rNOZzda7hA" name="(GP.1) Revision y verificacion de los entregables y tareas" guid="_JmDyAE9cEeO4rNOZzda7hA" presentationName="(GP.1) Revision y verificacion de los entregables y tareas">
+            <methodElementProperty xmi:id="_qB5yQE9cEeO4rNOZzda7hA" name="me_edited" value="true"/>
+            <presentation xmi:id="-ks8f2fSZLliU6She2m8bvQ" href="uma://-ks8f2fSZLliU6She2m8bvQ#-ks8f2fSZLliU6She2m8bvQ"/>
           </contentElements>
         </childPackages>
       </childPackages>
