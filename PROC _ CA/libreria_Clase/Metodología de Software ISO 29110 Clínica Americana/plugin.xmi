@@ -87,8 +87,11 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_eAy_wCX6EeOrTZt0HpRXgg" name="Arquitectura" guid="_eAy_wCX6EeOrTZt0HpRXgg" presentationName="Arquitectura">
             <methodElementProperty xmi:id="_k_nMACX6EeOrTZt0HpRXgg" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_9zm2oEqEEeOtQaItoraa5Q" name="DISCIPLINAS ISO 29110" guid="_9zm2oEqEEeOtQaItoraa5Q" presentationName="DISCIPLINAS ISO 29110">
+          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_9zm2oEqEEeOtQaItoraa5Q" name="DISCIPLINAS ISO 29110" guid="_9zm2oEqEEeOtQaItoraa5Q" presentationName="DISCIPLINAS ISO 29110" disciplines="_5Op8ME9PEeOLrv7b1Xd62g">
             <methodElementProperty xmi:id="_wOGNwEqFEeOtQaItoraa5Q" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_5Op8ME9PEeOLrv7b1Xd62g" name="mi disc edwin" guid="_5Op8ME9PEeOLrv7b1Xd62g" presentationName="mi disc edwin">
+            <methodElementProperty xmi:id="_7XTDsE9PEeOLrv7b1Xd62g" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PBGR1SXwEeOrTZt0HpRXgg" name="RoleSets" guid="_PBGR1SXwEeOrTZt0HpRXgg">
