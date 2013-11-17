@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-6tVkYpDDxGwwRfnSEyKAQw" name=",_rnfI4ExPEeOCPuBPGiLLZA" guid="-6tVkYpDDxGwwRfnSEyKAQw" changeDate="2013-11-13T05:41:22.748-0500">
-  <mainDescription>&lt;p>&#xD;
-    Establecer la Duración&amp;nbsp;estimada para realizar cada Tarea&#xD;
-&lt;/p></mainDescription>
-  <keyConsiderations>&lt;p class=&quot;MsoNormal&quot; style=&quot;MARGIN: 0cm 0cm 8pt&quot;>&#xD;
-    &lt;span style=&quot;FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; LINE-HEIGHT: 107%&quot;>GP.1.4&lt;/span>&#xD;
-&lt;/p></keyConsiderations>
-</org.eclipse.epf.uma:TaskDescription>

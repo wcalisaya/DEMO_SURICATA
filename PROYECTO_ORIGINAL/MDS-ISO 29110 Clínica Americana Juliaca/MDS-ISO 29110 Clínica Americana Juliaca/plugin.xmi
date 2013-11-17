@@ -23,11 +23,6 @@
     <resourceDescriptors xmi:id="_K-amsE9JEeOnwdUxxNzrEQ" id="-_S3M65omz80iAb6eDJniXQ" uri="workproducts/2.1.1%20Plan%20del%20Proyecto.xmi"/>
     <resourceDescriptors xmi:id="_T8Ba4E9JEeOnwdUxxNzrEQ" id="-3rP79WZTuYNbowt_pYJhrg" uri="workproducts/2.1.2%20Repositorio%20del%20Proyecto.xmi"/>
     <resourceDescriptors xmi:id="_d6i5gE9JEeOnwdUxxNzrEQ" id="-DubY0AXKJ3j4wWbHFFyQLA" uri="workproducts/2.2%20Productos%20de%20Salida%20(IS).xmi"/>
-    <resourceDescriptors xmi:id="_sgbZQE9TEeOYttl8z6yD8w" id="-wMjpddrb4OapeOQocDi-Tw" uri="tasks/la%20terea%20de%20william.xmi"/>
-    <resourceDescriptors xmi:id="_Af70oE9UEeO8RuWG5Xh1TQ" id="-SqeDU8nkIcvcq_sc1cuVaw" uri="tasks/tarea%20de%20magwi.xmi"/>
-    <resourceDescriptors xmi:id="_KWVnIE9WEeOLrv7b1Xd62g" id="-kWYsSQPABp5YmNnqM9KeBA" uri="tasks/MI%20PRIMERA%20TAREA.xmi"/>
-    <resourceDescriptors xmi:id="_jyFMQE9XEeO4rNOZzda7hA" id="-7CAuS3G0kKOUW38xhWQvpg" uri="tasks/tarea%20con%20problemas.xmi"/>
-    <resourceDescriptors xmi:id="_DD5z8E9ZEeO4rNOZzda7hA" id="-JnEHeVnpaYoi9ADM-9Gn-g" uri="tasks/ojala%20salga%20bien.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_NesdEEwSEeOMSJp31xEydQ" name="MDS-ISO 29110 Clínica Americana Juliaca" guid="_NesdEEwSEeOMSJp31xEydQ" presentationName="MDS-ISO 29110 Clínica Americana Juliaca" briefDescription="Documentacion para el desarrollo de software basado en la ISO 29110" authors="Edwin Calsin Quinto William Calisaya Pari" changeDate="2013-11-12T22:19:43.456-0500" version="0.1">
     <methodElementProperty xmi:id="_NeyjsEwSEeOMSJp31xEydQ" name="plugin_synFree" value="true"/>
@@ -220,26 +215,6 @@
                 </containedArtifacts>
               </containedArtifacts>
             </containedArtifacts>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="__gYRkE9SEeOLrv7b1Xd62g" name="MI PRIMERA TAREA" guid="__gYRkE9SEeOLrv7b1Xd62g" presentationName="MI PRIMERA TAREA" briefDescription="EDWIN.CALSIN.ACADEMICO">
-            <methodElementProperty xmi:id="_CLudgE9TEeOLrv7b1Xd62g" name="me_edited" value="true"/>
-            <presentation xmi:id="-kWYsSQPABp5YmNnqM9KeBA" href="uma://-kWYsSQPABp5YmNnqM9KeBA#-kWYsSQPABp5YmNnqM9KeBA"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_p_On0E9TEeOYttl8z6yD8w" name="la terea de william" guid="_p_On0E9TEeOYttl8z6yD8w" presentationName="la terea de william" briefDescription="la terea de william">
-            <methodElementProperty xmi:id="_sgUEgE9TEeOYttl8z6yD8w" name="me_edited" value="true"/>
-            <presentation xmi:id="-wMjpddrb4OapeOQocDi-Tw" href="uma://-wMjpddrb4OapeOQocDi-Tw#-wMjpddrb4OapeOQocDi-Tw"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_9zfcgE9TEeO8RuWG5Xh1TQ" name="tarea de magwi" guid="_9zfcgE9TEeO8RuWG5Xh1TQ" presentationName="tarea de magwi">
-            <methodElementProperty xmi:id="_Af0f4E9UEeO8RuWG5Xh1TQ" name="me_edited" value="true"/>
-            <presentation xmi:id="-SqeDU8nkIcvcq_sc1cuVaw" href="uma://-SqeDU8nkIcvcq_sc1cuVaw#-SqeDU8nkIcvcq_sc1cuVaw"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_hRAWoE9XEeO4rNOZzda7hA" name="tarea con problemas" guid="_hRAWoE9XEeO4rNOZzda7hA" presentationName="tarea con problemas" briefDescription="tarea con problemas">
-            <methodElementProperty xmi:id="_jx8CUE9XEeO4rNOZzda7hA" name="me_edited" value="true"/>
-            <presentation xmi:id="-7CAuS3G0kKOUW38xhWQvpg" href="uma://-7CAuS3G0kKOUW38xhWQvpg#-7CAuS3G0kKOUW38xhWQvpg"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_uYTuoE9YEeO4rNOZzda7hA" name="ojala salga bien" guid="_uYTuoE9YEeO4rNOZzda7hA" presentationName="ojala salga bien" briefDescription="ojala salga bien">
-            <methodElementProperty xmi:id="_DDwqAE9ZEeO4rNOZzda7hA" name="me_edited" value="true"/>
-            <presentation xmi:id="-JnEHeVnpaYoi9ADM-9Gn-g" href="uma://-JnEHeVnpaYoi9ADM-9Gn-g#-JnEHeVnpaYoi9ADM-9Gn-g"/>
           </contentElements>
         </childPackages>
       </childPackages>
