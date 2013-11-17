@@ -216,7 +216,7 @@
               </containedArtifacts>
             </containedArtifacts>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_lfMuAE9aEeOLrv7b1Xd62g" name="(GP.2) Monitoriar la ejecucion del plan del proyecto" guid="_lfMuAE9aEeOLrv7b1Xd62g" presentationName="(GP.2) Monitoriar la ejecucion del plan del proyecto" briefDescription="Monitoriar la ejecucion del plan del proyecto y registrar la informacion actual en el reporte de avance">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_lfMuAE9aEeOLrv7b1Xd62g" name="(GP.2) Monitoriar la ejecucion del plan del proyecto" guid="_lfMuAE9aEeOLrv7b1Xd62g" presentationName="(GP.2) Monitoriar la ejecucion del plan del proyecto" briefDescription="Monitoriar la ejecucion del plan del proyecto y registrar la informacion actual en el reporte de avance" performedBy="_UlwUcEwUEeOMSJp31xEydQ _YiGOMEwUEeOMSJp31xEydQ _fYgFUEwUEeOMSJp31xEydQ">
             <methodElementProperty xmi:id="_xsrXgE9aEeOLrv7b1Xd62g" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
