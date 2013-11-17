@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mxUznnrolxqiT6eukSSAug" name=",_AYq08E_WEeO26cQ3jgxm8w" guid="-mxUznnrolxqiT6eukSSAug" changeDate="2013-11-17T17:18:20.798-0500">
+  <mainDescription>Validar y obtener la aprobación de la Especificación de Requisitos, Validar que la Especificación de&amp;nbsp;Requisitos&#xD;
+satisfaga las necesidades y sea acorde a las expectativas, incluyendo la usabilidad de la interfaz&amp;nbsp;de usuario. Los&#xD;
+resultados encontrados&amp;nbsp;son documentados en el Resultado de Validación y se realizan las correcciones hasta que el&#xD;
+documento sea aprobado por el CL. en Resultados de Validación. Las correcciones se realizan hasta que el documento tiene el&#xD;
+visto bueno del CL.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

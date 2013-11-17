@@ -36,6 +36,9 @@
     <resourceDescriptors xmi:id="_nOV3UE_REeO26cQ3jgxm8w" id="-OrK_Qe3TfrpjJsQe57qmlw" uri="tasks/(IS%201.2)%20Establecer%20el%20ambiente%20de%20trabajo.xmi"/>
     <resourceDescriptors xmi:id="_hMLEEE_SEeO26cQ3jgxm8w" id="-1VbpPy5Mah_Rfb92IAbSFQ" uri="disciplines/(IS.2)%20Análisis%20de%20Requisitos%20del%20Software.xmi"/>
     <resourceDescriptors xmi:id="_hMRxwE_SEeO26cQ3jgxm8w" id="-VjPtp2q-SuURPHZZq_ynug" uri="tasks/(IS%202.1)%20Asignar%20Tareasa%20los%20miembros%20del%20equipo%20de%20trabajo.xmi"/>
+    <resourceDescriptors xmi:id="_GAYg0E_VEeO26cQ3jgxm8w" id="-e8NCDYquX58wbkzGLoSQng" uri="tasks/(IS%202.2)%20Documentar%20y%20actualizar%20las%20Especificacion%20de%20Requisitos.xmi"/>
+    <resourceDescriptors xmi:id="_AZMZYE_WEeO26cQ3jgxm8w" id="-VZCDsXivmnkE7Wg3fAgUyA" uri="tasks/(IS%202.3)%20Verificar%20la%20aprobacion%20de%20Especificacion%20de%20Requisitos.xmi"/>
+    <resourceDescriptors xmi:id="_puWHME_XEeO26cQ3jgxm8w" id="-mxUznnrolxqiT6eukSSAug" uri="tasks/(IS%202.4)%20Validar%20la%20aprobacion%20de%20Especicificacion%20de%20Requisitos.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_NesdEEwSEeOMSJp31xEydQ" name="MDS-ISO 29110 Clínica Americana Juliaca" guid="_NesdEEwSEeOMSJp31xEydQ" presentationName="MDS-ISO 29110 Clínica Americana Juliaca" briefDescription="Documentacion para el desarrollo de software basado en la ISO 29110" authors="Edwin Calsin Quinto William Calisaya Pari" changeDate="2013-11-12T22:19:43.456-0500" version="0.1">
     <methodElementProperty xmi:id="_NeyjsEwSEeOMSJp31xEydQ" name="plugin_synFree" value="true"/>
@@ -67,7 +70,7 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_xMII4EwdEeOMSJp31xEydQ" name="2. Proceso de Implementación de Software (IS)" guid="_xMII4EwdEeOMSJp31xEydQ" presentationName="2. Proceso de Implementación de Software (IS)">
             <methodElementProperty xmi:id="_34xAAEwdEeOMSJp31xEydQ" name="me_edited" value="true"/>
             <presentation xmi:id="-IRHEZNP2upy8PQA8W_kqyw" href="uma://-IRHEZNP2upy8PQA8W_kqyw#-IRHEZNP2upy8PQA8W_kqyw"/>
-            <subdiscipline xmi:id="_cTTpcEwpEeOMSJp31xEydQ" name="(IS.1) Inicio de la Implementación de Software" guid="_cTTpcEwpEeOMSJp31xEydQ" presentationName="(IS.1) Inicio de la Implementación de Software">
+            <subdiscipline xmi:id="_cTTpcEwpEeOMSJp31xEydQ" name="(IS.1) Inicio de la Implementación de Software" guid="_cTTpcEwpEeOMSJp31xEydQ" presentationName="(IS.1) Inicio de la Implementación de Software" tasks="_Hw0IME_LEeO26cQ3jgxm8w _1Kd7UE_OEeO26cQ3jgxm8w">
               <methodElementProperty xmi:id="_tzs-EEwpEeOMSJp31xEydQ" name="me_edited" value="true"/>
               <presentation xmi:id="-h0dAwlG6cfdIprWF9--12g" href="uma://-h0dAwlG6cfdIprWF9--12g#-h0dAwlG6cfdIprWF9--12g"/>
             </subdiscipline>
@@ -309,6 +312,18 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_xhKK8E_REeO26cQ3jgxm8w" name="(IS 2.1) Asignar Tareasa los miembros del equipo de trabajo" guid="_xhKK8E_REeO26cQ3jgxm8w" presentationName="(IS 2.1) Asignar Tareasa los miembros del equipo de trabajo">
             <methodElementProperty xmi:id="_hMJO4E_SEeO26cQ3jgxm8w" name="me_edited" value="true"/>
             <presentation xmi:id="-VjPtp2q-SuURPHZZq_ynug" href="uma://-VjPtp2q-SuURPHZZq_ynug#-VjPtp2q-SuURPHZZq_ynug"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_c43w8E_UEeO26cQ3jgxm8w" name="(IS 2.2) Documentar y actualizar las Especificacion de Requisitos" guid="_c43w8E_UEeO26cQ3jgxm8w" presentationName="(IS 2.2) Documentar y actualizar las Especificacion de Requisitos">
+            <methodElementProperty xmi:id="_qA2zgE_XEeO26cQ3jgxm8w" name="me_edited" value="true"/>
+            <presentation xmi:id="-e8NCDYquX58wbkzGLoSQng" href="uma://-e8NCDYquX58wbkzGLoSQng#-e8NCDYquX58wbkzGLoSQng"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_F_28YE_VEeO26cQ3jgxm8w" name="(IS 2.3) Verificar la aprobacion de Especificacion de Requisitos" guid="_F_28YE_VEeO26cQ3jgxm8w" presentationName="(IS 2.3) Verificar la aprobacion de Especificacion de Requisitos" briefDescription="Verificar y obtener la aprobación de la Especificación de Requisitos.">
+            <methodElementProperty xmi:id="_qBByoE_XEeO26cQ3jgxm8w" name="me_edited" value="true"/>
+            <presentation xmi:id="-VZCDsXivmnkE7Wg3fAgUyA" href="uma://-VZCDsXivmnkE7Wg3fAgUyA#-VZCDsXivmnkE7Wg3fAgUyA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_AYq08E_WEeO26cQ3jgxm8w" name="(IS 2.4) Validar la aprobacion de Especicificacion de Requisitos" guid="_AYq08E_WEeO26cQ3jgxm8w" presentationName="(IS 2.4) Validar la aprobacion de Especicificacion de Requisitos" briefDescription="Validar y obtener la aprobación de la Especificación de Requisitos.">
+            <methodElementProperty xmi:id="_puR1wE_XEeO26cQ3jgxm8w" name="me_edited" value="true"/>
+            <presentation xmi:id="-mxUznnrolxqiT6eukSSAug" href="uma://-mxUznnrolxqiT6eukSSAug#-mxUznnrolxqiT6eukSSAug"/>
           </contentElements>
         </childPackages>
       </childPackages>

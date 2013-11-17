@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-e8NCDYquX58wbkzGLoSQng" name=",_c43w8E_UEeO26cQ3jgxm8w" guid="-e8NCDYquX58wbkzGLoSQng" changeDate="2013-11-17T17:07:41.550-0500">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Documentar o actualizar la Especificación de Requisitos Identificar y consultar fuentes de información (Cliente,&#xD;
+        usuarios, sistemas previos, documentos, etc.)&amp;nbsp; con el propósito de obtener nuevos requisitos.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Analizar los requisitos identificados para determinar el alcance y la viabilidad.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Generar o actualizar la Especificación de Requisitos.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>
