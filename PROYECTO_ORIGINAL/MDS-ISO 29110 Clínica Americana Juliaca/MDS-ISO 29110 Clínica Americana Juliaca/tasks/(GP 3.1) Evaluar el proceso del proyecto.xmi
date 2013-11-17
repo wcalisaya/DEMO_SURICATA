@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0uEvNseOxVtyRytJuQ8q_Q" name=",_wberME-jEeO-bLJ5HHk0ew" guid="-0uEvNseOxVtyRytJuQ8q_Q">
+  <sections xmi:id="_7kzwEE-jEeO-bLJ5HHk0ew" name="- Tareas reales contra las tareas planeadas" guid="_7kzwEE-jEeO-bLJ5HHk0ew"/>
+  <sections xmi:id="_CNn3IE-kEeO-bLJ5HHk0ew" name="- Resultados reales contra los objetivos estaablecidos en el proyecto" guid="_CNn3IE-kEeO-bLJ5HHk0ew"/>
+  <sections xmi:id="_JHq4IE-kEeO-bLJ5HHk0ew" name="- Recursos reales asignados contra los planeados" guid="_JHq4IE-kEeO-bLJ5HHk0ew"/>
+  <sections xmi:id="_NgHfEE-kEeO-bLJ5HHk0ew" name="- Costos reales contra el presupuesto estimado" guid="_NgHfEE-kEeO-bLJ5HHk0ew"/>
+  <sections xmi:id="_Rt348E-kEeO-bLJ5HHk0ew" name="- Tiempo real utilizado contra el programado" guid="_Rt348E-kEeO-bLJ5HHk0ew"/>
+  <sections xmi:id="_VjPoAE-kEeO-bLJ5HHk0ew" name="- Riesgo real contra el identificado previamente" guid="_VjPoAE-kEeO-bLJ5HHk0ew"/>
+</org.eclipse.epf.uma:TaskDescription>

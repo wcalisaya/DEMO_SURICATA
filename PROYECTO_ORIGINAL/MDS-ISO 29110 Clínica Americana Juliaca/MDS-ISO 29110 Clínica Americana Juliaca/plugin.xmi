@@ -7,13 +7,13 @@
     <resourceDescriptors xmi:id="_Sg0csEweEeOMSJp31xEydQ" id="-7QyJ9MsgOpLdrfXWKx8bRA" uri="disciplines/1.%20Proceso%20de%20Gestión%20del%20Proyecto%20(GP).xmi"/>
     <resourceDescriptors xmi:id="_Sg7xcEweEeOMSJp31xEydQ" id="-IRHEZNP2upy8PQA8W_kqyw" uri="disciplines/2.%20Proceso%20de%20Implementación%20de%20Software%20(IS).xmi"/>
     <resourceDescriptors xmi:id="_3BmpEE8_EeOnwdUxxNzrEQ" id="-KocKKuA8gaC2JN-KVL8r3w" uri="workproducts/1.1.1%20Enunciado%20del%20Trabajo.xmi"/>
-    <resourceDescriptors xmi:id="__jOr4E8_EeOnwdUxxNzrEQ" id="-xiWeOit3DtmOchgyTNfu2A" uri="workproducts/1.1.2%20Configuracion%20de%20Software.xmi"/>
+    <resourceDescriptors xmi:id="__jOr4E8_EeOnwdUxxNzrEQ" id="-xiWeOit3DtmOchgyTNfu2A" uri="workproducts/1.1.2%20Configuracion%20de%20Software%20%7Bentregada%7D.xmi"/>
     <resourceDescriptors xmi:id="_GNN3oE9AEeOnwdUxxNzrEQ" id="-oKT1Lasm2lyBa_46Ym5VtA" uri="workproducts/1.1.3%20Solicitud%20de%20Cambio%20%7Binicida%7D.xmi"/>
     <resourceDescriptors xmi:id="_VI_TYE9AEeOnwdUxxNzrEQ" id="-waxksBwIjovbYzNPCHzcwA" uri="workproducts/1.2.1%20Plan%20del%20Proyecto.xmi"/>
     <resourceDescriptors xmi:id="_emw1YE9AEeOnwdUxxNzrEQ" id="-yKqf9njMEfSvge9iVPcMGA" uri="workproducts/1.2.2%20Acta%20de%20Aceptación.xmi"/>
     <resourceDescriptors xmi:id="_peOuME9AEeOnwdUxxNzrEQ" id="-SVGHbYHh66ePE4cw-0mTJA" uri="workproducts/1.2.3%20Repositorio%20del%20Proyecto%20%7Brecuperado%7D.xmi"/>
     <resourceDescriptors xmi:id="_xdm_kE9AEeOnwdUxxNzrEQ" id="-M-n-N-GO-_Af_r5BUm_sDQ" uri="workproducts/1.2.4%20Acta%20de%20Reunión%20%7Bactualizada%7D.xmi"/>
-    <resourceDescriptors xmi:id="_1BFQ4E9BEeOnwdUxxNzrEQ" id="-ABF_3QUaXSb0FNdSkZOfiA" uri="workproducts/1.2.5%20Configuración%20de%20Software.xmi"/>
+    <resourceDescriptors xmi:id="_1BFQ4E9BEeOnwdUxxNzrEQ" id="-ABF_3QUaXSb0FNdSkZOfiA" uri="workproducts/1.2.5%20Configuración%20de%20Software%20%7Baceptada%7D.xmi"/>
     <resourceDescriptors xmi:id="_BVclgE9CEeOnwdUxxNzrEQ" id="-i0wbGQvQfw2SnzImCnNp4A" uri="workproducts/1.3.1%20Solicitud%20de%20Cambio%20%7Bevaluada%7D.xmi"/>
     <resourceDescriptors xmi:id="_KqlI4E9CEeOnwdUxxNzrEQ" id="-bDLQ3kI8ZXNamrdbeYvGYQ" uri="workproducts/1.3.2%20Acciones%20Correctivas.xmi"/>
     <resourceDescriptors xmi:id="_QYef0E9CEeOnwdUxxNzrEQ" id="-ZdNVYqh1aZ8RKxRU7y9EJA" uri="workproducts/1.3.3%20Acta%20de%20Reunión.xmi"/>
@@ -24,6 +24,8 @@
     <resourceDescriptors xmi:id="_T8Ba4E9JEeOnwdUxxNzrEQ" id="-3rP79WZTuYNbowt_pYJhrg" uri="workproducts/2.1.2%20Repositorio%20del%20Proyecto.xmi"/>
     <resourceDescriptors xmi:id="_d6i5gE9JEeOnwdUxxNzrEQ" id="-DubY0AXKJ3j4wWbHFFyQLA" uri="workproducts/2.2%20Productos%20de%20Salida%20(IS).xmi"/>
     <resourceDescriptors xmi:id="_qB-DsE9cEeO4rNOZzda7hA" id="-ks8f2fSZLliU6She2m8bvQ" uri="tasks/(GP.1)%20Revision%20y%20verificacion%20de%20los%20entregables%20y%20tareas.xmi"/>
+    <resourceDescriptors xmi:id="_afopgE-kEeO-bLJ5HHk0ew" id="-0uEvNseOxVtyRytJuQ8q_Q" uri="tasks/(GP%203.1)%20Evaluar%20el%20proceso%20del%20proyecto.xmi"/>
+    <resourceDescriptors xmi:id="_PTo1sE-lEeO-bLJ5HHk0ew" id="-umF22hXuxMxTTJEEfZEh6g" uri="tasks/(GP%203.2)%20Establecer%20acciones%20para%20corregir%20desviaciones%20o%20problemas.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_NesdEEwSEeOMSJp31xEydQ" name="MDS-ISO 29110 Clínica Americana Juliaca" guid="_NesdEEwSEeOMSJp31xEydQ" presentationName="MDS-ISO 29110 Clínica Americana Juliaca" briefDescription="Documentacion para el desarrollo de software basado en la ISO 29110" authors="Edwin Calsin Quinto William Calisaya Pari" changeDate="2013-11-12T22:19:43.456-0500" version="0.1">
     <methodElementProperty xmi:id="_NeyjsEwSEeOMSJp31xEydQ" name="plugin_synFree" value="true"/>
@@ -39,16 +41,16 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_ih6-QEwdEeOMSJp31xEydQ" name="1. Proceso de Gestión del Proyecto (GP)" guid="_ih6-QEwdEeOMSJp31xEydQ" presentationName="1. Proceso de Gestión del Proyecto (GP)" briefDescription="El propósito del proceso del gestión del proyecto es establecer y lleva a cabo de manera sistematica las tareas de un proyecto de implementacion de software que permitan cumplir con los objetivos del proyecto en calidad, tiempo y costos esperados. &#xD;&#xA;">
             <methodElementProperty xmi:id="_34nPAEwdEeOMSJp31xEydQ" name="me_edited" value="true"/>
             <presentation xmi:id="-7QyJ9MsgOpLdrfXWKx8bRA" href="uma://-7QyJ9MsgOpLdrfXWKx8bRA#-7QyJ9MsgOpLdrfXWKx8bRA"/>
-            <subdiscipline xmi:id="_ww6-IEweEeOMSJp31xEydQ" name="(GP.1) Planificación del Proyecto" guid="_ww6-IEweEeOMSJp31xEydQ" presentationName="(GP.1) Planificación del Proyecto">
+            <subdiscipline xmi:id="_ww6-IEweEeOMSJp31xEydQ" name="(GP.1) Planificación del Proyecto" guid="_ww6-IEweEeOMSJp31xEydQ" presentationName="(GP.1) Planificación del Proyecto" tasks="_JmDyAE9cEeO4rNOZzda7hA">
               <methodElementProperty xmi:id="_9u860EweEeOMSJp31xEydQ" name="me_edited" value="true"/>
             </subdiscipline>
-            <subdiscipline xmi:id="_5EwckEweEeOMSJp31xEydQ" name="(GP.2) Ejecución del Plan del Proyecto" guid="_5EwckEweEeOMSJp31xEydQ" presentationName="(GP.2) Ejecución del Plan del Proyecto">
+            <subdiscipline xmi:id="_5EwckEweEeOMSJp31xEydQ" name="(GP.2) Ejecución del Plan del Proyecto" guid="_5EwckEweEeOMSJp31xEydQ" presentationName="(GP.2) Ejecución del Plan del Proyecto" tasks="_lfMuAE9aEeOLrv7b1Xd62g _jzPR8E-bEeO-bLJ5HHk0ew _N1ImcE-cEeO-bLJ5HHk0ew _EERT4E-dEeO-bLJ5HHk0ew _2Wqe8E-dEeO-bLJ5HHk0ew _5LTUUE-eEeO-bLJ5HHk0ew">
               <methodElementProperty xmi:id="_9vDogEweEeOMSJp31xEydQ" name="me_edited" value="true"/>
             </subdiscipline>
-            <subdiscipline xmi:id="_DIQh0EwfEeOMSJp31xEydQ" name="(GP.3) Evaluación y Control del Proyecto" guid="_DIQh0EwfEeOMSJp31xEydQ" presentationName="(GP.3) Evaluación y Control del Proyecto">
+            <subdiscipline xmi:id="_DIQh0EwfEeOMSJp31xEydQ" name="(GP.3) Evaluación y Control del Proyecto" guid="_DIQh0EwfEeOMSJp31xEydQ" presentationName="(GP.3) Evaluación y Control del Proyecto" tasks="_wberME-jEeO-bLJ5HHk0ew _x-ybkE-kEeO-bLJ5HHk0ew _UzaREE-lEeO-bLJ5HHk0ew">
               <methodElementProperty xmi:id="_H34SoEwfEeOMSJp31xEydQ" name="me_edited" value="true"/>
             </subdiscipline>
-            <subdiscipline xmi:id="_KsnEEEwfEeOMSJp31xEydQ" name="(GP.4) Cierre del Proyecto" guid="_KsnEEEwfEeOMSJp31xEydQ" presentationName="(GP.4) Cierre del Proyecto">
+            <subdiscipline xmi:id="_KsnEEEwfEeOMSJp31xEydQ" name="(GP.4) Cierre del Proyecto" guid="_KsnEEEwfEeOMSJp31xEydQ" presentationName="(GP.4) Cierre del Proyecto" tasks="_8S9koE-lEeO-bLJ5HHk0ew _jLpsgE-mEeO-bLJ5HHk0ew">
               <methodElementProperty xmi:id="_OK2FgEwfEeOMSJp31xEydQ" name="me_edited" value="true"/>
             </subdiscipline>
           </contentElements>
@@ -91,8 +93,12 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NetEJ0wSEeOMSJp31xEydQ" name="StandardCategories" guid="_NetEJ0wSEeOMSJp31xEydQ"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NetEKEwSEeOMSJp31xEydQ" name="CustomCategories" guid="_NetEKEwSEeOMSJp31xEydQ">
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NetEKUwSEeOMSJp31xEydQ" name="Hidden" guid="_NetEKUwSEeOMSJp31xEydQ">
-            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_NetEKkwSEeOMSJp31xEydQ" name="Custom Categories" guid="_NetEKkwSEeOMSJp31xEydQ"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_NetEKkwSEeOMSJp31xEydQ" name="Custom Categories" guid="_NetEKkwSEeOMSJp31xEydQ" categorizedElements="_U3zW8E-nEeO-bLJ5HHk0ew"/>
           </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_U3zW8E-nEeO-bLJ5HHk0ew" name="MODELO" guid="_U3zW8E-nEeO-bLJ5HHk0ew" presentationName="MODELO" shapeicon="customcategories/resources/docs_apps_scripts-64.gif" categorizedElements="_SIrMAEwqEeOMSJp31xEydQ _h0Nn4EwWEeOMSJp31xEydQ">
+            <methodElementProperty xmi:id="_datMIE-nEeO-bLJ5HHk0ew" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_80ddQE-nEeO-bLJ5HHk0ew" name="CategoryElementsSortType" value="Alphabetic"/>
+          </contentElements>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NetEK0wSEeOMSJp31xEydQ" name="CoreContent" guid="_NetEK0wSEeOMSJp31xEydQ">
@@ -135,7 +141,7 @@
                   <methodElementProperty xmi:id="_MPtbAE8_EeOnwdUxxNzrEQ" name="me_edited" value="true"/>
                   <presentation xmi:id="-KocKKuA8gaC2JN-KVL8r3w" href="uma://-KocKKuA8gaC2JN-KVL8r3w#-KocKKuA8gaC2JN-KVL8r3w"/>
                 </containedArtifacts>
-                <containedArtifacts xmi:id="_SC5hoE8_EeOnwdUxxNzrEQ" name="1.1.2 Configuracion de Software" guid="_SC5hoE8_EeOnwdUxxNzrEQ" presentationName="1.1.2 Configuracion de Software" briefDescription="Configuracion de Software...">
+                <containedArtifacts xmi:id="_SC5hoE8_EeOnwdUxxNzrEQ" name="1.1.2 Configuracion de Software {entregada}" guid="_SC5hoE8_EeOnwdUxxNzrEQ" presentationName="1.1.2 Configuracion de Software {entregada}" briefDescription="Configuracion de Software...">
                   <methodElementProperty xmi:id="_WwaZoE8_EeOnwdUxxNzrEQ" name="me_edited" value="true"/>
                   <presentation xmi:id="-xiWeOit3DtmOchgyTNfu2A" href="uma://-xiWeOit3DtmOchgyTNfu2A#-xiWeOit3DtmOchgyTNfu2A"/>
                 </containedArtifacts>
@@ -165,7 +171,7 @@
                   <methodElementProperty xmi:id="_xdkjUE9AEeOnwdUxxNzrEQ" name="me_edited" value="true"/>
                   <presentation xmi:id="-M-n-N-GO-_Af_r5BUm_sDQ" href="uma://-M-n-N-GO-_Af_r5BUm_sDQ#-M-n-N-GO-_Af_r5BUm_sDQ"/>
                 </containedArtifacts>
-                <containedArtifacts xmi:id="_Uz0fME9BEeOnwdUxxNzrEQ" name="1.2.5 Configuración de Software" guid="_Uz0fME9BEeOnwdUxxNzrEQ" presentationName="1.2.5 Configuración de Software" briefDescription="Configuración de Software">
+                <containedArtifacts xmi:id="_Uz0fME9BEeOnwdUxxNzrEQ" name="1.2.5 Configuración de Software {aceptada}" guid="_Uz0fME9BEeOnwdUxxNzrEQ" presentationName="1.2.5 Configuración de Software {aceptada}" briefDescription="Configuración de Software">
                   <methodElementProperty xmi:id="_1BBmgE9BEeOnwdUxxNzrEQ" name="me_edited" value="true"/>
                   <presentation xmi:id="-ABF_3QUaXSb0FNdSkZOfiA" href="uma://-ABF_3QUaXSb0FNdSkZOfiA#-ABF_3QUaXSb0FNdSkZOfiA"/>
                 </containedArtifacts>
@@ -241,6 +247,23 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_5LTUUE-eEeO-bLJ5HHk0ew" name="(GP 2.6) Realizar la recuperación del repositorio del proyecto" guid="_5LTUUE-eEeO-bLJ5HHk0ew" presentationName="(GP 2.6) Realizar la recuperación del repositorio del proyecto" briefDescription="Realizar la recuperación del repositorio del proyecto utilizando el respaldo del repositorio del proyecto en caso de ser necesario" performedBy="_UlwUcEwUEeOMSJp31xEydQ" mandatoryInput="_fLPwkE9CEeOnwdUxxNzrEQ" output="_hpmUQE9AEeOnwdUxxNzrEQ">
             <methodElementProperty xmi:id="_GB-r0E-fEeO-bLJ5HHk0ew" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wberME-jEeO-bLJ5HHk0ew" name="(GP 3.1) Evaluar el proceso del proyecto" guid="_wberME-jEeO-bLJ5HHk0ew" presentationName="(GP 3.1) Evaluar el proceso del proyecto" briefDescription="Evaluar el proceso del proyecto con respecto al plan del proyecto comparado" performedBy="_UlwUcEwUEeOMSJp31xEydQ _YiGOMEwUEeOMSJp31xEydQ _fYgFUEwUEeOMSJp31xEydQ" mandatoryInput="_MM6JME9AEeOnwdUxxNzrEQ _ZxalIE9CEeOnwdUxxNzrEQ" output="_ZxalIE9CEeOnwdUxxNzrEQ">
+            <methodElementProperty xmi:id="_aflmME-kEeO-bLJ5HHk0ew" name="me_edited" value="true"/>
+            <presentation xmi:id="-0uEvNseOxVtyRytJuQ8q_Q" href="uma://-0uEvNseOxVtyRytJuQ8q_Q#-0uEvNseOxVtyRytJuQ8q_Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_x-ybkE-kEeO-bLJ5HHk0ew" name="(GP 3.2) Establecer acciones para corregir desviaciones o problemas" guid="_x-ybkE-kEeO-bLJ5HHk0ew" presentationName="(GP 3.2) Establecer acciones para corregir desviaciones o problemas" briefDescription="Establecer acciones para corregir desviaciones o problemas e identificar riesgos que amenacen el cumplimiento del plan, en caso de ser necesario documentarlos en acciones correctivas y dar seguimiento hasta su conclusion" performedBy="_UlwUcEwUEeOMSJp31xEydQ _YiGOMEwUEeOMSJp31xEydQ _fYgFUEwUEeOMSJp31xEydQ" mandatoryInput="_ZxalIE9CEeOnwdUxxNzrEQ" output="_ETwJsE9CEeOnwdUxxNzrEQ">
+            <methodElementProperty xmi:id="_PTj9ME-lEeO-bLJ5HHk0ew" name="me_edited" value="true"/>
+            <presentation xmi:id="-umF22hXuxMxTTJEEfZEh6g" href="uma://-umF22hXuxMxTTJEEfZEh6g#-umF22hXuxMxTTJEEfZEh6g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_UzaREE-lEeO-bLJ5HHk0ew" name="(GP 3.3) Identificar Cambios a requisitos" guid="_UzaREE-lEeO-bLJ5HHk0ew" presentationName="(GP 3.3) Identificar Cambios a requisitos" briefDescription="Identificar Cambios a requisitos y/o al plan del proyecto para hacer frente a importantes potenciales riesgos o problemas relativos al cumplimiento del plan documentarlos en una solicitud de cambio y dar seguimiento hasta su conclusión" performedBy="_UlwUcEwUEeOMSJp31xEydQ _YiGOMEwUEeOMSJp31xEydQ _fYgFUEwUEeOMSJp31xEydQ" mandatoryInput="_ZxalIE9CEeOnwdUxxNzrEQ" output="_YSvvEE8_EeOnwdUxxNzrEQ">
+            <methodElementProperty xmi:id="_swYnkE-lEeO-bLJ5HHk0ew" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_8S9koE-lEeO-bLJ5HHk0ew" name="(GP 4.1) Formalizar la conclusion del proyecto" guid="_8S9koE-lEeO-bLJ5HHk0ew" presentationName="(GP 4.1) Formalizar la conclusion del proyecto" briefDescription="Formalizar la conclusion del proyecto de acuerdo a las instrucciones de entregas establecidas en el plan del proyecto proporcioando el apoyo para su aceptacion y obteniendo las firmas correspondientes en el Acta de Aceptacion." performedBy="_UlwUcEwUEeOMSJp31xEydQ _NAS-8EwUEeOMSJp31xEydQ" mandatoryInput="_MM6JME9AEeOnwdUxxNzrEQ _SC5hoE8_EeOnwdUxxNzrEQ" output="_WZmmsE9AEeOnwdUxxNzrEQ _Uz0fME9BEeOnwdUxxNzrEQ">
+            <methodElementProperty xmi:id="_Qz1nsE-mEeO-bLJ5HHk0ew" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_jLpsgE-mEeO-bLJ5HHk0ew" name="(GP 4.2) Actualizar el Repositorio del Proyecto" guid="_jLpsgE-mEeO-bLJ5HHk0ew" presentationName="(GP 4.2) Actualizar el Repositorio del Proyecto" briefDescription="Actualizar el Repositorio del Proyecto" performedBy="_UlwUcEwUEeOMSJp31xEydQ" mandatoryInput="_Uz0fME9BEeOnwdUxxNzrEQ _hpmUQE9AEeOnwdUxxNzrEQ" output="_hpmUQE9AEeOnwdUxxNzrEQ">
+            <methodElementProperty xmi:id="_sp4hgE-mEeO-bLJ5HHk0ew" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
       </childPackages>
