@@ -217,14 +217,20 @@
             </containedArtifacts>
           </contentElements>
 <<<<<<< HEAD
+<<<<<<< HEAD
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_HUZrsE9MEeO-TPDEKm6mQA" name="magwi" guid="_HUZrsE9MEeO-TPDEKm6mQA" presentationName="magwi">
             <methodElementProperty xmi:id="_IXDbgE9MEeO-TPDEKm6mQA" name="me_edited" value="true"/>
 =======
+=======
+>>>>>>> 7380fd1b99b6d30d6dc5f7756cb36b348b724818
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Fz6JUE9MEeOnwdUxxNzrEQ" name="de edwin" guid="_Fz6JUE9MEeOnwdUxxNzrEQ" presentationName="de edwin">
             <methodElementProperty xmi:id="_HNiOsE9MEeOnwdUxxNzrEQ" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_9gwK4E9MEeOnwdUxxNzrEQ" name="dassssssssss" guid="_9gwK4E9MEeOnwdUxxNzrEQ" presentationName="dassssssssss" briefDescription="dassssssssss">
             <methodElementProperty xmi:id="__BOfIE9MEeOnwdUxxNzrEQ" name="me_edited" value="true"/>
+<<<<<<< HEAD
+>>>>>>> 7380fd1b99b6d30d6dc5f7756cb36b348b724818
+=======
 >>>>>>> 7380fd1b99b6d30d6dc5f7756cb36b348b724818
           </contentElements>
         </childPackages>
