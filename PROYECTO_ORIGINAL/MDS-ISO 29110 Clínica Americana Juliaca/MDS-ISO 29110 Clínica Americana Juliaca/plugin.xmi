@@ -34,6 +34,8 @@
     <resourceDescriptors xmi:id="_1K3j8E_OEeO26cQ3jgxm8w" id="-h0dAwlG6cfdIprWF9--12g" uri="disciplines/(IS.1)%20Inicio%20de%20la%20Implementación%20de%20Software.xmi"/>
     <resourceDescriptors xmi:id="_1LDKIE_OEeO26cQ3jgxm8w" id="--KtG2BM85pp-MZw3GGP4sg" uri="tasks/(IS%201.1)%20Revisar%20el%20Plan%20de%20proyecto%20con%20el%20equipo%20de%20trabajo.xmi"/>
     <resourceDescriptors xmi:id="_nOV3UE_REeO26cQ3jgxm8w" id="-OrK_Qe3TfrpjJsQe57qmlw" uri="tasks/(IS%201.2)%20Establecer%20el%20ambiente%20de%20trabajo.xmi"/>
+    <resourceDescriptors xmi:id="_hMLEEE_SEeO26cQ3jgxm8w" id="-1VbpPy5Mah_Rfb92IAbSFQ" uri="disciplines/(IS.2)%20Análisis%20de%20Requisitos%20del%20Software.xmi"/>
+    <resourceDescriptors xmi:id="_hMRxwE_SEeO26cQ3jgxm8w" id="-VjPtp2q-SuURPHZZq_ynug" uri="tasks/(IS%202.1)%20Asignar%20Tareasa%20los%20miembros%20del%20equipo%20de%20trabajo.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_NesdEEwSEeOMSJp31xEydQ" name="MDS-ISO 29110 Clínica Americana Juliaca" guid="_NesdEEwSEeOMSJp31xEydQ" presentationName="MDS-ISO 29110 Clínica Americana Juliaca" briefDescription="Documentacion para el desarrollo de software basado en la ISO 29110" authors="Edwin Calsin Quinto William Calisaya Pari" changeDate="2013-11-12T22:19:43.456-0500" version="0.1">
     <methodElementProperty xmi:id="_NeyjsEwSEeOMSJp31xEydQ" name="plugin_synFree" value="true"/>
@@ -71,6 +73,7 @@
             </subdiscipline>
             <subdiscipline xmi:id="_mVF3cEwpEeOMSJp31xEydQ" name="(IS.2) Análisis de Requisitos del Software" guid="_mVF3cEwpEeOMSJp31xEydQ" presentationName="(IS.2) Análisis de Requisitos del Software">
               <methodElementProperty xmi:id="_tz9cwEwpEeOMSJp31xEydQ" name="me_edited" value="true"/>
+              <presentation xmi:id="-1VbpPy5Mah_Rfb92IAbSFQ" href="uma://-1VbpPy5Mah_Rfb92IAbSFQ#-1VbpPy5Mah_Rfb92IAbSFQ"/>
             </subdiscipline>
             <subdiscipline xmi:id="_vXuVkEwpEeOMSJp31xEydQ" name="(IS.3) Arquitectura y Diseño Detallado del Software" guid="_vXuVkEwpEeOMSJp31xEydQ" presentationName="(IS.3) Arquitectura y Diseño Detallado del Software">
               <methodElementProperty xmi:id="_3LWC4EwpEeOMSJp31xEydQ" name="me_edited" value="true"/>
@@ -302,6 +305,10 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_1Kd7UE_OEeO26cQ3jgxm8w" name="(IS 1.2) Establecer el ambiente de trabajo" guid="_1Kd7UE_OEeO26cQ3jgxm8w" presentationName="(IS 1.2) Establecer el ambiente de trabajo" briefDescription="Establecer el ambiente de trabajo">
             <methodElementProperty xmi:id="_nO9iYE_REeO26cQ3jgxm8w" name="me_edited" value="true"/>
             <presentation xmi:id="-OrK_Qe3TfrpjJsQe57qmlw" href="uma://-OrK_Qe3TfrpjJsQe57qmlw#-OrK_Qe3TfrpjJsQe57qmlw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_xhKK8E_REeO26cQ3jgxm8w" name="(IS 2.1) Asignar Tareasa los miembros del equipo de trabajo" guid="_xhKK8E_REeO26cQ3jgxm8w" presentationName="(IS 2.1) Asignar Tareasa los miembros del equipo de trabajo">
+            <methodElementProperty xmi:id="_hMJO4E_SEeO26cQ3jgxm8w" name="me_edited" value="true"/>
+            <presentation xmi:id="-VjPtp2q-SuURPHZZq_ynug" href="uma://-VjPtp2q-SuURPHZZq_ynug#-VjPtp2q-SuURPHZZq_ynug"/>
           </contentElements>
         </childPackages>
       </childPackages>
