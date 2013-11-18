@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VZCDsXivmnkE7Wg3fAgUyA" name=",_F_28YE_VEeO26cQ3jgxm8w" guid="-VZCDsXivmnkE7Wg3fAgUyA" changeDate="2013-11-17T17:13:24.936-0500">
-  <mainDescription>&lt;ul>&#xD;
-    &lt;li>&#xD;
-        Verificar que la &lt;em>Especificación de Requisitos&lt;/em> sea correcta, pueda ser probada y sea consistente con&#xD;
-        la&amp;nbsp; Descripción del Producto.&#xD;
-    &lt;/li>&#xD;
-    &lt;li>&#xD;
-        Adicionalmente, revisar que los requisitos estén completos, sin ambigüedades ni contradicciones. Los resultados&#xD;
-        encontrados se documentan en Resultado de Verificación y las correcciones se realizan hasta que el documento tenga&#xD;
-        el visto bueno del&lt;br />&#xD;
-        AN. Si fueran necesarios cambios significativos, se propone una &lt;em>Solicitud de Cambio&lt;/em>.&#xD;
-    &lt;/li>&#xD;
-&lt;/ul></mainDescription>
+  <mainDescription>&lt;p>&#xD;
+    Verificar y obtener la aprobación de la Especificación de Requisitos.&#xD;
+&lt;/p></mainDescription>
   <keyConsiderations>IS 2.3</keyConsiderations>
+  <sections xmi:id="_Ui3DEE_mEeO26cQ3jgxm8w" name="Especificación de Requisitos " guid="_Ui3DEE_mEeO26cQ3jgxm8w">
+    <sectionDescription>Verificar que la &lt;em>Especificación de Requisitos&lt;/em> sea correcta, pueda ser probada y sea consistente con la&amp;nbsp;&#xD;
+Descripción del Producto.</sectionDescription>
+  </sections>
+  <sections xmi:id="_ivSFgE_mEeO26cQ3jgxm8w" name="Revisión de Requisitos " guid="_ivSFgE_mEeO26cQ3jgxm8w">
+    <sectionDescription>&lt;p>&#xD;
+    Adicionalmente, revisar que los requisitos estén completos, sin ambigüedades ni contradicciones. Los resultados&#xD;
+    encontrados se documentan en Resultado de Verificación y las correcciones se realizan hasta que el documento tenga el&#xD;
+    visto bueno del AN. Si fueran necesarios cambios significativos, se propone una &lt;em>Solicitud de Cambio&lt;/em>.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
 </org.eclipse.epf.uma:TaskDescription>
