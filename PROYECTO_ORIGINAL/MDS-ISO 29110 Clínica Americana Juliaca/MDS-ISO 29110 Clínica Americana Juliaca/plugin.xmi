@@ -97,7 +97,7 @@
               <methodElementProperty xmi:id="_Kprq4EwqEeOMSJp31xEydQ" name="me_edited" value="true"/>
               <presentation xmi:id="-Ml5nic6TXro9uEvmA01XMQ" href="uma://-Ml5nic6TXro9uEvmA01XMQ#-Ml5nic6TXro9uEvmA01XMQ"/>
             </subdiscipline>
-            <subdiscipline xmi:id="__2o_EEwpEeOMSJp31xEydQ" name="(IS.5) Integración y Pruebas del Software" guid="__2o_EEwpEeOMSJp31xEydQ" presentationName="(IS.5) Integración y Pruebas del Software">
+            <subdiscipline xmi:id="__2o_EEwpEeOMSJp31xEydQ" name="(IS.5) Integración y Pruebas del Software" guid="__2o_EEwpEeOMSJp31xEydQ" presentationName="(IS.5) Integración y Pruebas del Software" briefDescription="La actividad de integracion y pruebas del software asegura que los componentes de software integrados satisfacen los requisitos de software">
               <methodElementProperty xmi:id="_Kp8woEwqEeOMSJp31xEydQ" name="me_edited" value="true"/>
             </subdiscipline>
             <subdiscipline xmi:id="_HKlGwEwqEeOMSJp31xEydQ" name="(IS.6) Entrega del Producto" guid="_HKlGwEwqEeOMSJp31xEydQ" presentationName="(IS.6) Entrega del Producto">
@@ -394,6 +394,24 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_UkSyMFABEeOOmsnTDzwKdQ" name="(IS 4.7) Incorporar componente de software y registro de trazabilidad" guid="_UkSyMFABEeOOmsnTDzwKdQ" presentationName="(IS 4.7) Incorporar componente de software y registro de trazabilidad" briefDescription="Incorporar componente de software y registro de trazabilidad para la configuracion de software como parte de la linea base" performedBy="_YiGOMEwUEeOMSJp31xEydQ">
             <methodElementProperty xmi:id="_fzG0AFABEeOOmsnTDzwKdQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_xEIywFAIEeOOmsnTDzwKdQ" name="(IS 5.1) Asignar tareas a los miembros del equipo de trabajo" guid="_xEIywFAIEeOOmsnTDzwKdQ" presentationName="(IS 5.1) Asignar tareas a los miembros del equipo de trabajo" briefDescription="Asignar tareas a los miembros del equipo de trabajo en relacion a su rol de acuerdo al plan del proyecto actual." performedBy="_YiGOMEwUEeOMSJp31xEydQ _jw6HoEwiEeOMSJp31xEydQ">
+            <methodElementProperty xmi:id="_GSEwIFAJEeOOmsnTDzwKdQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_SO5HcFAJEeOOmsnTDzwKdQ" name="(IS 5.2) Entender los casos de prueba y procedimientos de prueba" guid="_SO5HcFAJEeOOmsnTDzwKdQ" presentationName="(IS 5.2) Entender los casos de prueba y procedimientos de prueba" briefDescription="Entender los casos de prueba y procedimientos de prueba establecer o actualizar el ambiente de prueba" performedBy="_jw6HoEwiEeOMSJp31xEydQ">
+            <methodElementProperty xmi:id="_gRXjsFAJEeOOmsnTDzwKdQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_kER0oFAJEeOOmsnTDzwKdQ" name="(IS 5.3) Integrar el Software usando los componentes de software" guid="_kER0oFAJEeOOmsnTDzwKdQ" presentationName="(IS 5.3) Integrar el Software usando los componentes de software" briefDescription="Integrar el Software usando los componentes de software y actualizar los casos de pruebas y provedimientos de prueba para las pruebas de integracion conforme sea necesario" performedBy="_jw6HoEwiEeOMSJp31xEydQ">
+            <methodElementProperty xmi:id="_2HmQIFAJEeOOmsnTDzwKdQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_v79-4FAKEeOOmsnTDzwKdQ" name="(IS 5.4) Realizar pruebas de software usando casos de pruebas" guid="_v79-4FAKEeOOmsnTDzwKdQ" presentationName="(IS 5.4) Realizar pruebas de software usando casos de pruebas" briefDescription="Realizar pruebas de software usando casos de pruebas y procedimientos de pruebas para la integracion y documentar los resultados en el reporte de pruebas" performedBy="_jw6HoEwiEeOMSJp31xEydQ _NAS-8EwUEeOMSJp31xEydQ">
+            <methodElementProperty xmi:id="_5JxLMFAKEeOOmsnTDzwKdQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NuGx8FALEeOOmsnTDzwKdQ" name="(IS 5.5) Corregir los defectos encontrados" guid="_NuGx8FALEeOOmsnTDzwKdQ" presentationName="(IS 5.5) Corregir los defectos encontrados" briefDescription="Corregir los defectos encontrados y realizar una prueba de regresíón hasta satisfacer el criterio de finalización" performedBy="_jw6HoEwiEeOMSJp31xEydQ">
+            <methodElementProperty xmi:id="_kFYV8FALEeOOmsnTDzwKdQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mhZscFALEeOOmsnTDzwKdQ" name="(IS 5.6) Actualizar el registro de Trazabilidad" guid="_mhZscFALEeOOmsnTDzwKdQ" presentationName="(IS 5.6) Actualizar el registro de Trazabilidad" briefDescription="Actualizar el registro de Trazabilidad en caso de ser necesario" performedBy="_jw6HoEwiEeOMSJp31xEydQ">
+            <methodElementProperty xmi:id="_twgXcFALEeOOmsnTDzwKdQ" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
       </childPackages>
