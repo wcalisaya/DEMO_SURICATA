@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Ml5nic6TXro9uEvmA01XMQ" name="(IS.4) Construcción del Software,_30S5QEwpEeOMSJp31xEydQ" guid="-Ml5nic6TXro9uEvmA01XMQ" changeDate="2013-11-17T22:30:10.627-0500">
+  <mainDescription>&lt;p>&#xD;
+    La actividad provee:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        La revision por parte del equipo de trabajo al plan del proyecto para determinar la asignacion de tareas.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        La revision del diseño de software por parte del equipo de trabajo para determinar la secuencia de construccion del&#xD;
+        software.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Los componentes de software codificados y pruebas unitarias aplicadas.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        La trazabilidad entre los componentes de software y el diseño de software&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

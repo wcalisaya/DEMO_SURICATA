@@ -49,6 +49,7 @@
     <resourceDescriptors xmi:id="_YWsv0E_gEeO26cQ3jgxm8w" id="-Kaatzt0h06NjAII5VRGEug" uri="tasks/(IS%203.5)%20Verificar%20la%20Aprobacion%20de%20Casos%20de%20Prueba.xmi"/>
     <resourceDescriptors xmi:id="_KVXtoE_hEeO26cQ3jgxm8w" id="-Ia1-S1xFGpDxTXeg_pizIw" uri="tasks/(IS%203.6)%20Actualizar%20el%20Registro%20de%20Trazabilidad.xmi"/>
     <resourceDescriptors xmi:id="_c4aLAE_hEeO26cQ3jgxm8w" id="-UNJ1DP8SLoclZJTPTR59gA" uri="tasks/(IS%203.7)%20Incorporar%20el%20Dieño%20y%20el%20Registro%20de%20Trazabilidad.xmi"/>
+    <resourceDescriptors xmi:id="_6StfUFABEeOOmsnTDzwKdQ" id="-Ml5nic6TXro9uEvmA01XMQ" uri="disciplines/(IS.4)%20Construcción%20del%20Software.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_NesdEEwSEeOMSJp31xEydQ" name="MDS-ISO 29110 Clínica Americana Juliaca" guid="_NesdEEwSEeOMSJp31xEydQ" presentationName="MDS-ISO 29110 Clínica Americana Juliaca" briefDescription="Documentacion para el desarrollo de software basado en la ISO 29110" authors="Edwin Calsin Quinto William Calisaya Pari" changeDate="2013-11-12T22:19:43.456-0500" version="0.1">
     <methodElementProperty xmi:id="_NeyjsEwSEeOMSJp31xEydQ" name="plugin_synFree" value="true"/>
@@ -92,8 +93,9 @@
               <methodElementProperty xmi:id="_3LWC4EwpEeOMSJp31xEydQ" name="me_edited" value="true"/>
               <presentation xmi:id="-gnXsBGQQaXsj4qplfRRMDg" href="uma://-gnXsBGQQaXsj4qplfRRMDg#-gnXsBGQQaXsj4qplfRRMDg"/>
             </subdiscipline>
-            <subdiscipline xmi:id="_30S5QEwpEeOMSJp31xEydQ" name="(IS.4) Construcción del Software" guid="_30S5QEwpEeOMSJp31xEydQ" presentationName="(IS.4) Construcción del Software">
+            <subdiscipline xmi:id="_30S5QEwpEeOMSJp31xEydQ" name="(IS.4) Construcción del Software" guid="_30S5QEwpEeOMSJp31xEydQ" presentationName="(IS.4) Construcción del Software" briefDescription="En esta actividad de construccion de software desarrolla el codigo y los datos del software a partir del diseño de software" tasks="_a34iEE__EeOOmsnTDzwKdQ _zDUyYE__EeOOmsnTDzwKdQ _DPrsQFAAEeOOmsnTDzwKdQ _YRy0IFAAEeOOmsnTDzwKdQ _1YpOgFAAEeOOmsnTDzwKdQ _GgvX4FABEeOOmsnTDzwKdQ _UkSyMFABEeOOmsnTDzwKdQ">
               <methodElementProperty xmi:id="_Kprq4EwqEeOMSJp31xEydQ" name="me_edited" value="true"/>
+              <presentation xmi:id="-Ml5nic6TXro9uEvmA01XMQ" href="uma://-Ml5nic6TXro9uEvmA01XMQ#-Ml5nic6TXro9uEvmA01XMQ"/>
             </subdiscipline>
             <subdiscipline xmi:id="__2o_EEwpEeOMSJp31xEydQ" name="(IS.5) Integración y Pruebas del Software" guid="__2o_EEwpEeOMSJp31xEydQ" presentationName="(IS.5) Integración y Pruebas del Software">
               <methodElementProperty xmi:id="_Kp8woEwqEeOMSJp31xEydQ" name="me_edited" value="true"/>
@@ -371,6 +373,27 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_KUxQsE_hEeO26cQ3jgxm8w" name="(IS 3.7) Incorporar el Dieño y el Registro de Trazabilidad" guid="_KUxQsE_hEeO26cQ3jgxm8w" presentationName="(IS 3.7) Incorporar el Dieño y el Registro de Trazabilidad" briefDescription="Incorporar el Dieño de Software y el Registro de Trazabilidad">
             <methodElementProperty xmi:id="_c7NAUE_hEeO26cQ3jgxm8w" name="me_edited" value="true"/>
             <presentation xmi:id="-UNJ1DP8SLoclZJTPTR59gA" href="uma://-UNJ1DP8SLoclZJTPTR59gA#-UNJ1DP8SLoclZJTPTR59gA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_a34iEE__EeOOmsnTDzwKdQ" name="(IS 4.1) Asignar tareas a los miembros del equipo" guid="_a34iEE__EeOOmsnTDzwKdQ" presentationName="(IS 4.1) Asignar tareas a los miembros del equipo" briefDescription="Asignar tareas a los miembros del equipo de trabajo en relacion a su rol, de acuerdo al plan del proyecto actual." performedBy="_YiGOMEwUEeOMSJp31xEydQ _jw6HoEwiEeOMSJp31xEydQ">
+            <methodElementProperty xmi:id="_rtChUE__EeOOmsnTDzwKdQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_zDUyYE__EeOOmsnTDzwKdQ" name="(IS 4.2) Entender el diseño de software" guid="_zDUyYE__EeOOmsnTDzwKdQ" presentationName="(IS 4.2) Entender el diseño de software" briefDescription="Entender el diseño de software" performedBy="_jw6HoEwiEeOMSJp31xEydQ">
+            <methodElementProperty xmi:id="_-eOIYE__EeOOmsnTDzwKdQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_DPrsQFAAEeOOmsnTDzwKdQ" name="(IS 4.3) Construir o actualizar los componentes de software" guid="_DPrsQFAAEeOOmsnTDzwKdQ" presentationName="(IS 4.3) Construir o actualizar los componentes de software" briefDescription="Construir o actualizar los componentes de software basados en la parte detallada del diseño de software." performedBy="_jw6HoEwiEeOMSJp31xEydQ">
+            <methodElementProperty xmi:id="_SnsYEFAAEeOOmsnTDzwKdQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_YRy0IFAAEeOOmsnTDzwKdQ" name="(IS 4.4) Diseñar o actualizar los casos de pruebas unitarias" guid="_YRy0IFAAEeOOmsnTDzwKdQ" presentationName="(IS 4.4) Diseñar o actualizar los casos de pruebas unitarias" briefDescription="Diseñar o actualizar los casos de pruebas unitarias y aplicarlos para verificar que los componentes de software implementan la parte detallada de diseño de software" performedBy="_jw6HoEwiEeOMSJp31xEydQ">
+            <methodElementProperty xmi:id="_p2GYYFAAEeOOmsnTDzwKdQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_1YpOgFAAEeOOmsnTDzwKdQ" name="(IS 4.5) Corregir los defectos encontrados" guid="_1YpOgFAAEeOOmsnTDzwKdQ" presentationName="(IS 4.5) Corregir los defectos encontrados" briefDescription="Corregir los defectos encontrados hasta lograr la prueba unitaria exitosa ( logrando el criterio de salida )" performedBy="_jw6HoEwiEeOMSJp31xEydQ">
+            <methodElementProperty xmi:id="_DaZ5EFABEeOOmsnTDzwKdQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_GgvX4FABEeOOmsnTDzwKdQ" name="(IS 4.6) Actualizar el registro de trazabilidad" guid="_GgvX4FABEeOOmsnTDzwKdQ" presentationName="(IS 4.6) Actualizar el registro de trazabilidad" briefDescription="Actualizar el registro de trazabilidad incorporando componente de software construidos o modificados" performedBy="_jw6HoEwiEeOMSJp31xEydQ">
+            <methodElementProperty xmi:id="_QyPc4FABEeOOmsnTDzwKdQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_UkSyMFABEeOOmsnTDzwKdQ" name="(IS 4.7) Incorporar componente de software y registro de trazabilidad" guid="_UkSyMFABEeOOmsnTDzwKdQ" presentationName="(IS 4.7) Incorporar componente de software y registro de trazabilidad" briefDescription="Incorporar componente de software y registro de trazabilidad para la configuracion de software como parte de la linea base" performedBy="_YiGOMEwUEeOMSJp31xEydQ">
+            <methodElementProperty xmi:id="_fzG0AFABEeOOmsnTDzwKdQ" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
       </childPackages>
