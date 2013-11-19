@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-64s-ByNQ_mW4LaaEN6D1NA" name="new_artifact,_qO0ucFDREeOjjsGew53ZXw" guid="-64s-ByNQ_mW4LaaEN6D1NA" changeDate="2013-11-18T23:19:20.617-0500">
+  <mainDescription>&lt;p>&#xD;
+    Nombre: Solicitud de cambio.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Destino: Gestión del proyecto.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ArtifactDescription>
