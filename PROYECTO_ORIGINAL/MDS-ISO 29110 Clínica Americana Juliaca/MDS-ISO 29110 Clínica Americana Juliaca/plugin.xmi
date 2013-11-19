@@ -69,6 +69,8 @@
     <resourceDescriptors xmi:id="_Y-rGMFDaEeOjjsGew53ZXw" id="_Y-jxcFDaEeOjjsGew53ZXw" uri="capabilitypatterns/ISO/model.xmi"/>
     <resourceDescriptors xmi:id="_fJzywFDaEeOjjsGew53ZXw" id="_fJtsIFDaEeOjjsGew53ZXw" uri="deliveryprocesses/Proceso/model.xmi"/>
     <resourceDescriptors xmi:id="_x1KpMFDbEeOjjsGew53ZXw" id="-Nbpz7RrHXeZRMdVyYiuOOw" uri="guidances/checklists/new_checklist.xmi"/>
+    <resourceDescriptors xmi:id="_hN-wUFDiEeO2TZD3TjYbQQ" id="-0-2dvTSe2cUFCPoGYrG3gg" uri="customcategories/INICIO.xmi"/>
+    <resourceDescriptors xmi:id="_U_EuAFDjEeO2TZD3TjYbQQ" id="-HYypX8KRhE302qdDie04Ig" uri="guidances/reusableassets/PROCESOS.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_NesdEEwSEeOMSJp31xEydQ" name="MDS-ISO 29110 Clínica Americana Juliaca" guid="_NesdEEwSEeOMSJp31xEydQ" presentationName="MDS-ISO 29110 Clínica Americana Juliaca" briefDescription="Documentacion para el desarrollo de software basado en la ISO 29110" authors="Edwin Calsin Quinto William Calisaya Pari" changeDate="2013-11-12T22:19:43.456-0500" version="0.1">
     <methodElementProperty xmi:id="_NeyjsEwSEeOMSJp31xEydQ" name="plugin_synFree" value="true"/>
@@ -152,10 +154,11 @@
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NetEKUwSEeOMSJp31xEydQ" name="Hidden" guid="_NetEKUwSEeOMSJp31xEydQ">
             <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_NetEKkwSEeOMSJp31xEydQ" name="Custom Categories" guid="_NetEKkwSEeOMSJp31xEydQ" categorizedElements="_U3zW8E-nEeO-bLJ5HHk0ew"/>
           </childPackages>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_U3zW8E-nEeO-bLJ5HHk0ew" name="MODELO" guid="_U3zW8E-nEeO-bLJ5HHk0ew" presentationName="MODELO" shapeicon="customcategories/resources/docs_apps_scripts-64.gif">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_U3zW8E-nEeO-bLJ5HHk0ew" name="INICIO" guid="_U3zW8E-nEeO-bLJ5HHk0ew" presentationName="INICIO" shapeicon="customcategories/resources/docs_apps_scripts-64.gif">
             <methodElementProperty xmi:id="_datMIE-nEeO-bLJ5HHk0ew" name="me_edited" value="true"/>
             <methodElementProperty xmi:id="_80ddQE-nEeO-bLJ5HHk0ew" name="CategoryElementsSortType" value="Manual"/>
             <methodElementProperty xmi:id="_vsMKAE-oEeO-bLJ5HHk0ew" name="PUBLISH_CATEGORY" value="true"/>
+            <presentation xmi:id="-0-2dvTSe2cUFCPoGYrG3gg" href="uma://-0-2dvTSe2cUFCPoGYrG3gg#-0-2dvTSe2cUFCPoGYrG3gg"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" href="#_h0Nn4EwWEeOMSJp31xEydQ"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:WorkProductType" href="#_YNum4FDZEeOjjsGew53ZXw"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" href="#_SIrMAEwqEeOMSJp31xEydQ"/>
@@ -556,6 +559,7 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Report" xmi:id="_zqjdgFDbEeOjjsGew53ZXw" name="new_report" guid="_zqjdgFDbEeOjjsGew53ZXw" presentationName="New Report"/>
           <contentElements xsi:type="org.eclipse.epf.uma:ReusableAsset" xmi:id="_0Q4dsFDbEeOjjsGew53ZXw" name="PROCESOS" guid="_0Q4dsFDbEeOjjsGew53ZXw" presentationName="PROCESOS">
             <methodElementProperty xmi:id="_RRV8MFDcEeOjjsGew53ZXw" name="me_edited" value="true"/>
+            <presentation xmi:id="-HYypX8KRhE302qdDie04Ig" href="uma://-HYypX8KRhE302qdDie04Ig#-HYypX8KRhE302qdDie04Ig"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Roadmap" xmi:id="_0xG14FDbEeOjjsGew53ZXw" name="new_roadmap" guid="_0xG14FDbEeOjjsGew53ZXw" presentationName="New Roadmap"/>
           <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_1fgM8FDbEeOjjsGew53ZXw" name="new_supporting_material" guid="_1fgM8FDbEeOjjsGew53ZXw" presentationName="New Supporting Material"/>
