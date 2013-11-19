@@ -50,6 +50,11 @@
     <resourceDescriptors xmi:id="_KVXtoE_hEeO26cQ3jgxm8w" id="-Ia1-S1xFGpDxTXeg_pizIw" uri="tasks/(IS%203.6)%20Actualizar%20el%20Registro%20de%20Trazabilidad.xmi"/>
     <resourceDescriptors xmi:id="_c4aLAE_hEeO26cQ3jgxm8w" id="-UNJ1DP8SLoclZJTPTR59gA" uri="tasks/(IS%203.7)%20Incorporar%20el%20Dieño%20y%20el%20Registro%20de%20Trazabilidad.xmi"/>
     <resourceDescriptors xmi:id="_6StfUFABEeOOmsnTDzwKdQ" id="-Ml5nic6TXro9uEvmA01XMQ" uri="disciplines/(IS.4)%20Construcción%20del%20Software.xmi"/>
+    <resourceDescriptors xmi:id="_GC5ocFDJEeOjjsGew53ZXw" id="-0pwv8T2hI6eoXWqrPD-_xA" uri="tasks/(IS%205.7)%20Documentar%20el%20manual%20de%20operación.xmi"/>
+    <resourceDescriptors xmi:id="_9rHMMFDKEeOjjsGew53ZXw" id="-84-uV6U_QBclCOSCJKMKAg" uri="tasks/(IS%205.8)%20Verificar%20y%20Obtener%20la%20aprobacion%20del%20manual%20de%20aprobación.xmi"/>
+    <resourceDescriptors xmi:id="_dyZ4wFDLEeOjjsGew53ZXw" id="-IvJmxJ2VApXjOaf1IsaY0g" uri="tasks/(IS%205.9)%20Documentar%20el%20manual%20de%20Usuario.xmi"/>
+    <resourceDescriptors xmi:id="_Rm_PUFDMEeOjjsGew53ZXw" id="-u6oDXXuhaUSB7lPTQCDS4A" uri="tasks/(IS%205.10)%20Verificar%20y%20Obtener%20la%20aprovacíon%20del%20manual%20de%20Usuario.xmi"/>
+    <resourceDescriptors xmi:id="_xheO8FDMEeOjjsGew53ZXw" id="-QSCvKDpJQUZ2_MWBltx5Og" uri="tasks/(IS%205.11)%20Incorporar%20los%20casos%20de%20prueba%20y%20procedimientos%20de%20prueba.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_NesdEEwSEeOMSJp31xEydQ" name="MDS-ISO 29110 Clínica Americana Juliaca" guid="_NesdEEwSEeOMSJp31xEydQ" presentationName="MDS-ISO 29110 Clínica Americana Juliaca" briefDescription="Documentacion para el desarrollo de software basado en la ISO 29110" authors="Edwin Calsin Quinto William Calisaya Pari" changeDate="2013-11-12T22:19:43.456-0500" version="0.1">
     <methodElementProperty xmi:id="_NeyjsEwSEeOMSJp31xEydQ" name="plugin_synFree" value="true"/>
@@ -97,7 +102,7 @@
               <methodElementProperty xmi:id="_Kprq4EwqEeOMSJp31xEydQ" name="me_edited" value="true"/>
               <presentation xmi:id="-Ml5nic6TXro9uEvmA01XMQ" href="uma://-Ml5nic6TXro9uEvmA01XMQ#-Ml5nic6TXro9uEvmA01XMQ"/>
             </subdiscipline>
-            <subdiscipline xmi:id="__2o_EEwpEeOMSJp31xEydQ" name="(IS.5) Integración y Pruebas del Software" guid="__2o_EEwpEeOMSJp31xEydQ" presentationName="(IS.5) Integración y Pruebas del Software" briefDescription="La actividad de integracion y pruebas del software asegura que los componentes de software integrados satisfacen los requisitos de software">
+            <subdiscipline xmi:id="__2o_EEwpEeOMSJp31xEydQ" name="(IS.5) Integración y Pruebas del Software" guid="__2o_EEwpEeOMSJp31xEydQ" presentationName="(IS.5) Integración y Pruebas del Software" briefDescription="La actividad de integracion y pruebas del software asegura que los componentes de software integrados satisfacen los requisitos de software" tasks="_xEIywFAIEeOOmsnTDzwKdQ _yFORsFDLEeOjjsGew53ZXw _ZHvD8FDMEeOjjsGew53ZXw _SO5HcFAJEeOOmsnTDzwKdQ _kER0oFAJEeOOmsnTDzwKdQ _v79-4FAKEeOOmsnTDzwKdQ _NuGx8FALEeOOmsnTDzwKdQ _mhZscFALEeOOmsnTDzwKdQ _vXzwkFDIEeOjjsGew53ZXw _nNcsUFDKEeOjjsGew53ZXw _PQpfgFDLEeOjjsGew53ZXw">
               <methodElementProperty xmi:id="_Kp8woEwqEeOMSJp31xEydQ" name="me_edited" value="true"/>
             </subdiscipline>
             <subdiscipline xmi:id="_HKlGwEwqEeOMSJp31xEydQ" name="(IS.6) Entrega del Producto" guid="_HKlGwEwqEeOMSJp31xEydQ" presentationName="(IS.6) Entrega del Producto">
@@ -412,6 +417,26 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mhZscFALEeOOmsnTDzwKdQ" name="(IS 5.6) Actualizar el registro de Trazabilidad" guid="_mhZscFALEeOOmsnTDzwKdQ" presentationName="(IS 5.6) Actualizar el registro de Trazabilidad" briefDescription="Actualizar el registro de Trazabilidad en caso de ser necesario" performedBy="_jw6HoEwiEeOMSJp31xEydQ">
             <methodElementProperty xmi:id="_twgXcFALEeOOmsnTDzwKdQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_vXzwkFDIEeOjjsGew53ZXw" name="(IS 5.7) Documentar el manual de operación" guid="_vXzwkFDIEeOjjsGew53ZXw" presentationName="(IS 5.7) Documentar el manual de operación" performedBy="_jw6HoEwiEeOMSJp31xEydQ">
+            <methodElementProperty xmi:id="_GCnUkFDJEeOjjsGew53ZXw" name="me_edited" value="true"/>
+            <presentation xmi:id="-0pwv8T2hI6eoXWqrPD-_xA" href="uma://-0pwv8T2hI6eoXWqrPD-_xA#-0pwv8T2hI6eoXWqrPD-_xA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_nNcsUFDKEeOjjsGew53ZXw" name="(IS 5.8) Verificar y Obtener la aprobacion del manual de aprobación" guid="_nNcsUFDKEeOjjsGew53ZXw" presentationName="(IS 5.8) Verificar y Obtener la aprobacion del manual de aprobación" performedBy="_jw6HoEwiEeOMSJp31xEydQ _6Qo1UEwoEeOMSJp31xEydQ">
+            <methodElementProperty xmi:id="_9q_QYFDKEeOjjsGew53ZXw" name="me_edited" value="true"/>
+            <presentation xmi:id="-84-uV6U_QBclCOSCJKMKAg" href="uma://-84-uV6U_QBclCOSCJKMKAg#-84-uV6U_QBclCOSCJKMKAg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_PQpfgFDLEeOjjsGew53ZXw" name="(IS 5.9) Documentar el manual de Usuario" guid="_PQpfgFDLEeOjjsGew53ZXw" presentationName="(IS 5.9) Documentar el manual de Usuario" performedBy="_z-HHUEwoEeOMSJp31xEydQ">
+            <methodElementProperty xmi:id="_dyW1cFDLEeOjjsGew53ZXw" name="me_edited" value="true"/>
+            <presentation xmi:id="-IvJmxJ2VApXjOaf1IsaY0g" href="uma://-IvJmxJ2VApXjOaf1IsaY0g#-IvJmxJ2VApXjOaf1IsaY0g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_yFORsFDLEeOjjsGew53ZXw" name="(IS 5.10) Verificar y Obtener la aprovacíon del manual de Usuario" guid="_yFORsFDLEeOjjsGew53ZXw" presentationName="(IS 5.10) Verificar y Obtener la aprovacíon del manual de Usuario" performedBy="_z-HHUEwoEeOMSJp31xEydQ _NAS-8EwUEeOMSJp31xEydQ">
+            <methodElementProperty xmi:id="_Rm6W0FDMEeOjjsGew53ZXw" name="me_edited" value="true"/>
+            <presentation xmi:id="-u6oDXXuhaUSB7lPTQCDS4A" href="uma://-u6oDXXuhaUSB7lPTQCDS4A#-u6oDXXuhaUSB7lPTQCDS4A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ZHvD8FDMEeOjjsGew53ZXw" name="(IS 5.11) Incorporar los casos de prueba y procedimientos de prueba" guid="_ZHvD8FDMEeOjjsGew53ZXw" presentationName="(IS 5.11) Incorporar los casos de prueba y procedimientos de prueba" performedBy="_YiGOMEwUEeOMSJp31xEydQ">
+            <methodElementProperty xmi:id="_xhakkFDMEeOjjsGew53ZXw" name="me_edited" value="true"/>
+            <presentation xmi:id="-QSCvKDpJQUZ2_MWBltx5Og" href="uma://-QSCvKDpJQUZ2_MWBltx5Og#-QSCvKDpJQUZ2_MWBltx5Og"/>
           </contentElements>
         </childPackages>
       </childPackages>

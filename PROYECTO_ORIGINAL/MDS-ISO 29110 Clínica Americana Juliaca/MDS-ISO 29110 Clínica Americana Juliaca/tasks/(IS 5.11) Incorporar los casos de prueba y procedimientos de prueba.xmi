@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-QSCvKDpJQUZ2_MWBltx5Og" name=",_ZHvD8FDMEeOjjsGew53ZXw" guid="-QSCvKDpJQUZ2_MWBltx5Og" changeDate="2013-11-18T22:41:43.273-0500">
+  <mainDescription>Incorporar los casos de prueba y procedimientos de prueba, software, registro de trazabilidad, reporte de pruebas, manual&#xD;
+de operación y manual de usuario y la configuración de software como parte de linea base.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

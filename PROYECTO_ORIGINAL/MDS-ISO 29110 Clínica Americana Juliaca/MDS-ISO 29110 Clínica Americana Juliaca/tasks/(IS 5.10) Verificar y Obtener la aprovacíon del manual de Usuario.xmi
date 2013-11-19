@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-u6oDXXuhaUSB7lPTQCDS4A" name=",_yFORsFDLEeOjjsGew53ZXw" guid="-u6oDXXuhaUSB7lPTQCDS4A" changeDate="2013-11-18T22:37:35.299-0500">
+  <mainDescription>Verificar y Obtener la aprovacíon del manual de Usuario, en caso de ser necesario ver (IS 5.9) verificar la consistencia&#xD;
+del manual de usuario con el software. Los resultados encontrados son documentdos en resultado de verificación y se&#xD;
+realizan las correcciones hasta que el documento sea aprobado por CL.</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

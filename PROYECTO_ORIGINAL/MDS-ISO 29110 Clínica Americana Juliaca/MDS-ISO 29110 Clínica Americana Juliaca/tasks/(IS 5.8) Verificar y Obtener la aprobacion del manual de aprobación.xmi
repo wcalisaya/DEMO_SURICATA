@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-84-uV6U_QBclCOSCJKMKAg" name=",_nNcsUFDKEeOjjsGew53ZXw" guid="-84-uV6U_QBclCOSCJKMKAg" changeDate="2013-11-18T22:29:52.669-0500">
+  <mainDescription>Verificar y Obtener la aprobacion del manual de aprobación, en caso de ser necesario ver la documentacion del manual de&#xD;
+operación (IS 5.7)</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>
