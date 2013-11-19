@@ -75,6 +75,13 @@
     <resourceDescriptors xmi:id="_3psdEFFeEeOfL5qTYCy8wA" id="-Mu_ZrunhLPgt1E7_6wzNpA" uri="disciplines/(GP.2)%20Ejecución%20del%20Plan%20del%20Proyecto.xmi"/>
     <resourceDescriptors xmi:id="_IWFh4FFfEeOfL5qTYCy8wA" id="-3AFEVqaTOpUcphzK7H17QQ" uri="disciplines/(GP.3)%20Evaluación%20y%20Control%20del%20Proyecto.xmi"/>
     <resourceDescriptors xmi:id="_hNDbcFFfEeOfL5qTYCy8wA" id="-XXWSbXwEAw4mrRZR88Z5rg" uri="disciplines/(GP.4)%20Cierre%20del%20Proyecto.xmi"/>
+    <resourceDescriptors xmi:id="_qFthYFFjEeOfL5qTYCy8wA" id="-WlSzjxB2w-zvtz6Q77cYkA" uri="disciplines/(IS.5)%20Integración%20y%20Pruebas%20del%20Software.xmi"/>
+    <resourceDescriptors xmi:id="_4Ea38FFjEeOfL5qTYCy8wA" id="-jWtnJk4HFpnE1bz9CjNFSg" uri="disciplines/(IS.6)%20Entrega%20del%20Producto.xmi"/>
+    <resourceDescriptors xmi:id="_SeYOQFFkEeOfL5qTYCy8wA" id="-nMJvQX2U6Bm2o2icuovPFg" uri="roles/7.%20Diseñador%20(DI).xmi"/>
+    <resourceDescriptors xmi:id="_vCnq0FFkEeOfL5qTYCy8wA" id="-zu8aamEZ5OICoYsG-Paf-w" uri="roles/8.%20Programmer%20(PR).xmi"/>
+    <resourceDescriptors xmi:id="_0H3tYFFkEeOfL5qTYCy8wA" id="-1vKC4vBvKT_GJnFu5rnnQQ" uri="roles/3.%20Project%20Manager%20(GP).xmi"/>
+    <resourceDescriptors xmi:id="_-zbRIFFkEeOfL5qTYCy8wA" id="-tEyi5aJrwIqJe9KGBXT_Og" uri="roles/4.%20Technical%20Leader%20(LT).xmi"/>
+    <resourceDescriptors xmi:id="_GDlsEFFlEeOfL5qTYCy8wA" id="-Gahj_jw2tWWHx6zU4ybF-g" uri="roles/5.%20Development%20Team%20(ET).xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_NesdEEwSEeOMSJp31xEydQ" name="MDS-ISO 29110 Clínica Americana Juliaca" guid="_NesdEEwSEeOMSJp31xEydQ" presentationName="MDS-ISO 29110 Clínica Americana Juliaca" briefDescription="Documentacion para el desarrollo de software basado en la ISO 29110" authors="Edwin Calsin Quinto William Calisaya Pari" changeDate="2013-11-12T22:19:43.456-0500" version="0.1">
     <methodElementProperty xmi:id="_NeyjsEwSEeOMSJp31xEydQ" name="plugin_synFree" value="true"/>
@@ -114,15 +121,15 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_xMII4EwdEeOMSJp31xEydQ" name="2. Proceso de Implementación de Software (IS)" guid="_xMII4EwdEeOMSJp31xEydQ" presentationName="2. Proceso de Implementación de Software (IS)">
             <methodElementProperty xmi:id="_34xAAEwdEeOMSJp31xEydQ" name="me_edited" value="true"/>
             <presentation xmi:id="-IRHEZNP2upy8PQA8W_kqyw" href="uma://-IRHEZNP2upy8PQA8W_kqyw#-IRHEZNP2upy8PQA8W_kqyw"/>
-            <subdiscipline xmi:id="_cTTpcEwpEeOMSJp31xEydQ" name="(IS.1) Inicio de la Implementación de Software" guid="_cTTpcEwpEeOMSJp31xEydQ" presentationName="(IS.1) Inicio de la Implementación de Software" tasks="_Hw0IME_LEeO26cQ3jgxm8w _1Kd7UE_OEeO26cQ3jgxm8w">
+            <subdiscipline xmi:id="_cTTpcEwpEeOMSJp31xEydQ" name="(IS.1) Inicio de la Implementación de Software" guid="_cTTpcEwpEeOMSJp31xEydQ" presentationName="(IS.1) Inicio de la Implementación de Software" briefDescription="La actividad Inicio de la Implementación del Software asegura que el Plan del Proyecto establecido en la actividad Planeación del Proyecto es llevado a cabo por el Equipo de Trabajo. " tasks="_Hw0IME_LEeO26cQ3jgxm8w _1Kd7UE_OEeO26cQ3jgxm8w">
               <methodElementProperty xmi:id="_tzs-EEwpEeOMSJp31xEydQ" name="me_edited" value="true"/>
               <presentation xmi:id="-h0dAwlG6cfdIprWF9--12g" href="uma://-h0dAwlG6cfdIprWF9--12g#-h0dAwlG6cfdIprWF9--12g"/>
             </subdiscipline>
-            <subdiscipline xmi:id="_mVF3cEwpEeOMSJp31xEydQ" name="(IS.2) Análisis de Requisitos del Software" guid="_mVF3cEwpEeOMSJp31xEydQ" presentationName="(IS.2) Análisis de Requisitos del Software" tasks="_xhKK8E_REeO26cQ3jgxm8w _c43w8E_UEeO26cQ3jgxm8w _F_28YE_VEeO26cQ3jgxm8w _AYq08E_WEeO26cQ3jgxm8w _-rWFkE_XEeO26cQ3jgxm8w _pjE14E_YEeO26cQ3jgxm8w">
+            <subdiscipline xmi:id="_mVF3cEwpEeOMSJp31xEydQ" name="(IS.2) Análisis de Requisitos del Software" guid="_mVF3cEwpEeOMSJp31xEydQ" presentationName="(IS.2) Análisis de Requisitos del Software" briefDescription="La actividad de Análisis de Requisitos de Software analiza los requisitos acordados con el Cliente y establece los requisitos del proyecto validados. " tasks="_xhKK8E_REeO26cQ3jgxm8w _c43w8E_UEeO26cQ3jgxm8w _F_28YE_VEeO26cQ3jgxm8w _AYq08E_WEeO26cQ3jgxm8w _-rWFkE_XEeO26cQ3jgxm8w _pjE14E_YEeO26cQ3jgxm8w">
               <methodElementProperty xmi:id="_tz9cwEwpEeOMSJp31xEydQ" name="me_edited" value="true"/>
               <presentation xmi:id="-1VbpPy5Mah_Rfb92IAbSFQ" href="uma://-1VbpPy5Mah_Rfb92IAbSFQ#-1VbpPy5Mah_Rfb92IAbSFQ"/>
             </subdiscipline>
-            <subdiscipline xmi:id="_vXuVkEwpEeOMSJp31xEydQ" name="(IS.3) Arquitectura y Diseño Detallado del Software" guid="_vXuVkEwpEeOMSJp31xEydQ" presentationName="(IS.3) Arquitectura y Diseño Detallado del Software" tasks="_xhKK8E_REeO26cQ3jgxm8w _bFtbIE_dEeO26cQ3jgxm8w _6a1D4E_dEeO26cQ3jgxm8w __Q_sIE_eEeO26cQ3jgxm8w _gZIKoE_fEeO26cQ3jgxm8w _3LjZkE_fEeO26cQ3jgxm8w _YWJ9QE_gEeO26cQ3jgxm8w _KUxQsE_hEeO26cQ3jgxm8w">
+            <subdiscipline xmi:id="_vXuVkEwpEeOMSJp31xEydQ" name="(IS.3) Arquitectura y Diseño Detallado del Software" guid="_vXuVkEwpEeOMSJp31xEydQ" presentationName="(IS.3) Arquitectura y Diseño Detallado del Software" briefDescription="La actividad de Arquitectura y Diseño Detallado del Software transforma los requisitos de Software en la arquitectura Software del sistema y en el diseño detallado del Software. " tasks="_xhKK8E_REeO26cQ3jgxm8w _bFtbIE_dEeO26cQ3jgxm8w _6a1D4E_dEeO26cQ3jgxm8w __Q_sIE_eEeO26cQ3jgxm8w _gZIKoE_fEeO26cQ3jgxm8w _3LjZkE_fEeO26cQ3jgxm8w _YWJ9QE_gEeO26cQ3jgxm8w _KUxQsE_hEeO26cQ3jgxm8w">
               <methodElementProperty xmi:id="_3LWC4EwpEeOMSJp31xEydQ" name="me_edited" value="true"/>
               <presentation xmi:id="-gnXsBGQQaXsj4qplfRRMDg" href="uma://-gnXsBGQQaXsj4qplfRRMDg#-gnXsBGQQaXsj4qplfRRMDg"/>
             </subdiscipline>
@@ -132,9 +139,11 @@
             </subdiscipline>
             <subdiscipline xmi:id="__2o_EEwpEeOMSJp31xEydQ" name="(IS.5) Integración y Pruebas del Software" guid="__2o_EEwpEeOMSJp31xEydQ" presentationName="(IS.5) Integración y Pruebas del Software" briefDescription="La actividad de integracion y pruebas del software asegura que los componentes de software integrados satisfacen los requisitos de software" tasks="_xEIywFAIEeOOmsnTDzwKdQ _yFORsFDLEeOjjsGew53ZXw _ZHvD8FDMEeOjjsGew53ZXw _SO5HcFAJEeOOmsnTDzwKdQ _kER0oFAJEeOOmsnTDzwKdQ _v79-4FAKEeOOmsnTDzwKdQ _NuGx8FALEeOOmsnTDzwKdQ _mhZscFALEeOOmsnTDzwKdQ _vXzwkFDIEeOjjsGew53ZXw _nNcsUFDKEeOjjsGew53ZXw _PQpfgFDLEeOjjsGew53ZXw">
               <methodElementProperty xmi:id="_Kp8woEwqEeOMSJp31xEydQ" name="me_edited" value="true"/>
+              <presentation xmi:id="-WlSzjxB2w-zvtz6Q77cYkA" href="uma://-WlSzjxB2w-zvtz6Q77cYkA#-WlSzjxB2w-zvtz6Q77cYkA"/>
             </subdiscipline>
-            <subdiscipline xmi:id="_HKlGwEwqEeOMSJp31xEydQ" name="(IS.6) Entrega del Producto" guid="_HKlGwEwqEeOMSJp31xEydQ" presentationName="(IS.6) Entrega del Producto" tasks="_crBvEFDNEeOjjsGew53ZXw _tCQcMFDNEeOjjsGew53ZXw _28X78FDNEeOjjsGew53ZXw __98DEFDNEeOjjsGew53ZXw _9EX_gFDOEeOjjsGew53ZXw _IcaOwFDPEeOjjsGew53ZXw">
+            <subdiscipline xmi:id="_HKlGwEwqEeOMSJp31xEydQ" name="(IS.6) Entrega del Producto" guid="_HKlGwEwqEeOMSJp31xEydQ" presentationName="(IS.6) Entrega del Producto" briefDescription="La actividad de Entrega de Productos provee el producto de Softwareintegrado al Cliente." tasks="_crBvEFDNEeOjjsGew53ZXw _tCQcMFDNEeOjjsGew53ZXw _28X78FDNEeOjjsGew53ZXw __98DEFDNEeOjjsGew53ZXw _9EX_gFDOEeOjjsGew53ZXw _IcaOwFDPEeOjjsGew53ZXw">
               <methodElementProperty xmi:id="_KqNPUEwqEeOMSJp31xEydQ" name="me_edited" value="true"/>
+              <presentation xmi:id="-jWtnJk4HFpnE1bz9CjNFSg" href="uma://-jWtnJk4HFpnE1bz9CjNFSg#-jWtnJk4HFpnE1bz9CjNFSg"/>
             </subdiscipline>
           </contentElements>
         </childPackages>
@@ -190,22 +199,27 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_UlwUcEwUEeOMSJp31xEydQ" name="3. Project Manager (GP)" guid="_UlwUcEwUEeOMSJp31xEydQ" presentationName="3. Project Manager (GP)" briefDescription="Gestor del proyecto (GP)">
             <methodElementProperty xmi:id="_YANCEEwUEeOMSJp31xEydQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-1vKC4vBvKT_GJnFu5rnnQQ" href="uma://-1vKC4vBvKT_GJnFu5rnnQQ#-1vKC4vBvKT_GJnFu5rnnQQ"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_YiGOMEwUEeOMSJp31xEydQ" name="4. Technical Leader (LT)" guid="_YiGOMEwUEeOMSJp31xEydQ" presentationName="4. Technical Leader (LT)" briefDescription="Lider Tecnico">
             <methodElementProperty xmi:id="_e0q_gEwUEeOMSJp31xEydQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-tEyi5aJrwIqJe9KGBXT_Og" href="uma://-tEyi5aJrwIqJe9KGBXT_Og#-tEyi5aJrwIqJe9KGBXT_Og"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_fYgFUEwUEeOMSJp31xEydQ" name="5. Development Team (ET)" guid="_fYgFUEwUEeOMSJp31xEydQ" presentationName="5. Development Team (ET)" briefDescription="Equipo de Trabajo ">
             <methodElementProperty xmi:id="_kFPhQEwUEeOMSJp31xEydQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-Gahj_jw2tWWHx6zU4ybF-g" href="uma://-Gahj_jw2tWWHx6zU4ybF-g#-Gahj_jw2tWWHx6zU4ybF-g"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_jw6HoEwiEeOMSJp31xEydQ" name="8. Programmer (PR)" guid="_jw6HoEwiEeOMSJp31xEydQ" presentationName="8. Programmer (PR)">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_jw6HoEwiEeOMSJp31xEydQ" name="8. Programmer (PR)" guid="_jw6HoEwiEeOMSJp31xEydQ" presentationName="8. Programmer (PR)" briefDescription="Programador">
             <methodElementProperty xmi:id="_nc0_wEwiEeOMSJp31xEydQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-zu8aamEZ5OICoYsG-Paf-w" href="uma://-zu8aamEZ5OICoYsG-Paf-w#-zu8aamEZ5OICoYsG-Paf-w"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_z-HHUEwoEeOMSJp31xEydQ" name="6. Analyst (AN)" guid="_z-HHUEwoEeOMSJp31xEydQ" presentationName="6. Analyst (AN)" briefDescription="Analista">
             <methodElementProperty xmi:id="_3o_doEwoEeOMSJp31xEydQ" name="me_edited" value="true"/>
             <presentation xmi:id="-K-O0OSi0Pn34jAaEu1YNfA" href="uma://-K-O0OSi0Pn34jAaEu1YNfA#-K-O0OSi0Pn34jAaEu1YNfA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_6Qo1UEwoEeOMSJp31xEydQ" name="7. Diseñador (DI)" guid="_6Qo1UEwoEeOMSJp31xEydQ" presentationName="7. Diseñador (DI)">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_6Qo1UEwoEeOMSJp31xEydQ" name="7. Diseñador (DI)" guid="_6Qo1UEwoEeOMSJp31xEydQ" presentationName="7. Diseñador (DI)" briefDescription="Diseñador">
             <methodElementProperty xmi:id="_9wx7QEwoEeOMSJp31xEydQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-nMJvQX2U6Bm2o2icuovPFg" href="uma://-nMJvQX2U6Bm2o2icuovPFg#-nMJvQX2U6Bm2o2icuovPFg"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_guHycEwqEeOMSJp31xEydQ" name="PRODUCTOS" guid="_guHycEwqEeOMSJp31xEydQ" presentationName="PRODUCTOS">
             <methodElementProperty xmi:id="_kXnosEwqEeOMSJp31xEydQ" name="me_edited" value="true"/>

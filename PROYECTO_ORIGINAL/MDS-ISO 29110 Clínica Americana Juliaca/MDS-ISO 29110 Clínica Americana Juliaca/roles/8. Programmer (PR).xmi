@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-zu8aamEZ5OICoYsG-Paf-w" name="8. Programmer (PR),_jw6HoEwiEeOMSJp31xEydQ" guid="-zu8aamEZ5OICoYsG-Paf-w" changeDate="2013-11-19T16:51:09.421-0500">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Conocimiento y/o experiencia en programación, integración y pruebas unitarias.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Conocimiento de técnicas de revisión.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Conocimiento de técnicas de edición.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Experiencia en desarrollo y mantenimiento de Software.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

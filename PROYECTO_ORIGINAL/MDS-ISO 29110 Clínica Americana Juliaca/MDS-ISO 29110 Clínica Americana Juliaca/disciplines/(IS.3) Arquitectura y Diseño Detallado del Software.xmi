@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gnXsBGQQaXsj4qplfRRMDg" name="(IS.3) Arquitectura y Diseño Detallado del Software,_vXuVkEwpEeOMSJp31xEydQ" guid="-gnXsBGQQaXsj4qplfRRMDg" changeDate="2013-11-17T17:41:37.541-0500">
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-gnXsBGQQaXsj4qplfRRMDg" name="(IS.3) Arquitectura y Diseño Detallado del Software,_vXuVkEwpEeOMSJp31xEydQ" guid="-gnXsBGQQaXsj4qplfRRMDg" changeDate="2013-11-19T16:41:04.943-0500">
   <mainDescription>&lt;p>&#xD;
-    La actividad de Arquitectura y Diseño Detallado del Software transforma los requisitos de Software en la arquitectura&#xD;
-    Software del sistema y en el diseño detallado del Software.&#xD;
+    NOTA: La Arquitectura y el Diseño Detallado de Software pueden realizarse por separado conforme al cronograma del&#xD;
+    proyecto.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    NOTA:&lt;br />&#xD;
-    La Arquitectura y el Diseño Detallado de Software pueden realizarse por separado conforme al cronograma del proyecto.&#xD;
-&lt;/p></mainDescription>
-  <keyConsiderations>&lt;p>&#xD;
     La actividad provee:&#xD;
 &lt;/p>&#xD;
 &lt;ul>&#xD;
@@ -36,5 +32,5 @@
     &lt;li>&#xD;
         Productos y documentos de diseño bajo control de versiones.&#xD;
     &lt;/li>&#xD;
-&lt;/ul></keyConsiderations>
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WlSzjxB2w-zvtz6Q77cYkA" name="(IS.5) Integración y Pruebas del Software,__2o_EEwpEeOMSJp31xEydQ" guid="-WlSzjxB2w-zvtz6Q77cYkA" changeDate="2013-11-19T16:42:45.939-0500">
+  <mainDescription>&lt;p>&#xD;
+    La actividad provee:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        La revisión por parte del Equipo de Trabajo al Plan del Proyectopara determinar la asignación de Tareas&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        La comprensión de los Casos de Prueba, Procedimientos de Pruebay del entorno de integración.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Los Componentes de Softwareintegrados, los defectos corregidos y los resultados documentados.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        La trazabilidad de los requisitos y diseño al producto Softwareintegrado.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        La documentación y verificación de los manuales de usuario y de operación del Software.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        El Softwareverificado e incorporado a la línea base.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

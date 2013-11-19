@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jWtnJk4HFpnE1bz9CjNFSg" name="(IS.6) Entrega del Producto,_HKlGwEwqEeOMSJp31xEydQ" guid="-jWtnJk4HFpnE1bz9CjNFSg" changeDate="2013-11-19T16:44:42.732-0500">
+  <mainDescription>&lt;p>&#xD;
+    La actividad provee:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        La revisión por parte del Equipo de Trabajoal Plan del Proyectopara determinar la asignación de Tareas.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        El Manual de Mantenimientoverificado.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        La entrega del producto de Softwarey la documentación aplicable de acuerdo con las Instrucciones de Entrega.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

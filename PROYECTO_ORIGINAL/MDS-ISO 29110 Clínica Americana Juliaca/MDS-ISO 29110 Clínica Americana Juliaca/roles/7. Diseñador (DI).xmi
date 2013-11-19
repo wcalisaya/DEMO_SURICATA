@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nMJvQX2U6Bm2o2icuovPFg" name="7. Diseñador (DI),_6Qo1UEwoEeOMSJp31xEydQ" guid="-nMJvQX2U6Bm2o2icuovPFg" changeDate="2013-11-19T16:47:45.815-0500">
+  <mainDescription>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Conocimiento y experiencia en Componente de Softwarey diseño de arquitectura.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Conocimiento de técnicas de revisión.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Conocimiento y experiencia en la planificación y ejecución de pruebas de integración.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Conocimiento de técnicas de edición.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Experiencia en desarrollo y mantenimiento de Software.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>
