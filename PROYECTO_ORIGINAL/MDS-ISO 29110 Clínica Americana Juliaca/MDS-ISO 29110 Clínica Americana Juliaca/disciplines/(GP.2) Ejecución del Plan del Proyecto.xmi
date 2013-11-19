@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Mu_ZrunhLPgt1E7_6wzNpA" name="(GP.2) Ejecución del Plan del Proyecto,_5EwckEweEeOMSJp31xEydQ" guid="-Mu_ZrunhLPgt1E7_6wzNpA" changeDate="2013-11-19T16:08:04.201-0500">
+  <mainDescription>&lt;p>&#xD;
+    La actividad provee:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        El Reporte de Avancedel Proyecto actualizado.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Las solicitudes de cambio analizadas y evaluadas del plan con impacto en costos, cronograma y requisitos técnicos.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Cambios aprobados en el plan.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Las revisiones y los acuerdos con el Equipo de Trabajo(ET) y el Cliente (CL).&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        El respaldo del Repositorio del Proyectoy su recuperación en caso de ser necesario.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

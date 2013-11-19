@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WYIgzo7uqLBdJNsEYKD9RA" name="(GP.1) Planificación del Proyecto,_ww6-IEweEeOMSJp31xEydQ" guid="-WYIgzo7uqLBdJNsEYKD9RA" changeDate="2013-11-19T16:04:27.032-0500">
+  <mainDescription>&lt;p>&#xD;
+    Esta actividad provee:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        El Enunciado de Trabajo revisado y las Tareasnecesarias para proveer los Entregables acordados y satisfacer los&#xD;
+        requisitos del Cliente.&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        El ciclo de vida del proyecto, incluyendo la dependencia de las Tareasy su duración.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        La estrategia de aseguramiento de la calidad del proyecto, a través de la verificación y validación de los&#xD;
+        productos de trabajo/Entregables, revisiones del Equipo de Trabajoy del Cliente.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Los roles y responsabilidades del Equipo de Trabajoy del Cliente.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Las necesidades de entrenamiento y Recursospara el proyecto.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        La estimación del esfuerzo, costo y cronograma.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        La identificación de los riesgos del proyecto.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        La estrategia para el control de versiones y de la línea base para el proyecto.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        El Repositorio del Proyectopara almacenar, gestionar y entregar de manera controlada los productos, versiones de&#xD;
+        documentos y líneas base.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

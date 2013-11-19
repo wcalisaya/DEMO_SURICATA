@@ -71,6 +71,10 @@
     <resourceDescriptors xmi:id="_x1KpMFDbEeOjjsGew53ZXw" id="-Nbpz7RrHXeZRMdVyYiuOOw" uri="guidances/checklists/new_checklist.xmi"/>
     <resourceDescriptors xmi:id="_hN-wUFDiEeO2TZD3TjYbQQ" id="-0-2dvTSe2cUFCPoGYrG3gg" uri="customcategories/INICIO.xmi"/>
     <resourceDescriptors xmi:id="_U_EuAFDjEeO2TZD3TjYbQQ" id="-HYypX8KRhE302qdDie04Ig" uri="guidances/reusableassets/PROCESOS.xmi"/>
+    <resourceDescriptors xmi:id="_PRj7sFFeEeOfL5qTYCy8wA" id="-WYIgzo7uqLBdJNsEYKD9RA" uri="disciplines/(GP.1)%20Planificación%20del%20Proyecto.xmi"/>
+    <resourceDescriptors xmi:id="_3psdEFFeEeOfL5qTYCy8wA" id="-Mu_ZrunhLPgt1E7_6wzNpA" uri="disciplines/(GP.2)%20Ejecución%20del%20Plan%20del%20Proyecto.xmi"/>
+    <resourceDescriptors xmi:id="_IWFh4FFfEeOfL5qTYCy8wA" id="-3AFEVqaTOpUcphzK7H17QQ" uri="disciplines/(GP.3)%20Evaluación%20y%20Control%20del%20Proyecto.xmi"/>
+    <resourceDescriptors xmi:id="_hNDbcFFfEeOfL5qTYCy8wA" id="-XXWSbXwEAw4mrRZR88Z5rg" uri="disciplines/(GP.4)%20Cierre%20del%20Proyecto.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_NesdEEwSEeOMSJp31xEydQ" name="MDS-ISO 29110 Clínica Americana Juliaca" guid="_NesdEEwSEeOMSJp31xEydQ" presentationName="MDS-ISO 29110 Clínica Americana Juliaca" briefDescription="Documentacion para el desarrollo de software basado en la ISO 29110" authors="Edwin Calsin Quinto William Calisaya Pari" changeDate="2013-11-12T22:19:43.456-0500" version="0.1">
     <methodElementProperty xmi:id="_NeyjsEwSEeOMSJp31xEydQ" name="plugin_synFree" value="true"/>
@@ -90,17 +94,21 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_ih6-QEwdEeOMSJp31xEydQ" name="1. Proceso de Gestión del Proyecto (GP)" guid="_ih6-QEwdEeOMSJp31xEydQ" presentationName="1. Proceso de Gestión del Proyecto (GP)" briefDescription="El propósito del proceso del gestión del proyecto es establecer y lleva a cabo de manera sistematica las tareas de un proyecto de implementacion de software que permitan cumplir con los objetivos del proyecto en calidad, tiempo y costos esperados. &#xD;&#xA;">
             <methodElementProperty xmi:id="_34nPAEwdEeOMSJp31xEydQ" name="me_edited" value="true"/>
             <presentation xmi:id="-7QyJ9MsgOpLdrfXWKx8bRA" href="uma://-7QyJ9MsgOpLdrfXWKx8bRA#-7QyJ9MsgOpLdrfXWKx8bRA"/>
-            <subdiscipline xmi:id="_ww6-IEweEeOMSJp31xEydQ" name="(GP.1) Planificación del Proyecto" guid="_ww6-IEweEeOMSJp31xEydQ" presentationName="(GP.1) Planificación del Proyecto" tasks="_JmDyAE9cEeO4rNOZzda7hA _KJFO0E_FEeO26cQ3jgxm8w _gFv6cE_FEeO26cQ3jgxm8w _BWTVIE_GEeO26cQ3jgxm8w _RHGUYE_GEeO26cQ3jgxm8w _aF7QkE_GEeO26cQ3jgxm8w">
+            <subdiscipline xmi:id="_ww6-IEweEeOMSJp31xEydQ" name="(GP.1) Planificación del Proyecto" guid="_ww6-IEweEeOMSJp31xEydQ" presentationName="(GP.1) Planificación del Proyecto" briefDescription="La actividad de Planificación del Proyecto documenta los detalles de la planificación necesarios para gestionar el proyecto." tasks="_JmDyAE9cEeO4rNOZzda7hA _KJFO0E_FEeO26cQ3jgxm8w _gFv6cE_FEeO26cQ3jgxm8w _BWTVIE_GEeO26cQ3jgxm8w _RHGUYE_GEeO26cQ3jgxm8w _aF7QkE_GEeO26cQ3jgxm8w">
               <methodElementProperty xmi:id="_9u860EweEeOMSJp31xEydQ" name="me_edited" value="true"/>
+              <presentation xmi:id="-WYIgzo7uqLBdJNsEYKD9RA" href="uma://-WYIgzo7uqLBdJNsEYKD9RA#-WYIgzo7uqLBdJNsEYKD9RA"/>
             </subdiscipline>
-            <subdiscipline xmi:id="_5EwckEweEeOMSJp31xEydQ" name="(GP.2) Ejecución del Plan del Proyecto" guid="_5EwckEweEeOMSJp31xEydQ" presentationName="(GP.2) Ejecución del Plan del Proyecto" tasks="_lfMuAE9aEeOLrv7b1Xd62g _jzPR8E-bEeO-bLJ5HHk0ew _N1ImcE-cEeO-bLJ5HHk0ew _EERT4E-dEeO-bLJ5HHk0ew _2Wqe8E-dEeO-bLJ5HHk0ew _5LTUUE-eEeO-bLJ5HHk0ew">
+            <subdiscipline xmi:id="_5EwckEweEeOMSJp31xEydQ" name="(GP.2) Ejecución del Plan del Proyecto" guid="_5EwckEweEeOMSJp31xEydQ" presentationName="(GP.2) Ejecución del Plan del Proyecto" briefDescription="Las actividades de la ejecución del Plan del Proyecto implementan el plan documentado en el proyecto." tasks="_lfMuAE9aEeOLrv7b1Xd62g _jzPR8E-bEeO-bLJ5HHk0ew _N1ImcE-cEeO-bLJ5HHk0ew _EERT4E-dEeO-bLJ5HHk0ew _2Wqe8E-dEeO-bLJ5HHk0ew _5LTUUE-eEeO-bLJ5HHk0ew">
               <methodElementProperty xmi:id="_9vDogEweEeOMSJp31xEydQ" name="me_edited" value="true"/>
+              <presentation xmi:id="-Mu_ZrunhLPgt1E7_6wzNpA" href="uma://-Mu_ZrunhLPgt1E7_6wzNpA#-Mu_ZrunhLPgt1E7_6wzNpA"/>
             </subdiscipline>
-            <subdiscipline xmi:id="_DIQh0EwfEeOMSJp31xEydQ" name="(GP.3) Evaluación y Control del Proyecto" guid="_DIQh0EwfEeOMSJp31xEydQ" presentationName="(GP.3) Evaluación y Control del Proyecto" tasks="_wberME-jEeO-bLJ5HHk0ew _x-ybkE-kEeO-bLJ5HHk0ew _UzaREE-lEeO-bLJ5HHk0ew">
+            <subdiscipline xmi:id="_DIQh0EwfEeOMSJp31xEydQ" name="(GP.3) Evaluación y Control del Proyecto" guid="_DIQh0EwfEeOMSJp31xEydQ" presentationName="(GP.3) Evaluación y Control del Proyecto" briefDescription="La actividad de Evaluación y Control del Proyecto evalúa el desempeño del plan contra los compromisos documentados." tasks="_wberME-jEeO-bLJ5HHk0ew _x-ybkE-kEeO-bLJ5HHk0ew _UzaREE-lEeO-bLJ5HHk0ew">
               <methodElementProperty xmi:id="_H34SoEwfEeOMSJp31xEydQ" name="me_edited" value="true"/>
+              <presentation xmi:id="-3AFEVqaTOpUcphzK7H17QQ" href="uma://-3AFEVqaTOpUcphzK7H17QQ#-3AFEVqaTOpUcphzK7H17QQ"/>
             </subdiscipline>
-            <subdiscipline xmi:id="_KsnEEEwfEeOMSJp31xEydQ" name="(GP.4) Cierre del Proyecto" guid="_KsnEEEwfEeOMSJp31xEydQ" presentationName="(GP.4) Cierre del Proyecto" tasks="_8S9koE-lEeO-bLJ5HHk0ew _jLpsgE-mEeO-bLJ5HHk0ew">
+            <subdiscipline xmi:id="_KsnEEEwfEeOMSJp31xEydQ" name="(GP.4) Cierre del Proyecto" guid="_KsnEEEwfEeOMSJp31xEydQ" presentationName="(GP.4) Cierre del Proyecto" briefDescription="La actividad de Cierre del Proyecto proporciona documentación y productos del proyecto de acuerdo con los requisitos del contrato." tasks="_8S9koE-lEeO-bLJ5HHk0ew _jLpsgE-mEeO-bLJ5HHk0ew">
               <methodElementProperty xmi:id="_OK2FgEwfEeOMSJp31xEydQ" name="me_edited" value="true"/>
+              <presentation xmi:id="-XXWSbXwEAw4mrRZR88Z5rg" href="uma://-XXWSbXwEAw4mrRZR88Z5rg#-XXWSbXwEAw4mrRZR88Z5rg"/>
             </subdiscipline>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_xMII4EwdEeOMSJp31xEydQ" name="2. Proceso de Implementación de Software (IS)" guid="_xMII4EwdEeOMSJp31xEydQ" presentationName="2. Proceso de Implementación de Software (IS)">

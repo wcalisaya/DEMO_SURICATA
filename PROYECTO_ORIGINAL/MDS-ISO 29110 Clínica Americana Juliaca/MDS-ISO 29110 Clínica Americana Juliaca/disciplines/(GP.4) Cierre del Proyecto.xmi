@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-XXWSbXwEAw4mrRZR88Z5rg" name="(GP.4) Cierre del Proyecto,_KsnEEEwfEeOMSJp31xEydQ" guid="-XXWSbXwEAw4mrRZR88Z5rg" changeDate="2013-11-19T16:11:54.352-0500">
+  <mainDescription>&lt;p>&#xD;
+    Esta actividad permite:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        La entrega de productos tal como fueron especificados en las Instrucciones de Entrega.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Contar con un soporte de la aceptación del producto por parte del Cliente de acuerdo a las Instrucciones de&#xD;
+        Entrega.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        La culminación del proyecto y firma del Acta de Aceptación&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

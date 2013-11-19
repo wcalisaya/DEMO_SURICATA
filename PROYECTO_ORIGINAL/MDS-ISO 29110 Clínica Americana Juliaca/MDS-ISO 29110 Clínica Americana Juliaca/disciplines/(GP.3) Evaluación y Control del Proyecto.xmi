@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3AFEVqaTOpUcphzK7H17QQ" name="(GP.3) Evaluación y Control del Proyecto,_DIQh0EwfEeOMSJp31xEydQ" guid="-3AFEVqaTOpUcphzK7H17QQ" changeDate="2013-11-19T16:10:12.233-0500">
+  <mainDescription>&lt;p>&#xD;
+    Esta actividad permite:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Evaluar la realización y progreso del plan real contra los objetivos.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Identificar y evaluar las desviaciones en la realización y problemas relevantes en costo, cronograma y técnicos.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Revisar los riesgos del proyecto e identificar nuevos riesgos.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Documentar las solicitudes de cambio, adoptar las Acciones Correctivas definidas y monitorear los cambios hasta su&#xD;
+        cierre.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
