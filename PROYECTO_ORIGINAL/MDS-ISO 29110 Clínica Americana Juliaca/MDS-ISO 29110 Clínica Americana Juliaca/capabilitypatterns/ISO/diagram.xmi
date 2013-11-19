@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML">
+  <uml:Activity xmi:id="_sqrWwFDaEeOjjsGew53ZXw" name="Analizar los Procesos">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_sqr90FDaEeOjjsGew53ZXw" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_sqr90VDaEeOjjsGew53ZXw" key="uri" value="uma://_Y-jxcFDaEeOjjsGew53ZXw#_oNQwQVDaEeOjjsGew53ZXw"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_sqr90lDaEeOjjsGew53ZXw" key="type" value="Activity"/>
+    </eAnnotations>
+    <node xmi:type="uml:InitialNode" xmi:id="_x2KkMFDaEeOjjsGew53ZXw"/>
+    <node xmi:type="uml:ActivityFinalNode" xmi:id="_y3ooQFDaEeOjjsGew53ZXw"/>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_1357UFDaEeOjjsGew53ZXw" name="Analisis de la Informacion">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_13-MwVDaEeOjjsGew53ZXw" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_13-z0FDaEeOjjsGew53ZXw" key="uri" value="uma://_Y-jxcFDaEeOjjsGew53ZXw#_13-MwFDaEeOjjsGew53ZXw"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_14H9wFDaEeOjjsGew53ZXw" key="type" value="Activity"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_7dFbIFDaEeOjjsGew53ZXw" name="Diseño y prototipos">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_7dGCMlDaEeOjjsGew53ZXw" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_7dGpQFDaEeOjjsGew53ZXw" key="uri" value="uma://_Y-jxcFDaEeOjjsGew53ZXw#_7dGCMVDaEeOjjsGew53ZXw"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_7dHQUFDaEeOjjsGew53ZXw" key="type" value="Activity"/>
+      </eAnnotations>
+    </node>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_sq71cFDaEeOjjsGew53ZXw" type="AD" element="_sqrWwFDaEeOjjsGew53ZXw" name="Analizar los Procesos" measurementUnit="Pixel">
+    <children xmi:type="notation:Node" xmi:id="_x2LyUFDaEeOjjsGew53ZXw" type="1004" element="_x2KkMFDaEeOjjsGew53ZXw">
+      <children xmi:type="notation:Node" xmi:id="_x2NngFDaEeOjjsGew53ZXw" type="4003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_x2NngVDaEeOjjsGew53ZXw" y="5"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_x2MZYFDaEeOjjsGew53ZXw" fontName="Arial" fontHeight="8"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_x2MZYVDaEeOjjsGew53ZXw"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_x2MZYlDaEeOjjsGew53ZXw"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_x2MZY1DaEeOjjsGew53ZXw" lineColor="0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_x2MZZFDaEeOjjsGew53ZXw" x="75" y="125"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_y3qdcFDaEeOjjsGew53ZXw" type="1001" element="_y3ooQFDaEeOjjsGew53ZXw">
+      <children xmi:type="notation:Node" xmi:id="_y3sSoFDaEeOjjsGew53ZXw" type="4001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_y3sSoVDaEeOjjsGew53ZXw" y="5"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_y3qdcVDaEeOjjsGew53ZXw" fontName="Arial" fontHeight="8"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_y3qdclDaEeOjjsGew53ZXw"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_y3rEgFDaEeOjjsGew53ZXw"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_y3rEgVDaEeOjjsGew53ZXw" lineColor="0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_y3rEglDaEeOjjsGew53ZXw" x="610" y="145"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_14MPMFDaEeOjjsGew53ZXw" type="1007" element="_1357UFDaEeOjjsGew53ZXw">
+      <children xmi:type="notation:Node" xmi:id="_14NdUFDaEeOjjsGew53ZXw" type="4005"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_14MPMVDaEeOjjsGew53ZXw" fontName="Arial" fontHeight="8"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_14MPMlDaEeOjjsGew53ZXw"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_14MPM1DaEeOjjsGew53ZXw"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_14MPNFDaEeOjjsGew53ZXw" lineColor="0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_14MPNVDaEeOjjsGew53ZXw" x="215" y="115"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_7dJFgFDaEeOjjsGew53ZXw" type="1007" element="_7dFbIFDaEeOjjsGew53ZXw">
+      <children xmi:type="notation:Node" xmi:id="_7dKToFDaEeOjjsGew53ZXw" type="4005"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_7dJFgVDaEeOjjsGew53ZXw" fontName="Arial" fontHeight="8"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_7dJFglDaEeOjjsGew53ZXw"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_7dJFg1DaEeOjjsGew53ZXw"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_7dJFhFDaEeOjjsGew53ZXw" lineColor="0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7dJFhVDaEeOjjsGew53ZXw" x="400" y="120"/>
+    </children>
+    <styles xmi:type="notation:PageStyle" xmi:id="_sq71cVDaEeOjjsGew53ZXw"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_sq71clDaEeOjjsGew53ZXw"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_sq71c1DaEeOjjsGew53ZXw"/>
+  </notation:Diagram>
+  <uml:Activity xmi:id="_8EojUFDaEeOjjsGew53ZXw" name="New Activity_2">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_8EpKYFDaEeOjjsGew53ZXw" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_8EpKYVDaEeOjjsGew53ZXw" key="uri" value="uma://_Y-jxcFDaEeOjjsGew53ZXw#_7dGCMVDaEeOjjsGew53ZXw"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_8EpKYlDaEeOjjsGew53ZXw" key="type" value="Activity"/>
+    </eAnnotations>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_8EqYgFDaEeOjjsGew53ZXw" type="AD" element="_8EojUFDaEeOjjsGew53ZXw" name="New Activity_2" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="_8EqYgVDaEeOjjsGew53ZXw"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_8EqYglDaEeOjjsGew53ZXw"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_8EqYg1DaEeOjjsGew53ZXw"/>
+  </notation:Diagram>
+</xmi:XMI>

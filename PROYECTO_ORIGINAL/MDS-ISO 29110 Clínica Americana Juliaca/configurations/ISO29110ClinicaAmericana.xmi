@@ -18,6 +18,9 @@
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_NesdEEwSEeOMSJp31xEydQ#_NetEKEwSEeOMSJp31xEydQ"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_NesdEEwSEeOMSJp31xEydQ#_NetEJ0wSEeOMSJp31xEydQ"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_NesdEEwSEeOMSJp31xEydQ#_NetEKUwSEeOMSJp31xEydQ"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessComponent" href="uma://_Y-jxcFDaEeOjjsGew53ZXw#_Y-jxcFDaEeOjjsGew53ZXw"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessPackage" href="uma://_NesdEEwSEeOMSJp31xEydQ#_dbDK4FDaEeOjjsGew53ZXw"/>
+  <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessComponent" href="uma://_fJtsIFDaEeOjjsGew53ZXw#_fJtsIFDaEeOjjsGew53ZXw"/>
   <processViews xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_NesdEEwSEeOMSJp31xEydQ#_U3zW8E-nEeO-bLJ5HHk0ew"/>
   <addedCategory xsi:type="org.eclipse.epf.uma:Discipline" href="uma://_NesdEEwSEeOMSJp31xEydQ#_HKlGwEwqEeOMSJp31xEydQ"/>
   <addedCategory xsi:type="org.eclipse.epf.uma:Discipline" href="uma://_NesdEEwSEeOMSJp31xEydQ#_vXuVkEwpEeOMSJp31xEydQ"/>

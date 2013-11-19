@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_Y_XpwFDaEeOjjsGew53ZXw" guid="_Y_XpwFDaEeOjjsGew53ZXw">
+    <resourceDescriptors xmi:id="_Y_YQ0FDaEeOjjsGew53ZXw" id="-BwEBQ189tl972hu-BZ6fdA" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_Y-jxcFDaEeOjjsGew53ZXw" name="ISO" guid="_Y-jxcFDaEeOjjsGew53ZXw">
+    <methodElementProperty xmi:id="_Y-jxclDaEeOjjsGew53ZXw" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_Lrh_sFDbEeOjjsGew53ZXw" name="me_edited" value="true"/>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_oNQwQFDaEeOjjsGew53ZXw" name="Analizar los Procesos" guid="_oNQwQFDaEeOjjsGew53ZXw">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_139lsFDaEeOjjsGew53ZXw" name="New Activity" guid="_139lsFDaEeOjjsGew53ZXw">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_13-MwFDaEeOjjsGew53ZXw" name="New Activity" guid="_13-MwFDaEeOjjsGew53ZXw" presentationName="Analisis de la Informacion" superActivities="_oNQwQVDaEeOjjsGew53ZXw"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_7dGCMFDaEeOjjsGew53ZXw" name="New Activity_2" guid="_7dGCMFDaEeOjjsGew53ZXw">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_7dGCMVDaEeOjjsGew53ZXw" name="New Activity_2" guid="_7dGCMVDaEeOjjsGew53ZXw" presentationName="Diseño y prototipos" superActivities="_oNQwQVDaEeOjjsGew53ZXw"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_oNQwQVDaEeOjjsGew53ZXw" name="Analizar los Procesos" guid="_oNQwQVDaEeOjjsGew53ZXw" presentationName="Analizar los Procesos" superActivities="_Y-jxcVDaEeOjjsGew53ZXw" breakdownElements="_13-MwFDaEeOjjsGew53ZXw _7dGCMVDaEeOjjsGew53ZXw"/>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:CapabilityPattern" xmi:id="_Y-jxcVDaEeOjjsGew53ZXw" name="ISO" guid="_Y-jxcVDaEeOjjsGew53ZXw" presentationName="ISO" breakdownElements="_oNQwQVDaEeOjjsGew53ZXw">
+      <presentation xmi:id="-BwEBQ189tl972hu-BZ6fdA" href="uma://-BwEBQ189tl972hu-BZ6fdA#-BwEBQ189tl972hu-BZ6fdA"/>
+      <defaultContext href="uma://_Lnr4IEwSEeOMSJp31xEydQ#_kRA8oE-nEeO-bLJ5HHk0ew"/>
+      <validContext href="uma://_Lnr4IEwSEeOMSJp31xEydQ#_kRA8oE-nEeO-bLJ5HHk0ew"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

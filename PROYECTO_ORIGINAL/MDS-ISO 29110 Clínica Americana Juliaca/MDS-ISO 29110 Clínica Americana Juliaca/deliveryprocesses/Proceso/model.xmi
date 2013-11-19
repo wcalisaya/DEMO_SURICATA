@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_fKQesFDaEeOjjsGew53ZXw" guid="_fKQesFDaEeOjjsGew53ZXw">
+    <resourceDescriptors xmi:id="_fKQesVDaEeOjjsGew53ZXw" id="-6rz7yLst1QkgFX__BUuETA" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_fJtsIFDaEeOjjsGew53ZXw" name="Proceso" guid="_fJtsIFDaEeOjjsGew53ZXw">
+    <methodElementProperty xmi:id="_fJtsIlDaEeOjjsGew53ZXw" name="pkg_loadCheck" value="true"/>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_fJtsIVDaEeOjjsGew53ZXw" name="Proceso" guid="_fJtsIVDaEeOjjsGew53ZXw" presentationName="Proceso">
+      <presentation xmi:id="-6rz7yLst1QkgFX__BUuETA" href="uma://-6rz7yLst1QkgFX__BUuETA#-6rz7yLst1QkgFX__BUuETA"/>
+      <defaultContext href="uma://_Lnr4IEwSEeOMSJp31xEydQ#_kRA8oE-nEeO-bLJ5HHk0ew"/>
+      <validContext href="uma://_Lnr4IEwSEeOMSJp31xEydQ#_kRA8oE-nEeO-bLJ5HHk0ew"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>
