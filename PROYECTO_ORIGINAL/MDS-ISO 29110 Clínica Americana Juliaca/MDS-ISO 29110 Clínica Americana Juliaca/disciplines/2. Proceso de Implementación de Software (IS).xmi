@@ -1,2 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-IRHEZNP2upy8PQA8W_kqyw" name="new_discipline,_xMII4EwdEeOMSJp31xEydQ" guid="-IRHEZNP2upy8PQA8W_kqyw" changeDate="2013-11-12T23:43:14.021-0500"/>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-IRHEZNP2upy8PQA8W_kqyw" name="new_discipline,_xMII4EwdEeOMSJp31xEydQ" guid="-IRHEZNP2upy8PQA8W_kqyw" changeDate="2013-11-19T17:20:11.243-0500">
+  <mainDescription>&lt;p>&#xD;
+    El siguiente diagrama muestra el flujo de información entre las actividades del proceso de Implementación de&#xD;
+    Softwareincluyendo los productos de trabajo más relevantes y la relación entre ellos.&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;center>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;./resources/IS-iso29110.png&quot; width=&quot;677&quot; height=&quot;900&quot; />&#xD;
+&lt;/center>&#xD;
+&lt;br />&#xD;
+&lt;br /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -118,7 +118,7 @@
               <presentation xmi:id="-XXWSbXwEAw4mrRZR88Z5rg" href="uma://-XXWSbXwEAw4mrRZR88Z5rg#-XXWSbXwEAw4mrRZR88Z5rg"/>
             </subdiscipline>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_xMII4EwdEeOMSJp31xEydQ" name="2. Proceso de Implementación de Software (IS)" guid="_xMII4EwdEeOMSJp31xEydQ" presentationName="2. Proceso de Implementación de Software (IS)">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_xMII4EwdEeOMSJp31xEydQ" name="2. Proceso de Implementación de Software (IS)" guid="_xMII4EwdEeOMSJp31xEydQ" presentationName="2. Proceso de Implementación de Software (IS)" briefDescription="El Proceso de Implementación de Software consiste en las siguientes actividades:">
             <methodElementProperty xmi:id="_34xAAEwdEeOMSJp31xEydQ" name="me_edited" value="true"/>
             <presentation xmi:id="-IRHEZNP2upy8PQA8W_kqyw" href="uma://-IRHEZNP2upy8PQA8W_kqyw#-IRHEZNP2upy8PQA8W_kqyw"/>
             <subdiscipline xmi:id="_cTTpcEwpEeOMSJp31xEydQ" name="(IS.1) Inicio de la Implementación de Software" guid="_cTTpcEwpEeOMSJp31xEydQ" presentationName="(IS.1) Inicio de la Implementación de Software" briefDescription="La actividad Inicio de la Implementación del Software asegura que el Plan del Proyecto establecido en la actividad Planeación del Proyecto es llevado a cabo por el Equipo de Trabajo. " tasks="_Hw0IME_LEeO26cQ3jgxm8w _1Kd7UE_OEeO26cQ3jgxm8w">
