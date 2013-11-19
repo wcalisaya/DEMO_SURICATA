@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-R9Vzcxb8PtsI2iEXRpJQgA" name=",_28X78FDNEeOjjsGew53ZXw" guid="-R9Vzcxb8PtsI2iEXRpJQgA" changeDate="2013-11-18T22:51:57.601-0500">
+  <mainDescription>Documentar el manual de mantenimiento o actualizar el actual</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

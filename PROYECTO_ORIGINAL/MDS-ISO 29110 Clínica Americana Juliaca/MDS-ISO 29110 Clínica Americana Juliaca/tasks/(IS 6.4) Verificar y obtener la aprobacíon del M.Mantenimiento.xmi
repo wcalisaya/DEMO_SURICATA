@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-uLkVOK9jpz0HomVyIWoiLw" name=",__98DEFDNEeOjjsGew53ZXw" guid="-uLkVOK9jpz0HomVyIWoiLw" changeDate="2013-11-18T22:54:00.089-0500">
+  <mainDescription>Verificar y obtener la aprobacíon del M.Mantenimiento. verificar la consistencia del manual de mantenimiento y la&#xD;
+configuración de softwre. Los resultados encontrados son documentados en resultado de verificación y las correcciones de&#xD;
+realizan hasta que el documento sea aprobado por el (LT) tecnico de trabajo</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

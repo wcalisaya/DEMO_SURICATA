@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Kab5oxqbNoX3F6QmpmN7Iw" name=",_9EX_gFDOEeOjjsGew53ZXw" guid="-Kab5oxqbNoX3F6QmpmN7Iw" changeDate="2013-11-18T22:59:47.375-0500">
+  <mainDescription>Incorporar el manual de mantenimiento a la linea base de la configuracion de software</mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

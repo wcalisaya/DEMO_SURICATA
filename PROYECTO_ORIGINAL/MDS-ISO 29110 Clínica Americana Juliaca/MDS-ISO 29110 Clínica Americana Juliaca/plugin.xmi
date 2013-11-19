@@ -55,6 +55,12 @@
     <resourceDescriptors xmi:id="_dyZ4wFDLEeOjjsGew53ZXw" id="-IvJmxJ2VApXjOaf1IsaY0g" uri="tasks/(IS%205.9)%20Documentar%20el%20manual%20de%20Usuario.xmi"/>
     <resourceDescriptors xmi:id="_Rm_PUFDMEeOjjsGew53ZXw" id="-u6oDXXuhaUSB7lPTQCDS4A" uri="tasks/(IS%205.10)%20Verificar%20y%20Obtener%20la%20aprovacíon%20del%20manual%20de%20Usuario.xmi"/>
     <resourceDescriptors xmi:id="_xheO8FDMEeOjjsGew53ZXw" id="-QSCvKDpJQUZ2_MWBltx5Og" uri="tasks/(IS%205.11)%20Incorporar%20los%20casos%20de%20prueba%20y%20procedimientos%20de%20prueba.xmi"/>
+    <resourceDescriptors xmi:id="_sMNlAFDNEeOjjsGew53ZXw" id="-DHsx0Hc4RrRgwPDXhCE6Vw" uri="tasks/(IS%206.1)%20Asignar%20tareas%20a%20los%20miembros%20del%20equipo%20de%20trabajo.xmi"/>
+    <resourceDescriptors xmi:id="_1BjOAFDNEeOjjsGew53ZXw" id="-YyAkcYzhFPE_YrZkRuxBZA" uri="tasks/(IS%206.2)%20Comprender%20la%20configuracion%20de%20software.xmi"/>
+    <resourceDescriptors xmi:id="__Tk3cFDNEeOjjsGew53ZXw" id="-R9Vzcxb8PtsI2iEXRpJQgA" uri="tasks/(IS%206.3)%20Documentar%20el%20manual%20de%20mantenimiento.xmi"/>
+    <resourceDescriptors xmi:id="_oG4R4FDOEeOjjsGew53ZXw" id="-uLkVOK9jpz0HomVyIWoiLw" uri="tasks/(IS%206.4)%20Verificar%20y%20obtener%20la%20aprobacíon%20del%20M.Mantenimiento.xmi"/>
+    <resourceDescriptors xmi:id="_GiSrcFDPEeOjjsGew53ZXw" id="-Kab5oxqbNoX3F6QmpmN7Iw" uri="tasks/(IS%206.5)%20Incorporar%20el%20manual%20de%20mantenimiento.xmi"/>
+    <resourceDescriptors xmi:id="_T1Q9YFDPEeOjjsGew53ZXw" id="-_23kSsWUzY-g9ae9odvIBw" uri="tasks/(IS%206.6)%20Llevar%20a%20cabo%20la%20entrega.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_NesdEEwSEeOMSJp31xEydQ" name="MDS-ISO 29110 Clínica Americana Juliaca" guid="_NesdEEwSEeOMSJp31xEydQ" presentationName="MDS-ISO 29110 Clínica Americana Juliaca" briefDescription="Documentacion para el desarrollo de software basado en la ISO 29110" authors="Edwin Calsin Quinto William Calisaya Pari" changeDate="2013-11-12T22:19:43.456-0500" version="0.1">
     <methodElementProperty xmi:id="_NeyjsEwSEeOMSJp31xEydQ" name="plugin_synFree" value="true"/>
@@ -105,7 +111,7 @@
             <subdiscipline xmi:id="__2o_EEwpEeOMSJp31xEydQ" name="(IS.5) Integración y Pruebas del Software" guid="__2o_EEwpEeOMSJp31xEydQ" presentationName="(IS.5) Integración y Pruebas del Software" briefDescription="La actividad de integracion y pruebas del software asegura que los componentes de software integrados satisfacen los requisitos de software" tasks="_xEIywFAIEeOOmsnTDzwKdQ _yFORsFDLEeOjjsGew53ZXw _ZHvD8FDMEeOjjsGew53ZXw _SO5HcFAJEeOOmsnTDzwKdQ _kER0oFAJEeOOmsnTDzwKdQ _v79-4FAKEeOOmsnTDzwKdQ _NuGx8FALEeOOmsnTDzwKdQ _mhZscFALEeOOmsnTDzwKdQ _vXzwkFDIEeOjjsGew53ZXw _nNcsUFDKEeOjjsGew53ZXw _PQpfgFDLEeOjjsGew53ZXw">
               <methodElementProperty xmi:id="_Kp8woEwqEeOMSJp31xEydQ" name="me_edited" value="true"/>
             </subdiscipline>
-            <subdiscipline xmi:id="_HKlGwEwqEeOMSJp31xEydQ" name="(IS.6) Entrega del Producto" guid="_HKlGwEwqEeOMSJp31xEydQ" presentationName="(IS.6) Entrega del Producto">
+            <subdiscipline xmi:id="_HKlGwEwqEeOMSJp31xEydQ" name="(IS.6) Entrega del Producto" guid="_HKlGwEwqEeOMSJp31xEydQ" presentationName="(IS.6) Entrega del Producto" tasks="_crBvEFDNEeOjjsGew53ZXw _tCQcMFDNEeOjjsGew53ZXw _28X78FDNEeOjjsGew53ZXw __98DEFDNEeOjjsGew53ZXw _9EX_gFDOEeOjjsGew53ZXw _IcaOwFDPEeOjjsGew53ZXw">
               <methodElementProperty xmi:id="_KqNPUEwqEeOMSJp31xEydQ" name="me_edited" value="true"/>
             </subdiscipline>
           </contentElements>
@@ -437,6 +443,30 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ZHvD8FDMEeOjjsGew53ZXw" name="(IS 5.11) Incorporar los casos de prueba y procedimientos de prueba" guid="_ZHvD8FDMEeOjjsGew53ZXw" presentationName="(IS 5.11) Incorporar los casos de prueba y procedimientos de prueba" performedBy="_YiGOMEwUEeOMSJp31xEydQ">
             <methodElementProperty xmi:id="_xhakkFDMEeOjjsGew53ZXw" name="me_edited" value="true"/>
             <presentation xmi:id="-QSCvKDpJQUZ2_MWBltx5Og" href="uma://-QSCvKDpJQUZ2_MWBltx5Og#-QSCvKDpJQUZ2_MWBltx5Og"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_crBvEFDNEeOjjsGew53ZXw" name="(IS 6.1) Asignar tareas a los miembros del equipo de trabajo" guid="_crBvEFDNEeOjjsGew53ZXw" presentationName="(IS 6.1) Asignar tareas a los miembros del equipo de trabajo" performedBy="_YiGOMEwUEeOMSJp31xEydQ _fYgFUEwUEeOMSJp31xEydQ">
+            <methodElementProperty xmi:id="_sMKhsFDNEeOjjsGew53ZXw" name="me_edited" value="true"/>
+            <presentation xmi:id="-DHsx0Hc4RrRgwPDXhCE6Vw" href="uma://-DHsx0Hc4RrRgwPDXhCE6Vw#-DHsx0Hc4RrRgwPDXhCE6Vw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_tCQcMFDNEeOjjsGew53ZXw" name="(IS 6.2) Comprender la configuracion de software" guid="_tCQcMFDNEeOjjsGew53ZXw" presentationName="(IS 6.2) Comprender la configuracion de software" performedBy="_6Qo1UEwoEeOMSJp31xEydQ">
+            <methodElementProperty xmi:id="_1BgKsFDNEeOjjsGew53ZXw" name="me_edited" value="true"/>
+            <presentation xmi:id="-YyAkcYzhFPE_YrZkRuxBZA" href="uma://-YyAkcYzhFPE_YrZkRuxBZA#-YyAkcYzhFPE_YrZkRuxBZA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_28X78FDNEeOjjsGew53ZXw" name="(IS 6.3) Documentar el manual de mantenimiento" guid="_28X78FDNEeOjjsGew53ZXw" presentationName="(IS 6.3) Documentar el manual de mantenimiento" performedBy="_6Qo1UEwoEeOMSJp31xEydQ">
+            <methodElementProperty xmi:id="__Th0IFDNEeOjjsGew53ZXw" name="me_edited" value="true"/>
+            <presentation xmi:id="-R9Vzcxb8PtsI2iEXRpJQgA" href="uma://-R9Vzcxb8PtsI2iEXRpJQgA#-R9Vzcxb8PtsI2iEXRpJQgA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="__98DEFDNEeOjjsGew53ZXw" name="(IS 6.4) Verificar y obtener la aprobacíon del M.Mantenimiento" guid="__98DEFDNEeOjjsGew53ZXw" presentationName="(IS 6.4) Verificar y obtener la aprobacíon del M.Mantenimiento" performedBy="_6Qo1UEwoEeOMSJp31xEydQ _YiGOMEwUEeOMSJp31xEydQ">
+            <methodElementProperty xmi:id="_oGt50FDOEeOjjsGew53ZXw" name="me_edited" value="true"/>
+            <presentation xmi:id="-uLkVOK9jpz0HomVyIWoiLw" href="uma://-uLkVOK9jpz0HomVyIWoiLw#-uLkVOK9jpz0HomVyIWoiLw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_9EX_gFDOEeOjjsGew53ZXw" name="(IS 6.5) Incorporar el manual de mantenimiento" guid="_9EX_gFDOEeOjjsGew53ZXw" presentationName="(IS 6.5) Incorporar el manual de mantenimiento" performedBy="_YiGOMEwUEeOMSJp31xEydQ">
+            <methodElementProperty xmi:id="_GiPoIFDPEeOjjsGew53ZXw" name="me_edited" value="true"/>
+            <presentation xmi:id="-Kab5oxqbNoX3F6QmpmN7Iw" href="uma://-Kab5oxqbNoX3F6QmpmN7Iw#-Kab5oxqbNoX3F6QmpmN7Iw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_IcaOwFDPEeOjjsGew53ZXw" name="(IS 6.6) Llevar a cabo la entrega" guid="_IcaOwFDPEeOjjsGew53ZXw" presentationName="(IS 6.6) Llevar a cabo la entrega" performedBy="_YiGOMEwUEeOMSJp31xEydQ">
+            <methodElementProperty xmi:id="_T1ME4FDPEeOjjsGew53ZXw" name="me_edited" value="true"/>
+            <presentation xmi:id="-_23kSsWUzY-g9ae9odvIBw" href="uma://-_23kSsWUzY-g9ae9odvIBw#-_23kSsWUzY-g9ae9odvIBw"/>
           </contentElements>
         </childPackages>
       </childPackages>
