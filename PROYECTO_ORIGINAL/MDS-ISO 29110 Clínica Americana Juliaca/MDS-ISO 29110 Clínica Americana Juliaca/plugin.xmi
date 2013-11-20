@@ -174,7 +174,7 @@
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NetEKUwSEeOMSJp31xEydQ" name="Hidden" guid="_NetEKUwSEeOMSJp31xEydQ">
             <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_NetEKkwSEeOMSJp31xEydQ" name="Custom Categories" guid="_NetEKkwSEeOMSJp31xEydQ" categorizedElements="_U3zW8E-nEeO-bLJ5HHk0ew"/>
           </childPackages>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_U3zW8E-nEeO-bLJ5HHk0ew" name="INICIO" guid="_U3zW8E-nEeO-bLJ5HHk0ew" presentationName="INICIO" shapeicon="customcategories/resources/docs_apps_scripts-64.gif">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_U3zW8E-nEeO-bLJ5HHk0ew" name="INICIO" guid="_U3zW8E-nEeO-bLJ5HHk0ew" presentationName="INICIO" shapeicon="customcategories/resources/banner+caiso.jpg">
             <methodElementProperty xmi:id="_datMIE-nEeO-bLJ5HHk0ew" name="me_edited" value="true"/>
             <methodElementProperty xmi:id="_80ddQE-nEeO-bLJ5HHk0ew" name="CategoryElementsSortType" value="Manual"/>
             <methodElementProperty xmi:id="_vsMKAE-oEeO-bLJ5HHk0ew" name="PUBLISH_CATEGORY" value="true"/>
