@@ -82,6 +82,7 @@
     <resourceDescriptors xmi:id="_0H3tYFFkEeOfL5qTYCy8wA" id="-1vKC4vBvKT_GJnFu5rnnQQ" uri="roles/3.%20Project%20Manager%20(GP).xmi"/>
     <resourceDescriptors xmi:id="_-zbRIFFkEeOfL5qTYCy8wA" id="-tEyi5aJrwIqJe9KGBXT_Og" uri="roles/4.%20Technical%20Leader%20(LT).xmi"/>
     <resourceDescriptors xmi:id="_GDlsEFFlEeOfL5qTYCy8wA" id="-Gahj_jw2tWWHx6zU4ybF-g" uri="roles/5.%20Development%20Team%20(ET).xmi"/>
+    <resourceDescriptors xmi:id="_dztkcFGIEeOWbe_vM0XDgg" id="-H-f5iC8MF8mwJgj3KWjGsg" uri="guidances/templates/Plan%20del%20Proyecto.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_NesdEEwSEeOMSJp31xEydQ" name="MDS-ISO 29110 Clínica Americana Juliaca" guid="_NesdEEwSEeOMSJp31xEydQ" presentationName="MDS-ISO 29110 Clínica Americana Juliaca" briefDescription="Documentacion para el desarrollo de software basado en la ISO 29110" authors="Edwin Calsin Quinto William Calisaya Pari" changeDate="2013-11-12T22:19:43.456-0500" version="0.1">
     <methodElementProperty xmi:id="_NeyjsEwSEeOMSJp31xEydQ" name="plugin_synFree" value="true"/>
@@ -245,7 +246,7 @@
               </containedArtifacts>
               <containedArtifacts xmi:id="_qSw8AEwrEeOMSJp31xEydQ" name="1.2 Productos de Salida (GP)" guid="_qSw8AEwrEeOMSJp31xEydQ" presentationName="1.2 Productos de Salida (GP)">
                 <methodElementProperty xmi:id="_s7yzwEwrEeOMSJp31xEydQ" name="me_edited" value="true"/>
-                <containedArtifacts xmi:id="_MM6JME9AEeOnwdUxxNzrEQ" name="1.2.1 Plan del Proyecto" guid="_MM6JME9AEeOnwdUxxNzrEQ" presentationName="1.2.1 Plan del Proyecto" briefDescription="Plan del Proyecto (actualizado)">
+                <containedArtifacts xmi:id="_MM6JME9AEeOnwdUxxNzrEQ" name="1.2.1 Plan del Proyecto" guid="_MM6JME9AEeOnwdUxxNzrEQ" presentationName="1.2.1 Plan del Proyecto" briefDescription="Plan del Proyecto (actualizado)" templates="_2KGCEFDbEeOjjsGew53ZXw">
                   <methodElementProperty xmi:id="_VI3-oE9AEeOnwdUxxNzrEQ" name="me_edited" value="true"/>
                   <presentation xmi:id="-waxksBwIjovbYzNPCHzcwA" href="uma://-waxksBwIjovbYzNPCHzcwA#-waxksBwIjovbYzNPCHzcwA"/>
                 </containedArtifacts>
@@ -585,7 +586,10 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Roadmap" xmi:id="_0xG14FDbEeOjjsGew53ZXw" name="new_roadmap" guid="_0xG14FDbEeOjjsGew53ZXw" presentationName="New Roadmap"/>
           <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_1fgM8FDbEeOjjsGew53ZXw" name="new_supporting_material" guid="_1fgM8FDbEeOjjsGew53ZXw" presentationName="New Supporting Material"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_2KGCEFDbEeOjjsGew53ZXw" name="new_template" guid="_2KGCEFDbEeOjjsGew53ZXw" presentationName="New Template"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_2KGCEFDbEeOjjsGew53ZXw" name="Plan del Proyecto" guid="_2KGCEFDbEeOjjsGew53ZXw" presentationName="Plan del Proyecto" briefDescription="este archivo es una plantilla para elaborar el plan del proyecto">
+            <methodElementProperty xmi:id="_dzHHgFGIEeOWbe_vM0XDgg" name="me_edited" value="true"/>
+            <presentation xmi:id="-H-f5iC8MF8mwJgj3KWjGsg" href="uma://-H-f5iC8MF8mwJgj3KWjGsg#-H-f5iC8MF8mwJgj3KWjGsg"/>
+          </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_2ythQFDbEeOjjsGew53ZXw" name="new_term_definition" guid="_2ythQFDbEeOjjsGew53ZXw" presentationName="New Term Definition"/>
           <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_3pszoFDbEeOjjsGew53ZXw" name="new_toolmentor" guid="_3pszoFDbEeOjjsGew53ZXw" presentationName="New Toolmentor"/>
           <contentElements xsi:type="org.eclipse.epf.uma:Whitepaper" xmi:id="_4Li8cFDbEeOjjsGew53ZXw" name="new_whitepaper" guid="_4Li8cFDbEeOjjsGew53ZXw" presentationName="New Whitepaper"/>
