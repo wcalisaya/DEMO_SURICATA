@@ -373,7 +373,7 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_lfMuAE9aEeOLrv7b1Xd62g" name="(GP 2.1) Monitoriar la ejecucion del plan del proyecto" guid="_lfMuAE9aEeOLrv7b1Xd62g" presentationName="(GP 2.1) Monitoriar la ejecucion del plan del proyecto" briefDescription="Monitoriar la ejecucion del plan del proyecto y registrar la informacion actual en el reporte de avance" performedBy="_UlwUcEwUEeOMSJp31xEydQ _YiGOMEwUEeOMSJp31xEydQ _fYgFUEwUEeOMSJp31xEydQ" mandatoryInput="_MM6JME9AEeOnwdUxxNzrEQ" output="_ZxalIE9CEeOnwdUxxNzrEQ">
             <methodElementProperty xmi:id="_xsrXgE9aEeOLrv7b1Xd62g" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_JmDyAE9cEeO4rNOZzda7hA" name="(GP 1.1) Revision y verificacion de los entregables y tareas" guid="_JmDyAE9cEeO4rNOZzda7hA" presentationName="(GP 1.1) Revision y verificacion de los entregables y tareas">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_JmDyAE9cEeO4rNOZzda7hA" name="(GP 1.1) Revision y verificacion de los entregables y tareas" guid="_JmDyAE9cEeO4rNOZzda7hA" presentationName="(GP 1.1) Revision y verificacion de los entregables y tareas" performedBy="_UlwUcEwUEeOMSJp31xEydQ _YiGOMEwUEeOMSJp31xEydQ" mandatoryInput="_GOSrIE8_EeOnwdUxxNzrEQ" output="_GOSrIE8_EeOnwdUxxNzrEQ _MM6JME9AEeOnwdUxxNzrEQ">
             <methodElementProperty xmi:id="_qB5yQE9cEeO4rNOZzda7hA" name="me_edited" value="true"/>
             <presentation xmi:id="-ks8f2fSZLliU6She2m8bvQ" href="uma://-ks8f2fSZLliU6She2m8bvQ#-ks8f2fSZLliU6She2m8bvQ"/>
           </contentElements>
