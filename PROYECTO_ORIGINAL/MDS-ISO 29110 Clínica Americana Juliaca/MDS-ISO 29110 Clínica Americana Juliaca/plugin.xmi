@@ -149,25 +149,6 @@
               <presentation xmi:id="-jWtnJk4HFpnE1bz9CjNFSg" href="uma://-jWtnJk4HFpnE1bz9CjNFSg#-jWtnJk4HFpnE1bz9CjNFSg"/>
             </subdiscipline>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_si66IFGkEeOCkoreo14d0Q" name="Actividades de SCRUM 29110" guid="_si66IFGkEeOCkoreo14d0Q" presentationName="Actividades de SCRUM 29110">
-            <methodElementProperty xmi:id="_51uM8FGkEeOCkoreo14d0Q" name="me_edited" value="true"/>
-            <subdiscipline xmi:id="_1nvJkFGkEeOCkoreo14d0Q" name="Actividades de GP" guid="_1nvJkFGkEeOCkoreo14d0Q" presentationName="Actividades de GP">
-              <methodElementProperty xmi:id="_52IcoFGkEeOCkoreo14d0Q" name="me_edited" value="true"/>
-              <subdiscipline xmi:id="_DkYqoFGlEeOCkoreo14d0Q" name="1. Planificación del Proyecto" guid="_DkYqoFGlEeOCkoreo14d0Q" presentationName="1. Planificación del Proyecto">
-                <methodElementProperty xmi:id="_IeB6IFGlEeOCkoreo14d0Q" name="me_edited" value="true"/>
-              </subdiscipline>
-              <subdiscipline xmi:id="_I4fBgFGlEeOCkoreo14d0Q" name="2. Ejecución del Plan del Proyecto" guid="_I4fBgFGlEeOCkoreo14d0Q" presentationName="2. Ejecución del Plan del Proyecto">
-                <methodElementProperty xmi:id="_N0H1EFGlEeOCkoreo14d0Q" name="me_edited" value="true"/>
-              </subdiscipline>
-              <subdiscipline xmi:id="_PipzcFGlEeOCkoreo14d0Q" name="3. Evaluación y Control del Proyecto" guid="_PipzcFGlEeOCkoreo14d0Q" presentationName="3. Evaluación y Control del Proyecto">
-                <methodElementProperty xmi:id="_RCToUFGlEeOCkoreo14d0Q" name="me_edited" value="true"/>
-              </subdiscipline>
-              <subdiscipline xmi:id="_SxP2YFGlEeOCkoreo14d0Q" name="new_discipline" guid="_SxP2YFGlEeOCkoreo14d0Q" presentationName="New Discipline"/>
-            </subdiscipline>
-            <subdiscipline xmi:id="_38VCYFGkEeOCkoreo14d0Q" name="Actividades de IS" guid="_38VCYFGkEeOCkoreo14d0Q" presentationName="Actividades de IS">
-              <methodElementProperty xmi:id="_52iFQFGkEeOCkoreo14d0Q" name="me_edited" value="true"/>
-            </subdiscipline>
-          </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NetEJEwSEeOMSJp31xEydQ" name="RoleSets" guid="_NetEJEwSEeOMSJp31xEydQ">
           <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_SIrMAEwqEeOMSJp31xEydQ" name="ROLES IDENTIFICADOS" guid="_SIrMAEwqEeOMSJp31xEydQ" presentationName="ROLES IDENTIFICADOS" roleSets="_T4RhYEwqEeOMSJp31xEydQ _-bT0EEwqEeOMSJp31xEydQ">
