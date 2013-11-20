@@ -85,6 +85,12 @@
     <resourceDescriptors xmi:id="_dztkcFGIEeOWbe_vM0XDgg" id="-H-f5iC8MF8mwJgj3KWjGsg" uri="guidances/templates/Plan%20del%20Proyecto.xmi"/>
     <resourceDescriptors xmi:id="_8U9tAFGYEeOCkoreo14d0Q" id="-smi2rWhwn7dHT55cyP7-1w" uri="guidances/supportingmaterials/INDEX.xmi"/>
     <resourceDescriptors xmi:id="_ZvQgcFGcEeOCkoreo14d0Q" id="-cP_llavRxg6uNzIF5njK1Q" uri="guidances/templates/SCRUM%2029110.xmi"/>
+    <resourceDescriptors xmi:id="_4rSZIFGvEeOdMvFst-kXFg" id="-DD4GlYBAVrMht26tSvLH4A" uri="guidances/templates/Acta%20de%20Reuniones.xmi"/>
+    <resourceDescriptors xmi:id="_h8jh8FGwEeOdMvFst-kXFg" id="-tpddk4dT6pTV-3ZO-idLsg" uri="guidances/templates/Respaldo%20del%20Repositorio%20del%20Proyecto.xmi"/>
+    <resourceDescriptors xmi:id="_gHv1EFGzEeOdMvFst-kXFg" id="-PKGeJCVinXqljFVP1JiCfQ" uri="guidances/templates/Acta%20de%20Aceptacion.xmi"/>
+    <resourceDescriptors xmi:id="_j6aOYFGzEeOdMvFst-kXFg" id="-aGLuPOUzLm9pqEYj9ULHUg" uri="guidances/templates/Solicitud%20de%20Cambio.xmi"/>
+    <resourceDescriptors xmi:id="_omXnMFGzEeOdMvFst-kXFg" id="-umq5SJhsoOLJ2I26YS3TDA" uri="guidances/templates/Acciones%20Correctivas.xmi"/>
+    <resourceDescriptors xmi:id="_3oSHMFGzEeOdMvFst-kXFg" id="-agTqZq7BHbejBZlZBHdn7w" uri="guidances/templates/Registro%20de%20Matriz%20de%20trazabilidad.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_NesdEEwSEeOMSJp31xEydQ" name="MDS-ISO 29110 Clínica Americana Juliaca" guid="_NesdEEwSEeOMSJp31xEydQ" presentationName="MDS-ISO 29110 Clínica Americana Juliaca" briefDescription="Documentacion para el desarrollo de software basado en la ISO 29110" authors="Edwin Calsin Quinto William Calisaya Pari" changeDate="2013-11-12T22:19:43.456-0500" version="0.1">
     <methodElementProperty xmi:id="_NeyjsEwSEeOMSJp31xEydQ" name="plugin_synFree" value="true"/>
@@ -239,7 +245,7 @@
                   <methodElementProperty xmi:id="_WwaZoE8_EeOnwdUxxNzrEQ" name="me_edited" value="true"/>
                   <presentation xmi:id="-xiWeOit3DtmOchgyTNfu2A" href="uma://-xiWeOit3DtmOchgyTNfu2A#-xiWeOit3DtmOchgyTNfu2A"/>
                 </containedArtifacts>
-                <containedArtifacts xmi:id="_YSvvEE8_EeOnwdUxxNzrEQ" name="1.1.3 Solicitud de Cambio {inicida}" guid="_YSvvEE8_EeOnwdUxxNzrEQ" presentationName="1.1.3 Solicitud de Cambio {iniciada}" briefDescription="Solicitud de Cambio (iniciada)">
+                <containedArtifacts xmi:id="_YSvvEE8_EeOnwdUxxNzrEQ" name="1.1.3 Solicitud de Cambio {inicida}" guid="_YSvvEE8_EeOnwdUxxNzrEQ" presentationName="1.1.3 Solicitud de Cambio {iniciada}" briefDescription="Solicitud de Cambio (iniciada)" templates="_gHnSMFGzEeOdMvFst-kXFg">
                   <methodElementProperty xmi:id="_ccHYME8_EeOnwdUxxNzrEQ" name="me_edited" value="true"/>
                   <presentation xmi:id="-oKT1Lasm2lyBa_46Ym5VtA" href="uma://-oKT1Lasm2lyBa_46Ym5VtA#-oKT1Lasm2lyBa_46Ym5VtA"/>
                 </containedArtifacts>
@@ -253,7 +259,7 @@
                   <methodElementProperty xmi:id="_VI3-oE9AEeOnwdUxxNzrEQ" name="me_edited" value="true"/>
                   <presentation xmi:id="-waxksBwIjovbYzNPCHzcwA" href="uma://-waxksBwIjovbYzNPCHzcwA#-waxksBwIjovbYzNPCHzcwA"/>
                 </containedArtifacts>
-                <containedArtifacts xmi:id="_WZmmsE9AEeOnwdUxxNzrEQ" name="1.2.2 Acta de Aceptación" guid="_WZmmsE9AEeOnwdUxxNzrEQ" presentationName="1.2.2 Acta de Aceptación">
+                <containedArtifacts xmi:id="_WZmmsE9AEeOnwdUxxNzrEQ" name="1.2.2 Acta de Aceptación" guid="_WZmmsE9AEeOnwdUxxNzrEQ" presentationName="1.2.2 Acta de Aceptación" templates="_Z__MoFGzEeOdMvFst-kXFg">
                   <methodElementProperty xmi:id="_emtLAE9AEeOnwdUxxNzrEQ" name="me_edited" value="true"/>
                   <presentation xmi:id="-yKqf9njMEfSvge9iVPcMGA" href="uma://-yKqf9njMEfSvge9iVPcMGA#-yKqf9njMEfSvge9iVPcMGA"/>
                 </containedArtifacts>
@@ -280,7 +286,7 @@
                   <methodElementProperty xmi:id="_KqebME9CEeOnwdUxxNzrEQ" name="me_edited" value="true"/>
                   <presentation xmi:id="-bDLQ3kI8ZXNamrdbeYvGYQ" href="uma://-bDLQ3kI8ZXNamrdbeYvGYQ#-bDLQ3kI8ZXNamrdbeYvGYQ"/>
                 </containedArtifacts>
-                <containedArtifacts xmi:id="_Lz-Z4E9CEeOnwdUxxNzrEQ" name="1.3.3 Acta de Reunión" guid="_Lz-Z4E9CEeOnwdUxxNzrEQ" presentationName="1.3.3 Acta de Reunión" briefDescription="Acta de Reunión">
+                <containedArtifacts xmi:id="_Lz-Z4E9CEeOnwdUxxNzrEQ" name="1.3.3 Acta de Reunión" guid="_Lz-Z4E9CEeOnwdUxxNzrEQ" presentationName="1.3.3 Acta de Reunión" briefDescription="Acta de Reunión" templates="_1Hp6UFGvEeOdMvFst-kXFg">
                   <methodElementProperty xmi:id="_QYXyIE9CEeOnwdUxxNzrEQ" name="me_edited" value="true"/>
                   <presentation xmi:id="-ZdNVYqh1aZ8RKxRU7y9EJA" href="uma://-ZdNVYqh1aZ8RKxRU7y9EJA#-ZdNVYqh1aZ8RKxRU7y9EJA"/>
                 </containedArtifacts>
@@ -602,6 +608,30 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_q9IXIFGbEeOCkoreo14d0Q" name="SCRUM 29110" guid="_q9IXIFGbEeOCkoreo14d0Q" presentationName="SCRUM 29110" briefDescription="Intruduccion a Scrum 29110">
             <methodElementProperty xmi:id="_ybY4cFGbEeOCkoreo14d0Q" name="me_edited" value="true"/>
             <presentation xmi:id="-cP_llavRxg6uNzIF5njK1Q" href="uma://-cP_llavRxg6uNzIF5njK1Q#-cP_llavRxg6uNzIF5njK1Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_1Hp6UFGvEeOdMvFst-kXFg" name="Acta de Reuniones" guid="_1Hp6UFGvEeOdMvFst-kXFg" presentationName="Acta de Reuniones" briefDescription="Acta de Reuniones">
+            <methodElementProperty xmi:id="_4rIBEFGvEeOdMvFst-kXFg" name="me_edited" value="true"/>
+            <presentation xmi:id="-DD4GlYBAVrMht26tSvLH4A" href="uma://-DD4GlYBAVrMht26tSvLH4A#-DD4GlYBAVrMht26tSvLH4A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="__PlzoFGvEeOdMvFst-kXFg" name="Respaldo del Repositorio del Proyecto" guid="__PlzoFGvEeOdMvFst-kXFg" presentationName="Respaldo del Repositorio del Proyecto" briefDescription="Respaldo del Repositorio del Proyecto">
+            <methodElementProperty xmi:id="_h8dbUFGwEeOdMvFst-kXFg" name="me_edited" value="true"/>
+            <presentation xmi:id="-tpddk4dT6pTV-3ZO-idLsg" href="uma://-tpddk4dT6pTV-3ZO-idLsg#-tpddk4dT6pTV-3ZO-idLsg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_Z__MoFGzEeOdMvFst-kXFg" name="Acta de Aceptacion" guid="_Z__MoFGzEeOdMvFst-kXFg" presentationName="Acta de Aceptacion" briefDescription="Acta de Aceptacion">
+            <methodElementProperty xmi:id="_j6RrgFGzEeOdMvFst-kXFg" name="me_edited" value="true"/>
+            <presentation xmi:id="-PKGeJCVinXqljFVP1JiCfQ" href="uma://-PKGeJCVinXqljFVP1JiCfQ#-PKGeJCVinXqljFVP1JiCfQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_gHnSMFGzEeOdMvFst-kXFg" name="Solicitud de Cambio" guid="_gHnSMFGzEeOdMvFst-kXFg" presentationName="Solicitud de Cambio" briefDescription="Solicitud de Cambio">
+            <methodElementProperty xmi:id="_j6wzsFGzEeOdMvFst-kXFg" name="me_edited" value="true"/>
+            <presentation xmi:id="-aGLuPOUzLm9pqEYj9ULHUg" href="uma://-aGLuPOUzLm9pqEYj9ULHUg#-aGLuPOUzLm9pqEYj9ULHUg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_lkRIIFGzEeOdMvFst-kXFg" name="Acciones Correctivas" guid="_lkRIIFGzEeOdMvFst-kXFg" presentationName="Acciones Correctivas" briefDescription="Acciones Correctivas">
+            <methodElementProperty xmi:id="_omSHoFGzEeOdMvFst-kXFg" name="me_edited" value="true"/>
+            <presentation xmi:id="-umq5SJhsoOLJ2I26YS3TDA" href="uma://-umq5SJhsoOLJ2I26YS3TDA#-umq5SJhsoOLJ2I26YS3TDA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_0Hdr0FGzEeOdMvFst-kXFg" name="Registro de Matriz de trazabilidad" guid="_0Hdr0FGzEeOdMvFst-kXFg" presentationName="Registro de Matriz de trazabilidad" briefDescription="Registro de Matriz de trazabilidad">
+            <methodElementProperty xmi:id="_3oC2oFGzEeOdMvFst-kXFg" name="me_edited" value="true"/>
+            <presentation xmi:id="-agTqZq7BHbejBZlZBHdn7w" href="uma://-agTqZq7BHbejBZlZBHdn7w#-agTqZq7BHbejBZlZBHdn7w"/>
           </contentElements>
         </childPackages>
       </childPackages>

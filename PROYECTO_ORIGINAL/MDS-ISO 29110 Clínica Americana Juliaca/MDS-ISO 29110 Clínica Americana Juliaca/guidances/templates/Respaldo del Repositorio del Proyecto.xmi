@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tpddk4dT6pTV-3ZO-idLsg" name="Respaldo del Repositorio del Proyecto,__PlzoFGvEeOdMvFst-kXFg" guid="-tpddk4dT6pTV-3ZO-idLsg" changeDate="2013-11-20T01:51:33.560-0500">
+  <mainDescription>&lt;p>&#xD;
+    Contenedor electrónico para almacenar los productos de trabajo y entregables del proyecto. Puede tener las siguientes&#xD;
+    características:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Almacena los productos de trabajo del proyecto&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Almacena los productos entregables ya liberados&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Capacidades de almacenamiento y recuperación&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Facilidad para navegar en su contenido&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Enlista los contenidos y la descripción de los atributos&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Comparte y transfiere productos de trabajo entre los grupos involucrados&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Controles de acceso efectivos&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Mantiene la descripción de los productos de trabajo&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Recuperación de versiones anteriores de los productos de trabajo&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Facilidad para reportar el estado de los productos de trabajo.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Los cambios a los productos de trabajo son rastreados a la Solicitud de Cambio.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  <attachments>resources/Respaldo del repositorio del proyecto.docx</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>
