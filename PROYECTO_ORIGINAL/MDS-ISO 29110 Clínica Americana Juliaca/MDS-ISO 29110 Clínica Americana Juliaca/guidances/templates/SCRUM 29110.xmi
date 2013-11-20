@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cP_llavRxg6uNzIF5njK1Q" name="new_template,_q9IXIFGbEeOCkoreo14d0Q" guid="-cP_llavRxg6uNzIF5njK1Q" changeDate="2013-11-20T00:14:32.647-0500">
+  <mainDescription>&lt;p>&#xD;
+    &lt;span>&lt;font size=&quot;2&quot;>&lt;strong>SCRUM 29110&lt;/strong>&lt;/font>&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;span>&lt;font size=&quot;2&quot;>Las metodologías ágiles representan una alternativa para el desarrollo de sistemas de software,&#xD;
+    centrada en el factor humano y el roducto software, valorizando la relación con el cliente y el desarrollo incremental&#xD;
+    del software. Estas metodologías ofrecen entregas frecuentes de software funcional, permitir cambios de requerimientos&#xD;
+    y participación directa con el cliente &amp;nbsp;en el desarrollo. &amp;nbsp;Una de estas metodologías es Scrum , que se define&#xD;
+    como un proceso iterativo incremental y empírico para administrar y controlar el trabajo de&#xD;
+    desarrollo.&lt;/font>&amp;nbsp;&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;p>&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;resources/SCRUM_29110.png&quot; width=&quot;800&quot; height=&quot;1000&quot; usemap=&quot;#map&quot; /> &lt;map id=&quot;Map&quot; name=&quot;Map&quot;>&#xD;
+        &lt;area&#xD;
+        href=&quot;./../../../MDS-ISO 29110 Clínica Americana Juliaca/disciplines/GP.2 Ejecución del Plan del Proyecto_BAF91C43.html&quot;&#xD;
+         shape=&quot;rect&quot; coords=&quot;327,90,700,102&quot; guid=&quot;_5EwckEweEeOMSJp31xEydQ&quot; />&#xD;
+        &lt;area&#xD;
+        href=&quot;./../../../MDS-ISO 29110 Clínica Americana Juliaca/disciplines/GP.3 Evaluación y Control del Proyecto_7DBD455F.html&quot;&#xD;
+         shape=&quot;rect&quot; coords=&quot;327,112,700,127&quot; guid=&quot;_DIQh0EwfEeOMSJp31xEydQ&quot; />&#xD;
+        &lt;area&#xD;
+        href=&quot;./../../../MDS-ISO 29110 Clínica Americana Juliaca/disciplines/IS.1 Inicio de la Implementación de Software_225C2F07.html&quot;&#xD;
+         shape=&quot;rect&quot; coords=&quot;327,138,700,150&quot; guid=&quot;_cTTpcEwpEeOMSJp31xEydQ&quot; />&#xD;
+        &lt;area&#xD;
+        href=&quot;./../../../MDS-ISO 29110 Clínica Americana Juliaca/disciplines/IS.2 Análisis de Requisitos del Software_D0546010.html&quot;&#xD;
+         shape=&quot;rect&quot; coords=&quot;327,160,740,172&quot; guid=&quot;_mVF3cEwpEeOMSJp31xEydQ&quot; />&#xD;
+        &lt;area&#xD;
+        href=&quot;./../../../MDS-ISO 29110 Clínica Americana Juliaca/disciplines/IS.4 Construcción del Software_39E670B.html&quot;&#xD;
+        shape=&quot;rect&quot; coords=&quot;330,185,500,197&quot; guid=&quot;_30S5QEwpEeOMSJp31xEydQ&quot; />&#xD;
+        &lt;area&#xD;
+        href=&quot;./../../../MDS-ISO 29110 Clínica Americana Juliaca/disciplines/IS.5 Integración y Pruebas del Software_189D47FB.html&quot;&#xD;
+         shape=&quot;rect&quot; coords=&quot;330,210,600,220&quot; guid=&quot;__2o_EEwpEeOMSJp31xEydQ&quot; />&#xD;
+        &lt;area href=&quot;./../../../MDS-ISO 29110 Clínica Americana Juliaca/disciplines/IS.6 Entrega del Producto_FD046465.html&quot;&#xD;
+        shape=&quot;rect&quot; coords=&quot;330,230,460,240&quot; guid=&quot;_HKlGwEwqEeOMSJp31xEydQ&quot; />&#xD;
+        &lt;area&#xD;
+        href=&quot;./../../../MDS-ISO 29110 Clínica Americana Juliaca/disciplines/GP.1 Planificación del Proyecto_91EB1780.html&quot;&#xD;
+        shape=&quot;rect&quot; coords=&quot;50,725,400,743&quot; guid=&quot;_ww6-IEweEeOMSJp31xEydQ&quot; />&#xD;
+        &lt;area href=&quot;./../../../MDS-ISO 29110 Clínica Americana Juliaca/disciplines/GP.4 Cierre del Proyecto_7B7F1ECD.html&quot;&#xD;
+        shape=&quot;rect&quot; coords=&quot;550,700,790,720&quot; guid=&quot;_KsnEEEwfEeOMSJp31xEydQ&quot; />&#xD;
+    &lt;/map>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:GuidanceDescription>

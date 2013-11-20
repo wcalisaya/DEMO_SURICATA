@@ -83,6 +83,8 @@
     <resourceDescriptors xmi:id="_-zbRIFFkEeOfL5qTYCy8wA" id="-tEyi5aJrwIqJe9KGBXT_Og" uri="roles/4.%20Technical%20Leader%20(LT).xmi"/>
     <resourceDescriptors xmi:id="_GDlsEFFlEeOfL5qTYCy8wA" id="-Gahj_jw2tWWHx6zU4ybF-g" uri="roles/5.%20Development%20Team%20(ET).xmi"/>
     <resourceDescriptors xmi:id="_dztkcFGIEeOWbe_vM0XDgg" id="-H-f5iC8MF8mwJgj3KWjGsg" uri="guidances/templates/Plan%20del%20Proyecto.xmi"/>
+    <resourceDescriptors xmi:id="_8U9tAFGYEeOCkoreo14d0Q" id="-smi2rWhwn7dHT55cyP7-1w" uri="guidances/supportingmaterials/INDEX.xmi"/>
+    <resourceDescriptors xmi:id="_ZvQgcFGcEeOCkoreo14d0Q" id="-cP_llavRxg6uNzIF5njK1Q" uri="guidances/templates/SCRUM%2029110.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_NesdEEwSEeOMSJp31xEydQ" name="MDS-ISO 29110 Clínica Americana Juliaca" guid="_NesdEEwSEeOMSJp31xEydQ" presentationName="MDS-ISO 29110 Clínica Americana Juliaca" briefDescription="Documentacion para el desarrollo de software basado en la ISO 29110" authors="Edwin Calsin Quinto William Calisaya Pari" changeDate="2013-11-12T22:19:43.456-0500" version="0.1">
     <methodElementProperty xmi:id="_NeyjsEwSEeOMSJp31xEydQ" name="plugin_synFree" value="true"/>
@@ -147,6 +149,25 @@
               <presentation xmi:id="-jWtnJk4HFpnE1bz9CjNFSg" href="uma://-jWtnJk4HFpnE1bz9CjNFSg#-jWtnJk4HFpnE1bz9CjNFSg"/>
             </subdiscipline>
           </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_si66IFGkEeOCkoreo14d0Q" name="Actividades de SCRUM 29110" guid="_si66IFGkEeOCkoreo14d0Q" presentationName="Actividades de SCRUM 29110">
+            <methodElementProperty xmi:id="_51uM8FGkEeOCkoreo14d0Q" name="me_edited" value="true"/>
+            <subdiscipline xmi:id="_1nvJkFGkEeOCkoreo14d0Q" name="Actividades de GP" guid="_1nvJkFGkEeOCkoreo14d0Q" presentationName="Actividades de GP">
+              <methodElementProperty xmi:id="_52IcoFGkEeOCkoreo14d0Q" name="me_edited" value="true"/>
+              <subdiscipline xmi:id="_DkYqoFGlEeOCkoreo14d0Q" name="1. Planificación del Proyecto" guid="_DkYqoFGlEeOCkoreo14d0Q" presentationName="1. Planificación del Proyecto">
+                <methodElementProperty xmi:id="_IeB6IFGlEeOCkoreo14d0Q" name="me_edited" value="true"/>
+              </subdiscipline>
+              <subdiscipline xmi:id="_I4fBgFGlEeOCkoreo14d0Q" name="2. Ejecución del Plan del Proyecto" guid="_I4fBgFGlEeOCkoreo14d0Q" presentationName="2. Ejecución del Plan del Proyecto">
+                <methodElementProperty xmi:id="_N0H1EFGlEeOCkoreo14d0Q" name="me_edited" value="true"/>
+              </subdiscipline>
+              <subdiscipline xmi:id="_PipzcFGlEeOCkoreo14d0Q" name="3. Evaluación y Control del Proyecto" guid="_PipzcFGlEeOCkoreo14d0Q" presentationName="3. Evaluación y Control del Proyecto">
+                <methodElementProperty xmi:id="_RCToUFGlEeOCkoreo14d0Q" name="me_edited" value="true"/>
+              </subdiscipline>
+              <subdiscipline xmi:id="_SxP2YFGlEeOCkoreo14d0Q" name="new_discipline" guid="_SxP2YFGlEeOCkoreo14d0Q" presentationName="New Discipline"/>
+            </subdiscipline>
+            <subdiscipline xmi:id="_38VCYFGkEeOCkoreo14d0Q" name="Actividades de IS" guid="_38VCYFGkEeOCkoreo14d0Q" presentationName="Actividades de IS">
+              <methodElementProperty xmi:id="_52iFQFGkEeOCkoreo14d0Q" name="me_edited" value="true"/>
+            </subdiscipline>
+          </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NetEJEwSEeOMSJp31xEydQ" name="RoleSets" guid="_NetEJEwSEeOMSJp31xEydQ">
           <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_SIrMAEwqEeOMSJp31xEydQ" name="ROLES IDENTIFICADOS" guid="_SIrMAEwqEeOMSJp31xEydQ" presentationName="ROLES IDENTIFICADOS" roleSets="_T4RhYEwqEeOMSJp31xEydQ _-bT0EEwqEeOMSJp31xEydQ">
@@ -177,6 +198,7 @@
             <methodElementProperty xmi:id="_80ddQE-nEeO-bLJ5HHk0ew" name="CategoryElementsSortType" value="Manual"/>
             <methodElementProperty xmi:id="_vsMKAE-oEeO-bLJ5HHk0ew" name="PUBLISH_CATEGORY" value="true"/>
             <presentation xmi:id="-0-2dvTSe2cUFCPoGYrG3gg" href="uma://-0-2dvTSe2cUFCPoGYrG3gg#-0-2dvTSe2cUFCPoGYrG3gg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Template" href="#_q9IXIFGbEeOCkoreo14d0Q"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" href="#_h0Nn4EwWEeOMSJp31xEydQ"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:WorkProductType" href="#_YNum4FDZEeOjjsGew53ZXw"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" href="#_SIrMAEwqEeOMSJp31xEydQ"/>
@@ -585,7 +607,10 @@
             <presentation xmi:id="-HYypX8KRhE302qdDie04Ig" href="uma://-HYypX8KRhE302qdDie04Ig#-HYypX8KRhE302qdDie04Ig"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Roadmap" xmi:id="_0xG14FDbEeOjjsGew53ZXw" name="new_roadmap" guid="_0xG14FDbEeOjjsGew53ZXw" presentationName="New Roadmap"/>
-          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_1fgM8FDbEeOjjsGew53ZXw" name="new_supporting_material" guid="_1fgM8FDbEeOjjsGew53ZXw" presentationName="New Supporting Material"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_1fgM8FDbEeOjjsGew53ZXw" name="INDEX" guid="_1fgM8FDbEeOjjsGew53ZXw" presentationName="INDEX" briefDescription="INDEX">
+            <methodElementProperty xmi:id="_7NThYFGYEeOCkoreo14d0Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-smi2rWhwn7dHT55cyP7-1w" href="uma://-smi2rWhwn7dHT55cyP7-1w#-smi2rWhwn7dHT55cyP7-1w"/>
+          </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_2KGCEFDbEeOjjsGew53ZXw" name="Plan del Proyecto" guid="_2KGCEFDbEeOjjsGew53ZXw" presentationName="Plan del Proyecto" briefDescription="este archivo es una plantilla para elaborar el plan del proyecto">
             <methodElementProperty xmi:id="_dzHHgFGIEeOWbe_vM0XDgg" name="me_edited" value="true"/>
             <presentation xmi:id="-H-f5iC8MF8mwJgj3KWjGsg" href="uma://-H-f5iC8MF8mwJgj3KWjGsg#-H-f5iC8MF8mwJgj3KWjGsg"/>
@@ -593,6 +618,10 @@
           <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_2ythQFDbEeOjjsGew53ZXw" name="new_term_definition" guid="_2ythQFDbEeOjjsGew53ZXw" presentationName="New Term Definition"/>
           <contentElements xsi:type="org.eclipse.epf.uma:ToolMentor" xmi:id="_3pszoFDbEeOjjsGew53ZXw" name="new_toolmentor" guid="_3pszoFDbEeOjjsGew53ZXw" presentationName="New Toolmentor"/>
           <contentElements xsi:type="org.eclipse.epf.uma:Whitepaper" xmi:id="_4Li8cFDbEeOjjsGew53ZXw" name="new_whitepaper" guid="_4Li8cFDbEeOjjsGew53ZXw" presentationName="New Whitepaper"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_q9IXIFGbEeOCkoreo14d0Q" name="SCRUM 29110" guid="_q9IXIFGbEeOCkoreo14d0Q" presentationName="SCRUM 29110" briefDescription="Intruduccion a Scrum 29110">
+            <methodElementProperty xmi:id="_ybY4cFGbEeOCkoreo14d0Q" name="me_edited" value="true"/>
+            <presentation xmi:id="-cP_llavRxg6uNzIF5njK1Q" href="uma://-cP_llavRxg6uNzIF5njK1Q#-cP_llavRxg6uNzIF5njK1Q"/>
+          </contentElements>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_NetELEwSEeOMSJp31xEydQ" name="CapabilityPatterns" guid="_NetELEwSEeOMSJp31xEydQ">
